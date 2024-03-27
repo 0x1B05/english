@@ -55,7 +55,7 @@ They're trying to force that sale,..
 
 == Muslim
 
-#strike()[Next,] #underline()[_Next up_] in the Muslim canlendar, one of the holist #strike()[secret months] #underline()[_most sacred months_] #strike()[, it's] #underline()[_is_] the ninth month, or *Ramadan*. Several Muslim countries announced the Monday as the first day of Ramadan, and the holy month #underline()[_of fasting,_] where Muslim may not consume food or drinks from sunrise and sunset. The exact start date of Ramadan changes because it's based on #underline()[_clerics seeing a crescent_] or new moon as the *Islamic* canlendar follows the lunar cycle. 
+#strike()[Next,] #underline()[_Next up_] in the Muslim canlendar, one of the holist #strike()[secret months] #underline()[_most sacred months_] #strike()[, it's] #underline()[_is_] the ninth month, or *Ramadan*. Several Muslim countries announced the Monday as the first day of Ramadan, and the holy month #underline()[_of fasting,_] where Muslim may not consume food or drinks from sunrise and sunset. The exact start date of Ramadan changes because it's based on #underline()[_*clerics* seeing a *crescent*_] or new moon as the *Islamic* canlendar follows the lunar cycle. 
 
 There were #underline()[_hopes of a possible ceasefire in the Gaza Strip_] before start the Ramadan, but both Hamas and *Israel* could not reach a deal. While the war goes on, there's *humanitarian* crisis that continues to *grapple the Gaza Strip*  The U.S. #underline()[_is teaming up_] with several other nations by airdropping #underline()[_aid_] into Gaza , but #underline()[_aid_] agencies recommended it would be much more efficient if this supplies were transported on the ground. Our chief international *correspondent*, *Clarissa Ward*, is here to give us the why.
 
@@ -97,6 +97,64 @@ From the #strike()[house] #underline()[_health_] ministry inside Gaza are now sa
 
 == Kenya
 
-Let's head to Kenya now, where the eastern country is dealing with the rise... with wide .. of population. Over ... in ... cause problem that ... each other and competing for food. It's such a concern that Kenya of wide service is transporting 21 ... to a new location.
+Let's head to Kenya now, where the #strike[eastern] #underline[East] country is dealing with #strike[the] #underline[_a_] rise #underline[_in the *rhinoceros*_] of population. #underline[_Overcrowding_] in #underline[_*sanctuaries* has_] cause problem #strike[that] #underline[_such as rhinos attacking_] each other and competing for food. It's such a concern that Kenya #strike[of wide] #underline[_Wildlife Service_] is transporting 21 rhinos to a new location.
 
-It takes nearly a dozen people to get this ... With .. securely, 100 hundred miles away. Kenya has an unusual problem, .. populations here are actually going up, so Safia and others have this overcrowded .. century in .. Kenya, a getting a new home. Decades ago, .. run free in Africa, but in under just 20 years
+It takes nearly a dozen people to get this #underline[_five-year-old black rhino up on its feet as the *tranquilizer* *wears off*._] With #underline[_tracker_] securely #underline[_*glued to* her horn,_] she is ready to move 100 hundred miles away. Kenya has an unusual problem. Rhino populations here are actually going up, so Safia and others have this overcrowded #strike[century] #underline[_sancturay in central_] Kenya #strike[, a] #underline[are] getting a new home. Decades ago, 20,000 eastern black rhinos like this one run free in Africa. But in just under 20 years the numbers #underline[_*plummeted*_] to below 400 as #underline[_*poachers*_] hunted them for their precious #underline[_*horns*_]. Now Kenya rhinos #underline[_are making a comebac_] thanks to #underline[_anti-poaching efforts_] #strike[anchors]. But overcrowding in #strike[centuries] #underline[_sanctuaries_] has become a problem for a #underline[_*solitary*_] animal.
+
+To #strike[get them more living space] #underline[_give them more roaming space_], 21 rhinos were taking to a brand new sancturay in #underline[Loisaba Conservancy]. They #strike[had] #underline[are] the first rhino#underline[s] to live on the land in #strike[15] #underline[50] years.
+
+=== words and phrases
+
+==== words
+
+- _rhinocero_
+- _sancturies_
+- _tranquilizer_
+- _plumete_
+- _poache_, _poacher_
+- _solitary_
+
+==== phrases
+
+- _a feather in one's cap_
+- _in stride_
+- _wears off_
+- _be glued to_
+
+== Bird
+
+For today's #underline[story's getting a] 10 out of 10, a video#underline[-bombing] bird doing its best to break up #strike[and] #underline[a] beat on broadcast tv. CNN's #underline[Jeanne Moos] has more.
+
+Look at this, reporters are supposed to be able to #underline[_*wing it*_], but this is something #strike[like] #underline[out of the] birds. Ok, maybe not that #strike[stream] #underline[extreme]. But #underline[Australia reporter Ursula Heger] was #strike[fighting] #underline[_*filing*_] a #underline[report] for 10 News First#strike[. When] #underline[when] she got #underline[dive-bombed] over and over. #underline[dive-bombed] #strike[for] nine times. Her own station called it #underline[_*impeckable* *journalism*_]  Instead doing this, #underline[Ursula did this.]  
+
+#strike[We should] #underline[_At least she didn't_] get used #strike[to] a landing #underline[_strip_] by, say, a #underline[_*robin*_] or a #underline[_pet_] parrot. And Ursula didn't get #strike[his] #underline[_her_] earbud #underline[_*plucked*_] by this reporter in #underline[_*Chile*_]
+Ironically, he was reporting on the rising *roberies*. They did manage to get the earbud back from the parrot.
+
+#underline[_The way Ursula_] handle the attack #strike[as the ...] #underline[_was a feather in her cap._] #underline[_Could have been worse if she got_] #strike[She would be] pecked by a *woodpecker*.
+
+Talk about #underline[_*foul play* and a "hawkward"_] situation, but that reporter had no #underline[_*egrets*_] taking the #strike[bird] #underline[_"birden"_] in #underline[_*stride*_], #strike[delivery] #underline[_delivering_] #strike[a peckable] #underline[_an impeckable report that was like *poultry*_] report in motion.
+
+All right. Remember tomorrow's ... follow me . I'm Coy Wire. 
+#underline[_Drop_] your unique vocabulary #underline[_in the comment section on my most recent post and_] we're suppose to choose a winner to work into tomorrow show.
+
+=== words and phrases
+
+==== words
+
+- _wing_
+- _impeckable_
+- _journalism_
+- _a landing strip_
+- _robin_
+- _pluck_
+- _robberies_
+- _peck_
+- _woodpecker_
+- _foul play_
+- _egret_
+- _poultry_
+
+==== phrases
+
+- _in stride_
+
