@@ -80,6 +80,49 @@ Has #strike[ such a thing ] it happened to you? Have you ever put your pants int
 #pagebreak()
 = A famous monastery
 
+== 短句改长句练习
+
+The Great St. Bernard Pass connects Switzerland to Italy. At 2, 473 metres, it is the highest mountain pass in Europe. The famous monastery of St. Bernard, which was founded in the eleventh century, lies about a mile away. 
+
+#example("1")[
+  The Great St. Bernard Pass, #underline()[standing at 2,473 metres], connects Switzerland to Italy and #underline()[holds the distinction of being the highest mountain pass] in Europe, and about a mile away #underline()[lies the famous St. Bernard Monastery], founded in the eleventh century.
+]
+
+#example("2")[
+  The highest mountain pass in Europe, the Great St. Bernard pass, stands 2,473 at #underline()[an impressive 2, 473 metres], connecting Switzerland to Italy.
+  A mile away lies from this lofty pass lies the famous St. Bernard monastery, founded in 11th century.
+]
+
+For hundreds of years, St. Bernard dogs have saved the lives of travellers crossing the dangerous Pass. These friendly dogs, which were first brought from Asia, were used as watchdogs even in Roman times.
+
+#example("1")[
+  For hundreds of years, St. Bernard dogs, #underline()[a friendly breed] first brought from Asia were used as watchdogs even in Roman times and have saved the lives of travellers crossing the dangerous Pass.
+]
+
+Now that a tunnel has been built through the mountains, the Pass is less dangerous, but each year, the dogs are still sent out into the snow whenever a traveller is in difficulty. Despite the new tunnel, there are still a few people who rashly attempt to cross the Pass on foot.
+
+#example("1")[
+  Now that a tunnel has been built through the mountains, the Pass is less dangerous, but each year, the dogs are still sent out into the snow whenever a traveller is in difficulty, #underline()[for] there are still a few people who rashly attempt to cross the Pass on foot #underline()[despite the new tunnel].
+]
+
+During the summer months, the monastery is very busy, for it is visited by thousands of people who cross the Pass in cars. As there are so many people about, the dogs have to be kept in a special enclosure.
+
+In winter, however, life at the monastery is quite different. The temperature drops to -30° and very few people attempt to cross the Pass. The monks prefer winter to summer for they have more privacy. The dogs have greater freedom, too, for they are allowed to wander outside their enclosure. The only regular visitors to the monastery in winter are parties of skiers who go there at Christmas and Easter. These young people, who love the peace of the mountains, always receive a warm welcome at St. Bernard's monastery.
+
+#example("my version")[
+  In winter, however, life at the monastery is quite different, for the temperature drops to -30° and very few people attempt to cross the Pass.
+  The monks prefer winter to summer for they have more privacy, #underline()[either do the dogs have greater freedom], for they are allowed to wander outside their enclosure.
+  The only regular visitors to the monastery in winter are parties of skiers who love the peace of the mountains and go there at Christmas and Easter, always receving a warm welcome at St. Bernard's monastery.
+]
+#example("Larry's version")[
+  #underline()[As winter descends upon the monastery, bringing temperatures to as low as -30° and dissuading all but a brave few from attempting to cross the Pass], life #underline()[undergoes a shift] here, where monks #underline()[find solace] in the winter months, #underline()[appreciating the heightened privacy], and the dogs, too #underline()[revel in increased freedom] as they roam beyond their usual enclosure.
+  During this season, the monasteries exclusive visitors consist of skiing parties drawn to the mountains serene ambiance, warmly welcomed at St. Bernard during the festival periods of Christmas and Easter.
+]
+
+#tip("Tip")[
+    全是长句会非常令人窒息，要注意长短结合，长句中间搭配相应的短句。这里只是用作练习。
+]
+
 == 参考译文
 
 圣伯纳德大山口连接着瑞士与意大利，海拔2，473米，是欧洲最高的山口。11世纪建造的著名的圣伯纳德修道院位于离山口1英里远的地方。几百年来，圣伯纳德修道院驯养的狗拯救了许多翻越这道山口的旅游者的生命。这些最先从亚洲引进的狗，待人友好，早在罗马时代就给人当看门狗了。如今由于在山里开挖了隧道，翻越山口已不那么危险了。但每年还要派狗到雪地里去帮助那些遇到困难的旅游者。尽管修通了隧道，但仍有一些人想冒险徒步跨越圣伯纳德山口。
