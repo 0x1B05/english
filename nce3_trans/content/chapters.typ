@@ -89,14 +89,14 @@ The Great St. Bernard Pass connects Switzerland to Italy. At 2, 473 metres, it i
 ]
 
 #example("2")[
-  The highest mountain pass in Europe, the Great St. Bernard pass, stands 2,473 at #underline()[an impressive 2, 473 metres], connecting Switzerland to Italy.
-  A mile away lies from this lofty pass lies the famous St. Bernard monastery, founded in 11th century.
+  The highest mountain pass in Europe, the Great St. Bernard pass, stands at #underline()[an impressive 2, 473 metres], connecting Switzerland to Italy.
+  #underline[A mile away from this lofty pass lies the famous St. Bernard monastery], founded in 11th century.
 ]
 
-For hundreds of years, St. Bernard dogs have saved the lives of travellers crossing the dangerous Pass. These friendly dogs, which were first brought from Asia, were used as watchdogs even in Roman times.
+For hundreds of years, St. Bernard dogs have saved the lives of travellers crossing the dangerous Pass. These friendly dogs, which were first brought from Asia, were used as watchdogs even in Roman Times.
 
 #example("1")[
-  For hundreds of years, St. Bernard dogs, #underline()[a friendly breed] first brought from Asia were used as watchdogs even in Roman times and have saved the lives of travellers crossing the dangerous Pass.
+  For hundreds of years, St. Bernard dogs, #underline()[a friendly breed] first brought from Asia were used as watchdogs even in Roman Times and have saved the lives of travellers crossing the dangerous Pass.
 ]
 
 Now that a tunnel has been built through the mountains, the Pass is less dangerous, but each year, the dogs are still sent out into the snow whenever a traveller is in difficulty. Despite the new tunnel, there are still a few people who rashly attempt to cross the Pass on foot.
@@ -115,8 +115,8 @@ In winter, however, life at the monastery is quite different. The temperature dr
   The only regular visitors to the monastery in winter are parties of skiers who love the peace of the mountains and go there at Christmas and Easter, always receving a warm welcome at St. Bernard's monastery.
 ]
 #example("Larry's version")[
-  #underline()[As winter descends upon the monastery, bringing temperatures to as low as -30° and dissuading all but a brave few from attempting to cross the Pass], life #underline()[undergoes a shift] here, where monks #underline()[find solace] in the winter months, #underline()[appreciating the heightened privacy], and the dogs, too #underline()[revel in increased freedom] as they roam beyond their usual enclosure.
-  During this season, the monasteries exclusive visitors consist of skiing parties drawn to the mountains serene ambiance, warmly welcomed at St. Bernard during the festival periods of Christmas and Easter.
+  #underline()[As winter descends upon the monastery, bringing temperatures to as low as -30° and *dissuading all but a brave few from attempting to cross the Pass*], life #underline()[undergoes a shift] here, where monks #underline()[find solace] in the winter months, #underline()[appreciating the heightened privacy], and the dogs too, #underline()[*revel* in increased freedom] as they roam beyond their usual enclosure.
+During this season, the exclusive visitors to the monastery consist of skiing parties attracted by the mountain's *serene ambiance*, who are warmly welcomed at St. Bernard during the festival periods of Christmas and Easter.
 ]
 
 #tip("Tip")[
@@ -128,6 +128,14 @@ In winter, however, life at the monastery is quite different. The temperature dr
 圣伯纳德大山口连接着瑞士与意大利，海拔2，473米，是欧洲最高的山口。11世纪建造的著名的圣伯纳德修道院位于离山口1英里远的地方。几百年来，圣伯纳德修道院驯养的狗拯救了许多翻越这道山口的旅游者的生命。这些最先从亚洲引进的狗，待人友好，早在罗马时代就给人当看门狗了。如今由于在山里开挖了隧道，翻越山口已不那么危险了。但每年还要派狗到雪地里去帮助那些遇到困难的旅游者。尽管修通了隧道，但仍有一些人想冒险徒步跨越圣伯纳德山口。
 
 夏天的几个月里，修道院十分忙碌，因为有成千上万的人驾车通过山口，顺道来修道院参观。由于来人太多，狗被关在专门的围栏里。然而到了冬天，修道院里的生活则是另一番景象。气温下降到零下30度，试图跨越山口的人寥寥无几。修道士们喜欢冬天，而不太喜欢夏天。因为在冬天，他们可以更多地过上无人打扰的生活。狗也比较自由，被放出围栏，四处遛达。冬天常来修道院参观的只有一批批滑雪者。他们在圣诞节或复活节到那儿去。这些热爱高山清静环境的年轻人每年都受到圣伯纳德修道院的热烈欢迎。
+
+== 回译
+
+=== 1st
+
+The Great St. Bernard Pass connects Switzerland #strike[and] #underline[to] Italy. standing 2,473 metres is the highest #underline[mountain] pass in Europe. #strike[The famous St. Bernard monastery] #underline[The famous monastery of St. Bernard] built in 11th century #strike[was] #underline[lies] 1 mile away #strike[from the pass]. For hundreds of years, the dog adopted by the monastery have rescued a great deal of visitors trying to #strike[pass] #underline[cross] the Pass. These friendly dogs that first #strike[imported] #underline[brought] from Asia, were used as watchdogs even in Roman Times. #strike[Nowadays,] #underline[Now that] a tunnel has been built through the mountain, the Pass is less dangerous, but the watchdogs are still sent out #strike[to the snow ground help travellers who are having difficulties] #underline[into the snow whenever a traveller is in difficulty]. In spite of the channel #strike[through the mountain], #strike[some people still wanna take risk passing the St. Bernard Pass on foot] #underline[there are still a few people who *rashly* attempt to cross the Pass on foot].
+
+#strike[In summer] #underline[During the summer months], the monastery is so busy for thousands of people drive across the pass and have a visit to monastery by the way, which makes the watchdogs locked in #underline[a special enclosure]. However, when it comes to winter, the life #strike[in] #underline[at] monastery is totally different that temperature #underline[drops to -30°] and few people try to cross the Pass. The monks #underline[prefer winter to summer], for they can have a life without disturbing, and so do the watchdogs who are allowed to be unlocked from the enclosure and then wandering everywhere. #strike[Monastery comes only parties of skiers in winter] #underline[The regular visitors to the monastery in winter are parties of skiers] who go there on Christmas and Easter. These young people, who love the quiet environment, #strike[are always greatly welcomed by] #underline[always receive a warm welcome at] St. Bernard Monastery every year.
 
 #pagebreak()
 = Flying cats
