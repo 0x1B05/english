@@ -8,6 +8,14 @@
 
 搜寻美洲狮的工作是从一座小村庄开始的。那里的一位妇女在采摘黑莓时的看见“一只大猫”，离她仅5码远，她刚看见它，它就立刻逃走了。专家证实，美洲狮非被逼得走投无路，是决不会伤人的。事实上搜寻工作很困难，因为常常是早晨在甲地发现那只美洲狮，晚上却在20英里外的乙地发现它的踪迹。无论它走哪儿，一路上总会留下一串死鹿及死兔子之类的小动物，在许多地方看见爪印，灌木丛中发现了粘在上面的美洲狮毛。有人抱怨说夜里听见“像猫一样的叫声”；一位商人去钓鱼，看见那只美洲狮在树上。专家们如今已经完全肯定那只动物就是美洲狮，但它是从哪儿来的呢？由于全国动物园没有一家报告丢了美洲狮，因此那只美洲狮一定是某位私人收藏豢养的，不知怎么设法逃出来了。搜寻工作进行了好几个星期，但始终未能逮住那只美洲狮。想到在宁静的乡村里有一头危险的野兽继续逍遥流窜，真令人担心。
 
+== 回译
+
+=== 3rd
+
+Pumas are large, cat-like animals, which are found in America. When reports came into London Zoo that a puma #strike[was found] #underline[had been spotted] #strike[in] 45 miles south #underline[of] London, they were not taken seriously. However, when evidence began to accumulate, experts from the Zoo felt obliged to investigate, for the descriptions given by people who claimed to have seen the puma were extrodinarily similar.
+
+The hunt for the puma began in a small village, where a woman picking blackberries saw "a large cat" only five #strike[yields] #underline[yards] away from her. The puma immediately ran away once she saw it. The experts confirmed that a puma won't attack a human being unless it is cornered. In fact, the search proved diffcult, for the puma #strike[is] #underline[was] often observed at one place in the morning#strike[,] but at another place 20 miles away in the evening. Wherever it went, it left behind it a trails of dead deers and small animals like #strike[dead] rabbits. Paw prints were seen in #strike[many] #underline[a number of] places, and puma fur #strike[were] #underline[was] found clinging to bushes. Some people complained of "cat-like" noise at night; a business man on a fishing trip saw the puma up a tree. The experts were now fully convinced the animal was a puma, but where had it come from? As no pumas #strike[was] #underline[had been] reported missing from any zoo in the country, #strike[the puma] #underline[this one] must have been in the possession of a private collector and managed to escape. The search went on for several weeks, but the puam was still not caught. It is disturbing to think that a dangerous wild animal #underline[is] still at large in the quiet #strike[village] #underline[countryside].
+
 #pagebreak()
 = Thirteen equals one
 
@@ -23,6 +31,24 @@
 “问题就在这里，牧师，”比尔回答说。“不错，钟能报时了，但是，恐怕每到1点钟，它总要敲13下，对此我已无能为力了。”
 “大家慢慢就习惯了，比尔，”牧师说。“13下是不如1下好，但总比1下也不敲强。来，咱们下楼去喝杯茶吧。”
 
+== 回译
+
+=== 3rd
+
+Our vicar #strike[always raises] #underline[is always raising] money for one cause or another, but he has never #strike[got] #underline[managed to get] enough money to have the church clock repaired. The large church clock used to strike the hours day and night, but it was damaged many years ago and #strike[had] #underline[has] been silent since then.
+
+One day night, the vicar suddenly woke up with a start: the big clock was striking the hours again. Looking at his watch, he saw it was only one o'clock, but the bell struck thirteen times before it stopped. Armed with a #strike[torchligh] #underline[torch], he went up to the clock tower to see what was going on. In the torchlight, he #strike[saw a man] #underline[*caught sight of a figure*] whom he immediately recognized as Bill Willkins, our local grocer.
+
+"Whatever are you doing here, Bill?" asked the vicar in surprise.
+
+"I'm trying to fix the clock, "said Bill, "I have #strike[come] #underline[been coming] up here #strike[every night] #underline[night after night] for several weeks. Right, I #strike[hope] #underline[was hoping] to give you a surprise."
+
+"You certainly did give me a surprise, " said the vicar, "but #strike[you probably woke] #underline[you've probably woken] up everyone in the village as well. However, I'm still glad that the clock #strike[works] #underline[is working] again."
+
+"That's the problem, vicar", answered Bill, "It is all right working again, but I'm afraid it will strike thirteen times at one o'clock. There's nothing I can do about it."
+
+"We will get used to it, Bill", said the vicar, "Thirteen times is not as good as one, but it's better than nothing. Come on, let's go downstairs and have a cup of tea."
+
 #pagebreak()
 = An unknown goddess
 
@@ -34,6 +60,16 @@
 
 她身高3英尺，双手叉腰。身穿一条拖地长裙，尽管上了年纪，但体态确实优美。不过，考古工作者至今未能确定这位女神的身份。
 
+== 回译
+
+=== 3rd
+
+Some time ago, an interesting discovery was made by the *archaeologists* on the Agean island of Kea. An American team explored a temple #strike[of] #underline[in] an ancient city on the #strike[promontary] #underline[promontory] of Aya Irini. The city #strike[was at once] #underline[*at one time* must have been] prosperous, for it enjoyed a high level of civilization. The houses built with stones were often three storeys high with large rooms and beautifully decorated walls. The city was even equipped with a drainage system, for a great many of clay pipes #strike[was] #underline[were] found beneath the streets.
+
+The temple explored by the archaeologists had been a place for worship #strike[dating] from 15th century B.C. to Roman Times. Clay fragments of 15 statuses were found in the most sacred room of the temple. Each statues once painted represents a goddess. The body of one statue was found among the remains #strike[in] #underline[*dating from*] the 15th century B.C., while its missing head happened to be found among the remains #strike[in] #underline[of] the 5th century B.C. This head must have been found in Classical Times and preserved carefully. It was very precious and #strike[has a long history] #underline[old] #strike[even at that time] #underline[*even then*].
+
+When the archaeologists reconstructed the fragments, they were amazed that the goddess turned out to be a modern-looking woman. She stands three feet high with her hands rested on her hips, wearing a full-length skirt that swept the floor. Despite her great age, #strike[the elegance is still on her] #underline[she still remains graceful]. However, the archaeologists #strike[can't confirm the identity of the goddess yet now] #underline[*have been unable to* discover her identity so far].
+
 #pagebreak()
 = The double life of Alfred Bloggs
 == 参考译文
@@ -42,14 +78,29 @@
 
 艾尔弗结婚时，感到非常难为情，而没有将自己的职业告诉妻子。他只说在埃尔斯米尔公司上班。每天早晨，他穿上一身漂亮的黑色西装离家上班，然后换上工作服，当8个小时清洁工。晚上回家前，他洗个淋浴，重新换上那身黑色西服。两年多以来，艾尔弗一直这样，他的同事也为他保守秘密。艾尔弗的妻子一直不知道她嫁给了一个清洁工，而且她永远也不会知道了，因为艾尔弗已找到新职，不久就要坐办公室里工作了。他将来挣的钱只有他现在的一半。不过他觉得，地位升高了，损失点儿钱也值得。从此，艾尔弗可以一天到晚穿西服了。别人将称呼他为“布洛格斯先生”，而不再叫他“艾尔弗”了。
 
+== 回译
+
+=== 3rd
+
+#strike[Nowadays] #underline[These days], people who do manual #strike[works] #underline[work] #strike[always] #underline[often] earn #underline[far] more money than those who work in offices. The reason why people working in offices are #strike[often called] #underline[*frequently* *referrd to as*] "white collar workers" is that they usually go to work in a #strike[white shirt] #underline[collar] and tie. #strike[As] #underline[*Such*] *is human nature*, a great deal of people are often willing to *sacrifice* #strike[the high-paid work] #underline[*higher pay*] *for the priviledge of* being #strike[a] "white collar workers". And this #strike[always triggers some weird situations] #underline[*give rise to* curious situations], as it did in the case of Alfred Bloggs who worked in the Ellesmere Corporation as a dustman.
+
+When Alf got married, he felt so embarrassed that he didn't tell anything about his job to his wife. What he just told her was that he worked for Ellesmere Corporation. Every morning he left home for work wearing a smart black suit, then changed into the overalls and spent the next 8 hours as a dustman. Before #strike[he went back home] #underline[returning home at night], he first took a shower and changed back #underline[into] the black suit. Alf had done this for over 2 years and his colleagues kept his secret. Alf's wife #strike[never knows] #underline[has never discovered] she married a dustman, and she never will, for Alf has just found a new job that he can work in a office. He will #strike[earn] #underline[*be earning*] *the half* #strike[of which] #underline[*as much as*] he used to, but he #underline[_feels that *his rise in status is well worth the loss of money*_] From then on, Alf can be wearing a suit all day long and others will call him "Mr Bloggs" instead of "Alf".
+
 #pagebreak()
 = The facts
 == 参考译文
 
 报刊杂志的编辑常常为了向读者提供成立一些无关紧要的事实和统计数字而走向极端。去年，一位记者受一家有名的杂志的委托写一篇关于非洲某个新成立共和国总统府的文章。稿子寄来后，编辑看了第一句话就拒绝予以发表。文章的开头是这样的：“几百级台阶通向环绕总统府的高墙。”编辑立即给那位记者发去传真，要求他核实一下台阶的确切数字和围墙的高度。
 
-记者立即出发去核实这些重要的事实，但过了好长时间不见他把数字寄来。在此期间，编辑等得不耐烦了，因为杂志马上要付印。他给记者先后发去两份传真，但对方毫无反应。于是他又发了一份传真，通知那位记者说，若再不迅速答复，将被解雇。但记者还是没有回复。编辑无奈，勉强按原样发稿了。一周之后，编辑终于接到了记者的传真。那个可怜的记者不仅被捕了，而且还被送进了监狱。不过，他终于获准发回了一份传真。在传真中他告诉编辑，就在他数通向15英尺高的总统府围墙的
-1，084级台阶时，被抓了起来。
+记者立即出发去核实这些重要的事实，但过了好长时间不见他把数字寄来。在此期间，编辑等得不耐烦了，因为杂志马上要付印。他给记者先后发去两份传真，但对方毫无反应。于是他又发了一份传真，通知那位记者说，若再不迅速答复，将被解雇。但记者还是没有回复。编辑无奈，勉强按原样发稿了。一周之后，编辑终于接到了记者的传真。那个可怜的记者不仅被捕了，而且还被送进了监狱。不过，他终于获准发回了一份传真。在传真中他告诉编辑，就在他数通向15英尺高的总统府围墙的1，084级台阶时，被抓了起来。
+
+== 回译
+
+=== 3rd
+
+#strike[The editors] #underline[Editors] of newspapers and magazines #strike[always] #underline[often] go to extremes to provide their readers with some trivial facts and statistics. Last year, a journalist #strike[was appointed] #underline[had been *instructed* by a well-known magazine] to write an article on the president's palace of a new republic in Africa. The article arriving, the editor refused to publish it once he saw the first sentence. As the article begins, "Hundreds of steps lead to the high walls surrounding the president's palace." The editor immediately sent a fax to the journalist, instructing him to confirm the exact the number of the steps and the height of the high walls.
+
+The journalist at once set out to #strike[confirm] #underline[obtain] these important facts, but it takes him a long time to send them back. #strike[During the period] #underline[*Meanwhile*], the editor was becoming impatient for the article was going to be pressed. He sent the journalist 2 faxes before and after, but no #strike[replies] #underline[reply]. So he send another fax, #strike[noticing] #underline[informing] the journalist that he would be fired if #strike[still no replies] #underline[did not reply soon]. #strike[But the journalist didn't respond(?) as well.] #underline[_*When the journalist failed to reply*,_] The editor #strike[did nothing but] #underline[*reluctantly*] published the article as it #strike[was written in the original way] #underline[had been written originally]. A week later, the editor eventually received a fax from the poor journalist who #strike[was] #underline[had been] not only arrested but alse sent the prison. However, he finally was allowed to send a fax back, which told the editor he was arrested while counting the 1,084 steps that lead to the 15-feet hight walls sourrounding the president palace.
 
 #pagebreak()
 = Smash-and-grab
@@ -59,6 +110,14 @@
 皮卡迪利大街附近的一条著名拱廊街道上，几家高档商店刚刚开始营业。在早晨的这个时候，拱廊街上几乎空无一人。珠宝店主泰勒先生正在欣赏新布置的橱窗。他手下两名店员从早上8点就开始忙碌，这时刚刚布置完毕。钻石项链、戒指漂亮地陈列在黑色丝绒上面。泰勒先生站在橱窗外凝神欣赏了几分钟就回到了店里。
 
 宁静突然被打破，一辆大轿车亮着前灯，响着喇叭，呼啸着冲进了拱廊街，在珠宝店门口停了下来。一人留在驾驶座上，另外两个用黑色长筒丝袜蒙面的人跳下车来。他们用铁棒把商店橱窗玻璃砸碎。这一切发生时，泰勒先生正在楼上。他与店员动手向窗外投掷家具，椅子、桌子飞落到拱廊街上。一个窃贼被一尊很重的雕像击中，但由于他忙着抢钻石首饰，竟连疼痛都顾不上了。这场抢劫只持续了3分钟，因为窃贼争先恐后地爬上轿车，以惊人的速度开跑了。就在轿车离开的时候，泰勒先生从店里冲了出来，跟在车后追赶，一边还往车上扔烟灰缸、花瓶。但他已无法抓住那些窃贼了。他们已经带着价值数千镑的首饰逃之夭夭了。
+
+== 回译
+
+=== 3rd
+
+On a famous arcade beside Picadilly Street, several luxury shops was just #strike[starting to open the door] #underline[opening]. The arcade was almost empty at that time in the morning. The owner of a jewellry shop, Mr Taylor, was admiring #strike[the new displayed window] #underline[a new window display]. His two assistants have been #strike[busy] #underline[working busily] #strike[from] #underline[since] the eight o'clock and had only just finished. Dimond necklaces and rings had been arranged beautifully on a background of the black #underline[*velvet*]. Mr Taylor gazed at the display for minutes and then went back to the shop.
+
+The silence was suddenly broken when a large car with its headlight on #underline[and its *horn blaring*], roared #strike[into] #underline[*down*] the arcade. #strike[The car came to a stop in front of Mr Taylor's shop] #underline[It came to a stop outside the jeweller's]. One man *stayed* #strike[on] #underline[*at*] the wheel while two others covering their faces with their black #underline[*stockings*] #strike[jumped off the car] #underline[jumped out] and smashed the windows with #underline[iron] bars. When all this was #strike[happening] #underline[*was going on*], Mr Taylor was #strike[on] upstairs. He and #strike[his staffs] #underline[his *staff*] #strike[throw] #underline[began throwing] furnitures #strike[, chairs and tables out of the window to the arcade.] #underline[out of the window. Chairs and tables went flying into the arcade.] A thief was #strike[hit] #underline[*struck*] by a heavy statue, but #strike[he can't help with the pain for he was busy robbing the dimonds] #underline[*he was busy helping himself to dimonds to notice any pain*]. The #strike[robery] #underline[*raid*] #strike[only lasted for 3 minutes] #underline[was all over in 3 minutes], for the thieves #strike[went to the car in a hurry] #underline[*scrambled back* into the car] and #strike[ran away] #underline[*moved off*] at a fantastic speed. #strike[When] #underline[Just as] the car was leaving, Mr Taylor rushed out of the shop, runing after the car and throwing #underline[*ashtrays*] and vases to the car. But he can't catch them who have left with diamonds worth thousands of pounds.
 
 #pagebreak()
 = Mutilated ladies

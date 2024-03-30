@@ -11,11 +11,11 @@
       name: "0x1B05",
       github: "https://github.com/0x1B05",
       homepage: "https://github.com/0x1B05", // 个人主页
-      // affiliations: "1,2",
+      affiliations: "1",
     ),
   ),
   affiliations: (
-    // (id: "1", name: "Example University"),
+    (id: "1", name: "NUFE"),
     // (id: "2", name: "Example Inc."),
   ),
 
