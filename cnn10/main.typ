@@ -19,7 +19,6 @@
     (id: "1", name: "NUFE"),
   ),
 
-  bibliography_file: "refs.bib",
   paper_size: "a4",
   text_font: "Linux Libertine",
   sc_font: "Noto Sans CJK SC",
@@ -34,3 +33,4 @@
 )
 
 #include "content/20240312.typ"
+#include "content/20240313.typ"

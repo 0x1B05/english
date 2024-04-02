@@ -6,15 +6,11 @@
 
 Hello, Superstar! And welcome to CNN10, #strike[Well, I'll tell you what let you decide and what to think.]where I tell you the what, letting you decide waht to think. I'm *Coy Wire*. And we begin #strike[ at ] #underline()[_on_] nation's capital, #strike[ of ] where House *lawmakers* are quickly moving *ahead* on legislation that could possibly ban the popular social media app Titok from the United States. 
 
-Titok is used by about 170 millon of Americans#strike[. But], but this measure is looking to prohibit Titok from #strike[the USA] U.S. app stores unless the app is no longer connected to Byte Dance, its parent company, which is based in China. 
-
-Some lawmakers are concerned that Titok could possibly enable the Chinese government to have too much information about its users#strike[. A legend], alleging that #strike[is] it's a possible national security threat. 
-
-On the other side, Titok denies #strike[this] these claims and believes this legislation is #strike[in] an attack #strike[of] on #strike[the] First #strike[man] *Amendment* rights. #strike[ This propose to .. has part ... support, ]This *proposed bill* has bipartisan support and is scheduled to be voted by the house quickly. If the bill eventually does make its way to President Biden's desk, the White #strike[House's] House says Biden would sign it. Now if this proposed bill is put into the law, it will allow Titok about 5 months to cut ties with Byte Dance. If ties were not to be cut, this measure would prohibit Titok to be downloaded on app stores in the U.S. Here's are *Manu Raju* with more.
+Titok is used by about 170 millon of Americans#strike[. But], but this measure is looking to prohibit Titok from #strike[the USA] U.S. app stores unless the app is no longer connected to Byte Dance, its parent company, which is based in China. Some lawmakers are concerned that Titok could possibly enable the Chinese government to have too much information about its users#strike[. A legend], alleging that #strike[is] it's a possible national security threat. On the other side, Titok denies #strike[this] these claims and believes this legislation is #strike[in] an attack #strike[of] on #strike[the] First #strike[man] *Amendment* rights. #strike[ This propose to .. has part ... support, ]This *proposed bill* has bipartisan support and is scheduled to be voted by the house quickly. If the bill eventually does make its way to President Biden's desk, the White #strike[House's] House says Biden would sign it. Now if this proposed bill is put into the law, it will allow Titok about 5 months to cut ties with Byte Dance. If ties were not to be cut, this measure would prohibit Titok to be downloaded on app stores in the U.S. Here's are *Manu Raju* with more.
 
 #strike[ The house ... plan to ... legislation, ... ]The House *plowing ahead with* the plan to *take up legislation* to essentially ban Titok if the Chinese firm, ByteDance doesn't sell it *They are trying to* force that sale #strike[ . That's .. because ... ] because of concerns that Chinese government is too close to private information of Americans. They are alleging that Chinese government #strike[ are easy to .. ] *is interfering* with that information and could #strike[ exploded something ] *exploit it, something* that ByteDance has furious denied. But #strike[ remember this] nevertheless, this #strike[ is why the ... ] #underline[_has wide bipartisan_] support approved by *the House Energy and Commerce Committee* last week, 50 to nothing. #strike[ It's ] That is something that rarely seen on *Capital Hill*, #underline[_but that bipartisan support ultimately forcing the House Majority Leader to_] put this bill on the *floor* very quickly. *Steve Scalise said* he #strike[will] would take #underline[_up_] this measure #strike[the fully household, and] #underline[_ the full House in_] just a matter of days. That doesn't the mean though Titok #underline[_isn't_] trying to kill it. #underline()[_In fact_], #strike[And ByteDance] that's ByteDance exactly #strike[_would_] #underline[_what they're_] trying to do #strike[that top.] #underline[_The top Republican who chairs the Energy and Commerce Committee told me that_] she is getting flooded with phone calls over people opposed to the efforts.
 
-Yes, we've been flooded with calls, #underline[_record amounts of calls_].  Any member of *the Energy and Commerce Committee* that voted yesterday has been flooded. #underline[_The co-sponsors have been flooded._] 
+Yes, we've been flooded with calls, #underline[_record amounts of calls_]. Any member of *the Energy and Commerce Committee* that voted yesterday has been flooded. #underline[_The co-sponsors have been flooded._] 
 Titok actually put up a notice #strike[ that ] #underline[_where_] they blocked an individual #underline[_to actually get on TikTok_] unless you called #underline[_your member_] of Congress and told them #underline[_not to vote for_] this legislation.
 But that's just a example of how they can manipulate data and influence on Americans #underline[_for their agenda_]
 
@@ -53,11 +49,39 @@ They're trying to force that sale,..
 - _a matter of days_
 - _for one's agenda_
 
+=== 回译
+
+==== 原文
+
+Hello, Superstar! And welcome to CNN10, where I tell you the what, letting you decide waht to think. I'm Coy Wire. And we begin on nation's capital, where House lawmakers are quickly moving ahead on legislation that could possibly ban the popular social media app Titok from the United States.
+
+Titok is used by about 170 millon of Americans, but this measure is looking to prohibit Titok from U.S. app stores unless the app is no longer connected to Byte Dance, its parent company, which is based in China. Some lawmakers are concerned that Titok could possibly enable the Chinese government to have too much information about its users, alleging that it's a possible national security threat. On the other side, Titok denies these claims and believes this legislation is an attack on First Amendment rights. This proposed bill has bipartisan support and is scheduled to be voted by the house quickly. If the bill eventually does make its way to President Biden's desk, the White House says Biden would sign it. Now if this proposed bill is put into the law, it will allow Titok about 5 months to cut ties with Byte Dance. If ties were not to be cut, this measure would prohibit Titok to be downloaded on app stores in the U.S. Here's are Manu Raju with more.
+
+The House plowing ahead with the plan to take up legislation to essentially ban Titok if the Chinese firm, ByteDance doesn't sell it They are trying to force that sale because of concerns that Chinese government is too close to private information of Americans. They are alleging that Chinese government is interfering with that information and could exploit it, something that ByteDance has furious denied. But nevertheless, this has wide bipartisan support approved by the House Energy and Commerce Committee last week, 50 to nothing. That is something that rarely seen on Capital Hill, but that bipartisan support ultimately forcing the House Majority Leader to put this bill on the floor very quickly. Steve Scalise said he would take up this measure the full House in just a matter of days. That doesn't the mean though Titok isn't trying to kill it. In fact, that's ByteDance exactly what they're trying to do The top Republican who chairs the Energy and Commerce Committee told me that she is getting flooded with phone calls over people opposed to the efforts.
+
+Yes, we've been flooded with calls, record amounts of calls. Any member of the Energy and Commerce Committee that voted yesterday has been flooded. The co-sponsors have been flooded. Titok actually put up a notice where they blocked an individual to actually get on TikTok unless you called your member of Congress and told them not to vote for this legislation. But that's just a example of how they can manipulate data and influence on Americans for their agenda
+
+But what will happen in the Senate? That was a completely different question. Altogether here, the senators has some of their own ideas , but it could take some time to get through. But if it does become a law , president Biden said, he will sign it.
+
+==== 参考翻译
+
+嗨，大明星！欢迎收看CNN10，我告诉你事情的真相，让你自己去思考。我是科伊·韦尔。我们从国家首都开始，众议院议员们正在迅速推进一项立法，可能会禁止流行的社交媒体应用“抖音”在美国的使用。
+
+抖音被大约1.7亿美国人使用，但这项措施旨在禁止“抖音”在美国应用商店上架，除非该应用不再与其总公司字节跳动有联系，而字节跳动总部位于中国。一些议员担心，“抖音”可能会让中国政府获得过多有关其用户的信息，声称这可能构成国家安全威胁。另一方面，“抖音”否认了这些说法，并认为这项立法是对第一修正案权利的攻击。这项拟议的法案得到了两党的支持，并计划在众议院迅速表决。如果这项法案最终送到拜登总统的桌子上，白宫表示拜登将签署。现在，如果这项拟议的法案成为法律，它将允许“抖音”有大约5个月的时间与字节跳动解除联系。如果联系没有解除，这项措施将禁止在美国的应用商店下载“抖音”。接下来是Manu Raju的更多报道。
+
+众议院正在积极推进计划，准备立法禁止“抖音”，如果中国公司字节跳动不出售它。他们试图迫使出售，因为他们担心中国政府与美国人的私人信息过于接近。他们声称中国政府干涉这些信息，并可能加以利用，而字节跳动已经强烈否认了这一点。但尽管如此，这一立法得到了广泛的两党支持，上周由众议院能源和商业委员会以50票对零票通过。这在国会山上是罕见的事情，但最终是两党支持迫使众议院多数党领袖迅速将这项法案提上议程。史蒂夫·斯卡利斯表示，他将在几天内让众议院全体议员投票。但这并不意味着“抖音”没有反击。事实上，这正是字节跳动正在做的。主持能源和商业委员会的最高共和党人告诉我，她收到了大量反对这一努力的电话。
+
+是的，我们收到了大量电话，创纪录的电话。昨天投票的任何一名能源和商业委员会成员都收到了大量来电。联合发起人也收到了大量来电。抖音实际上发布了一则通知，阻止一个人进入抖音，除非你给国会议员打电话告诉他们不要投票支持这项立法。但这只是他们如何操纵数据并影响美国人以符合他们的议程的一个例子。
+
+但在参议院会发生什么？这是一个完全不同的问题。参议员们有一些自己的想法，但可能需要一些时间才能通过。但如果它成为法律，拜登总统表示，他将签署。
+
+==== 1st
+
 == Muslim
 
 #strike()[Next,] #underline()[_Next up_] in the Muslim canlendar, one of the holist #strike()[secret months] #underline()[_most sacred months_] #strike()[, it's] #underline()[_is_] the ninth month, or *Ramadan*. Several Muslim countries announced the Monday as the first day of Ramadan, and the holy month #underline()[_of fasting,_] where Muslim may not consume food or drinks from sunrise and sunset. The exact start date of Ramadan changes because it's based on #underline()[_*clerics* seeing a *crescent*_] or new moon as the *Islamic* canlendar follows the lunar cycle. 
 
-There were #underline()[_hopes of a possible ceasefire in the Gaza Strip_] before start the Ramadan, but both Hamas and *Israel* could not reach a deal. While the war goes on, there's *humanitarian* crisis that continues to *grapple the Gaza Strip*  The U.S. #underline()[_is teaming up_] with several other nations by airdropping #underline()[_aid_] into Gaza , but #underline()[_aid_] agencies recommended it would be much more efficient if this supplies were transported on the ground. Our chief international *correspondent*, *Clarissa Ward*, is here to give us the why.
+There were #underline()[_hopes of a possible ceasefire in the Gaza Strip_] before start the Ramadan, but both Hamas and *Israel* could not reach a deal. While the war goes on, there's *humanitarian* crisis that continues to *grapple the Gaza Strip* The U.S. #underline()[_is teaming up_] with several other nations by airdropping #underline()[_aid_] into Gaza , but #underline()[_aid_] agencies recommended it would be much more efficient if this supplies were transported on the ground. Our chief international *correspondent*, *Clarissa Ward*, is here to give us the why.
 
 From the #strike()[house] #underline()[_health_] ministry inside Gaza are now saying that 25 have died as a result of #underline()[_acute malnutrition and dehydration_]. #strike()[They] #underline()[_CNN_] cannot independently confirm that, because the international journalists are not allowed into Gaza to report on the ground. But it certainly #strike()[jails] #underline()[_gels_] with what we have #strike()[here] #underline()[_been hearing_] from the groups like the *U.N.*, who has warned that hundreds of thousands of #underline()[_of Gazans in the northern_] part of the *enclave* are one step away from *famine*, who has announced as you mentioned that four out of five(4/5) people -- or 4/5 household, I should say specifically, do not have access any longer to clean water. And #underline()[_while these_] airdrops show a certrain level of intention and #strike()[good will] #underline()[_goodwill_] they#underline()[_,_] according to #underline()[_aid_] organizations#underline()[_,_] are not terribly efficient and effective in terms of #underline()[_machanism for actually distributing aid._] We heard from one humanitarian worker who said #strike()[there was] #underline()[_they're_] a great *photo op* , but they are terrible in terms of trying to make sure that people on the ground get the aid they need.
 
@@ -89,11 +113,31 @@ From the #strike()[house] #underline()[_health_] ministry inside Gaza are now sa
 
 - op -> opportunity
 
-=== sentence
+=== sentences
 
 - There's humanitraian crisis that continues to grapple the Gaza Strip.
 - But it certainly gels with what we have here been hearing from the groups like the U.N.
 - ... are one step away famine
+
+=== 回译
+
+==== 原文
+
+Next up in the Muslim canlendar, one of the holist most sacred months is the ninth month, or Ramadan. Several Muslim countries announced the Monday as the first day of Ramadan, and the holy month of fasting, where Muslim may not consume food or drinks from sunrise and sunset. The exact start date of Ramadan changes because it's based on clerics seeing a crescent or new moon as the Islamic canlendar follows the lunar cycle. 
+
+There were hopes of a possible ceasefire in the Gaza Strip before start the Ramadan, but both Hamas and Israel could not reach a deal. While the war goes on, there's humanitarian crisis that continues to grapple the Gaza Strip The U.S. is teaming up with several other nations by airdropping aid into Gaza , but aid agencies recommended it would be much more efficient if this supplies were transported on the ground. Our chief international correspondent, Clarissa Ward, is here to give us the why.
+
+From the health ministry inside Gaza are now saying that 25 have died as a result of acute malnutrition and dehydration. CNN cannot independently confirm that, because the international journalists are not allowed into Gaza to report on the ground. But it certainly gels with what we have been hearing from the groups like the U.N., who has warned that hundreds of thousands of of Gazans in the northern part of the enclave are one step away from famine, who has announced as you mentioned that four out of five(4/5) people -- or 4/5 household, I should say specifically, do not have access any longer to clean water. And while these airdrops show a certrain level of intention and goodwill they, according to aid organizations, are not terribly efficient and effective in terms of machanism for actually distributing aid. We heard from one humanitarian worker who said they're a great photo op , but they are terrible in terms of trying to make sure that people on the ground get the aid they need.
+
+==== 参考翻译
+
+在穆斯林的日历中，接下来的一个最神圣的月份是第九个月，也就是斋月。一些穆斯林国家宣布星期一为斋月的第一天，这是一个禁食的神圣月份，穆斯林在日出和日落之间不得进食或饮水。斋月的确切开始日期会因为基于伊斯兰日历遵循月亮周期，需要神职人员观察新月或弯月而有所变化。
+
+在斋月开始之前，加沙地带曾有可能达成停火协议，但哈马斯和以色列都未能达成协议。战争仍在继续，加沙地带仍然面临人道危机。美国正在与其他几个国家合作，通过空投方式向加沙提供援助，但援助机构建议如果这些物资能够通过陆路运输，效率会更高。我们的首席国际记者Clarissa Ward将为我们解释其中原因。
+
+加沙卫生部门现在表示，已经有25人因严重营养不良和脱水而死亡。CNN无法独立证实这一消息，因为国际记者不被允许进入加沙进行报道。但这与我们从联合国等组织那里听到的信息相符，他们警告说加沙北部地区的数十万加沙人距离饥荒只有一步之遥，正如你所提到的，五分之四的人（或五分之四的家庭）再也无法获得清洁水源。虽然这些空投表明了一定的善意和意图，但根据援助组织的说法，它们在实际分发援助方面并不是非常高效和有效的机制。我们听到一位人道主义工作者说，这些空投是很好的拍照机会，但在确保地面上的人们获得所需援助方面却效果不佳。
+
+==== 1st
 
 == Kenya
 
@@ -121,11 +165,29 @@ To #strike[get them more living space] #underline[_give them more roaming space_
 - _wears off_
 - _be glued to_
 
+=== 回译
+
+Let's head to Kenya now, where the East country is dealing with a rise in the rhinoceros of population. Overcrowding in sanctuaries has cause problem such as rhinos attacking each other and competing for food. It's such a concern that Kenya Wildlife Service is transporting 21 rhinos to a new location.
+
+It takes nearly a dozen people to get this five-year-old black rhino up on its feet as the tranquilizer wears off. With tracker securely glued to her horn, she is ready to move 100 hundred miles away. Kenya has an unusual problem. Rhino populations here are actually going up, so Safia and others have this overcrowded sancturay in central Kenya are getting a new home. Decades ago, 20,000 eastern black rhinos like this one run free in Africa. But in just under 20 years the numbers plummeted to below 400 as poachers hunted them for their precious horns. Now Kenya rhinos are making a comebac thanks to anti-poaching efforts . But overcrowding in sanctuaries has become a problem for a solitary animal.
+
+To give them more roaming space, 21 rhinos were taking to a brand new sancturay in Loisaba Conservancy. They are the first rhinos to live on the land in 50 years.
+
+==== 参考翻译
+
+肯尼亚现在面临着犀牛数量上升的问题。在保护区过度拥挤导致了一些问题，例如犀牛之间的攻击和为食物而竞争。这引起了人们的关注，肯尼亚野生动植物管理局正在将21只犀牛转移到新的地点。
+
+当镇静剂作用消退时，需要近十几人才能让这只五岁的黑犀牛站起来。它的角上粘着定位器，准备移动100英里远的地方。肯尼亚面临着一个不寻常的问题。这里的犀牛数量实际上在增加，因此Safia和其他人将这个过度拥挤的中部肯尼亚保护区作为新家。几十年前，像这只东部黑犀牛一样，有2万只犀牛在非洲自由奔跑。但在不到20年的时间里，由于偷猎者为了它们珍贵的角而猎杀，数量急剧下降至400只以下。现在，肯尼亚的犀牛得以复苏，这要归功于反偷猎的努力。但保护区的过度拥挤已经成为孤独动物的一个问题。
+
+为了给它们更多的活动空间，21只犀牛被带到了位于洛伊萨巴保护区的全新保护区。它们是50年来首批在这片土地上生活的犀牛。
+
+==== 1st
+
 == Bird
 
 For today's #underline[story's getting a] 10 out of 10, a video#underline[-bombing] bird doing its best to break up #strike[and] #underline[a] beat on broadcast tv. CNN's #underline[Jeanne Moos] has more.
 
-Look at this, reporters are supposed to be able to #underline[_*wing it*_], but this is something #strike[like] #underline[out of the] birds. Ok, maybe not that #strike[stream] #underline[extreme]. But #underline[Australia reporter Ursula Heger] was #strike[fighting] #underline[_*filing*_] a #underline[report] for 10 News First#strike[. When] #underline[when] she got #underline[dive-bombed] over and over. #underline[dive-bombed] #strike[for] nine times. Her own station called it #underline[_*impeckable* *journalism*_]  Instead doing this, #underline[Ursula did this.]  
+Look at this, reporters are supposed to be able to #underline[_*wing it*_], but this is something #strike[like] #underline[out of the] birds. Ok, maybe not that #strike[stream] #underline[extreme]. But #underline[Australia reporter Ursula Heger] was #strike[fighting] #underline[_*filing*_] a #underline[report] for 10 News First#strike[. When] #underline[when] she got #underline[dive-bombed] over and over. #underline[dive-bombed] #strike[for] nine times. Her own station called it #underline[_*impeckable* *journalism*_] Instead doing this, #underline[Ursula did this.] 
 
 #strike[We should] #underline[_At least she didn't_] get used #strike[to] a landing #underline[_strip_] by, say, a #underline[_*robin*_] or a #underline[_pet_] parrot. And Ursula didn't get #strike[his] #underline[_her_] earbud #underline[_*plucked*_] by this reporter in #underline[_*Chile*_]
 Ironically, he was reporting on the rising *roberies*. They did manage to get the earbud back from the parrot.
@@ -157,4 +219,16 @@ All right. Remember tomorrow's ... follow me . I'm Coy Wire.
 ==== phrases
 
 - _in stride_
+
+=== 回译
+
+For today's story's getting a 10 out of 10, a video-bombing bird doing its best to break up a beat on broadcast tv. CNN's Jeanne Moos has more.
+
+Look at this, reporters are supposed to be able to wing it, but this is something out of the birds. Ok, maybe not that extreme. But Australia reporter Ursula Heger was filing a report for 10 News First when she got dive-bombed over and over. dive-bombed nine times. Her own station called it impeckable journalism Instead doing this, Ursula did this. At least she didn't get used a landing strip by, say, a robin or a pet parrot. 
+
+And Ursula didn't get her earbud plucked by this reporter in Chile. Ironically, he was reporting on the rising roberies. They did manage to get the earbud back from the parrot.
+
+The way Ursula handle the attack was a feather in her cap. Could have been worse if she got pecked by a woodpecker.
+
+Talk about foul play and a "hawkward" situation, but that reporter had no egrets taking the "birden" in stride, delivering an impeckable report that was like poultry report in motion.
 
