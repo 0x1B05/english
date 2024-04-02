@@ -205,6 +205,19 @@ The Great St. Bernard Pass connects Switzerland #strike[and] #underline[to] Ital
 
 最近，纽约动物医疗中心对132只猫进行了为期5个月的综合研究。所有这些猫都有一个共同的经历：它们都曾从高层建筑上摔下来过，但只有其中的8只猫死于震荡或跌伤。当然，纽约是进行这种有趣的试验的一个理想的地方，因为那里根本不缺乏高楼大厦，有的是高层的窗槛从上往下坠落。有一只叫萨伯瑞娜的猫从32层楼上掉下来，但只摔断了一颗牙。“猫就像训练有素的跳伞队员，”一位医生说。看起来，猫跌落的距离越长，它们就越不会伤害自己。在一个长长的跌落过程中，它们可以达到每小时60英里甚至更快的速度。在高速下落中，猫有时间放松自己。它们伸展开四肢，就像飞行中的松鼠一样。这样就加大了空气阻力，并减小了它们着地时冲击力带来的震动。
 
+== 回译
+
+=== 1st
+
+#strike[Cats can always badly arouse the interest of people] #underline[Cats never *fail to fascniate* human beings]. They can be kind #underline[and *affectionate*] #strike[to] #underline[towards] people, full of gentleness. However, they #strike[also have their mystery lives] #underline[*lead mysterious lives of their own as well*]. It's impossible for them to act like horses and dogs which are #underline[submissive]. As a result, people have learned to respect #strike[the independency of cats] #underline[*feline independency*]. Most cats #strike[are *wary* to] #underline[remain suspicious of] human beings #strike[in] #underline[all] their lives. #strike[What makes us most intersted in] #underline[*One of the things that fascinates us most about cats*] is that the #strike[common] #underline[popular] belief saying a cat has nine lives, which contains #strike[facts] #underline[a good deal of truth] apparently. #strike[As it did in the case of that cats can survive from falling from the high.] #underline[A cat's ability to *survive falls* is based on fact.]
+
+Recently, New York Animal Medical Center have studied 132 cats for 5 months. All this cats share the same experience#strike[ falling from the high] #underline[: they had fallen off the high], #strike[but] #underline[yet] only eight of them died #strike[for .. or injured] #underline[from shock or injuries]. Of course, it's ideal to do such an interesting research in New York #strike[where] #underline[which] is no lack#underline[/shortage] of #strike[high] #underline[tall] buildings#strike[ and windows] #underline[. There are plenty of *high-rise windowsills*] to fall from. #strike[A cat named Sabray] #underline[One cat, Sabrina, ] had once fell from #strike[the 32th floor] #underline[32 storeys], #underline[yet] only #strike[making one tooth broken] #underline[suffered fromm a broken tooth]. "Cats #strike[are just like trained ...] #underline[behave like well-trained *paratroopers,*]" said a doctor. It seems that the #strike[farer] #underline[further] the cats fall , #strike[the less possibility they get hurt] #underline[the less they are likely to injure themselves]. #strike[In the long process of falling] #underline[In a long drop], they can reach the speed of 60 miles #strike[per] #underline[an] hour or even #strike[faster] #underline[more]. When falling at a high speed, cats have time to relax themselves, streching their #strike[ends] #underline[legs] like a flying squrrel, which #strike[adds] #underline[increases] the #strike[air-force] #underline[air-resistance] and alleviate the #underline[shock of impact] when they #strike[arrive] #underline[hit] the ground.
+
+#tip("Tip")[
+    - 想使用are, is之类的be动词的时候想想有没有其他的系东西可以表达更多的意思。
+]
+
+
 #pagebreak()
 = The loss of the Titanic
 
