@@ -32,5 +32,6 @@
   // background_color: "#FAF9DE" // HEX 颜色或 none
 )
 
+#include "content/20240304.typ"
 #include "content/20240312.typ"
 #include "content/20240313.typ"
