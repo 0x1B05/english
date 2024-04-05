@@ -45,19 +45,73 @@ We start with doctors protesting . Thousands of doctors taking to the street in 
 
 == Weather
 
+All right, let's turn now to weather as we first head to #underline[*Sierra Nevada*] mountain region#underline[, where *blizzard*] conditions continue to *slam* the area. Dangerous#underline[, *fierce*] winds #underline[of] more than 75 miles per hour#underline[,] _as well as_ the heavy snowfall #strike[threaten the ... of] #underline[*threatened* to *dump up* to] ten feet of snow in the mountain, has forced the officials to close down roads and impact travel. Many #strike[results] #underline[resorts] on the California#underline[-Nevada border] are also shut down, and about 6 million people in that region #underline[are in] a winter alert.
+
+And let's head to another region, the #underline[*Texas Panhandle*] continuing to be #underline[*ravaged*] by the extremely hot and dry conditions, as the biggest #underline[inferno] in Texas history #underline[rages on.] The #strike[smoke ..] #underline[Smokehosue Creek] Fire has been #strike[burnt] #underline[burning] for nearly a week now, and destroyed more than 1 million #underline[acres] in the #strike[state of taxies] #underline[State of Texas] alone. It's a scary and #underline[*devastating*] reality many #strike[taxiers] #underline[Texans] are dealing with. Let's turn to our Camila Bernal for more:
+
+It's been windy. It is hot, a lot hotter than it's been over the last couple of days. And it's #underline[dry,] conditions #underline[that] are making #underline[it] extremely difficult for firefighters in this area that still battling the largest #underline[wild]fire in Texas history#strike[ containment. It's] #underline[. *Containment* is] still very low. So there's a lot of work to be done. And #strike[at] #underline[in] the meantime, you have that #strike[graving] #underline[grieving] process beginning for a lot of families have lost everything#underline[,] #strike[but] the cleaner process. And like, you #underline[are] seeing behind me #strike[is] #underline[at] Johnson house, and it's been difficult to do that cleanup _because the wind have been so high_. But #strike[nevertheless] #underline[nonetheless], #strike[you've seen] #underline[you're seeing] them right now they are trying to #underline[*sift* that *debris*], trying to look for #strike[every] #underline[any] jewllery, anything they can find of #strike[the] #underline[what was] left of their home, the home that they have built for over 20 years. I want #underline[want you to listen to waht Ronnie] Johnson told me when #strike[you] #underline[he] first got here to his home after the fire.
+
+We came back at 10:30 that night. #underline[We kind of *snuck through some ranches* to drive up here and see it gone. This was pretty tough.]
+
+And you can hear the emotion#strike[ that's] #underline[. It's] been so difficult for members of this community. It also had a huge impact on the cattle industry here, because 85% percent of #strike[states] #underline[state's] cattle is raised here in #underline[the Panhandle.] And so a lot of #underline[*ranchers*] are also having to start from zero and have shared the struggle both emotionally and #underline[*financially*] They know it's going to take a long time to get back where they were before those fires.
+
 === words, phrases and sentences
 
 ==== words
 
+- _blizzard_
+- _fierce_
+- _threaten_
+- _ravage_
+- _inferno_
+- _devastating_
+- _containment_
+- _sift_
+- _debris_
+- _sneak (snuck in U.S.)_
+- _ranch_
+- _cattle_
+
 ==== phrases
 
+- _slam the area_
+- _dump up_
+- _rage on_
+- _in the meantime_
+
 ==== sentences
+
+- Dangerous, fierce winds of more than 75 miles per hour, _as well as_ the heavy snowfall threatened to dump up to ten feet of snow in the mountain, has forced the officials to close down roads and impact on travel.
+- The Texas Panhandle continuing to be *ravaged* by the extremely hot and dry conditions, as the biggest *inferno* in Texas history _rages on_.
+- The wind have been so *high*.
+- A lot of ranchers have shared the struggle both emotionally and financially.
 
 === 回译
 
 ==== 原文
 
+All right, let's turn now to weather as we first head to Sierra Nevada mountain region, where blizzard conditions continue to slam the area. Dangerous, fierce winds of more than 75 miles per hour, as well as the heavy snowfall threatened to dump up to ten feet of snow in the mountain, has forced the officials to close down roads and impact travel. Many resorts on the California-Nevada border are also shut down, and about 6 million people in that region are in a winter alert.
+
+And let's head to another region, the Texas Panhandle continuing to be ravaged by the extremely hot and dry conditions, as the biggest inferno in Texas history rages on. The Smokehosue Creek Fire has been burning for nearly a week now, and destroyed more than 1 million acres in the State of Texas alone. It's a scary and devastating reality many Texans are dealing with. Let's turn to our Camila Bernal for more:
+
+It's been windy. It is hot, a lot hotter than it's been over the last couple of days. And it's dry, conditions that are making it extremely difficult for firefighters in this area that still battling the largest wildfire in Texas history . Containment is still very low. So there's a lot of work to be done. And in the meantime, you have that grieving process beginning for a lot of families have lost everything, the cleaner process. And like, you are seeing behind me at Johnson house, and it's been difficult to do that cleanup because the wind have been so high. But nonetheless, you're seeing them right now they are trying to sift that debris, trying to look for any jewllery, anything they can find of what was left of their home, the home that they have built for over 20 years. I want want you to listen to waht Ronnie Johnson told me when he first got here to his home after the fire.
+
+We came back at 10:30 that night. We kind of snuck through some ranches to drive up here and see it gone. This was pretty tough.
+
+And you can hear the emotion . It's been so difficult for members of this community. It also had a huge impact on the cattle industry here, because 85% percent of state's cattle is raised here in the Panhandle. And so a lot of ranchers are also having to start from zero and have shared the struggle both emotionally and financially They know it's going to take a long time to get back where they were before those fires.
+
+
 ==== 参考翻译
+
+现在让我们转向天气，首先我们来到内华达山脉地区，那里暴风雪条件持续肆虐。超过每小时75英里的危险猛烈风速，以及大雪威胁，可能会在山区堆积多达十英尺的积雪，已迫使官员关闭道路并影响旅行。加州和内华达州边境的许多度假胜地也关闭了，该地区约有600万人处于冬季警报状态。
+
+接下来我们转向另一个地区，德克萨斯州的Panhandle地区持续受到极端炎热和干燥条件的摧残，因为德克萨斯州历史上最大的山火继续肆虐。Smokehosue Creek Fire已经燃烧了将近一个星期，仅在德克萨斯州就摧毁了100多万英亩的土地。这是很多德克萨斯人正在应对的可怕而毁灭性的现实。让我们听听我们的Camila Bernal的报道：
+
+风势很大。天气非常炎热，比过去几天要热得多。而且非常干燥，这种条件使得在这个地区的消防员们面临极大困难，他们仍在与德克萨斯历史上最大的山火作斗争。控制火势的进展仍然很慢。所以还有很多工作要做。同时，许多家庭已经开始了失去一切的悲痛过程，清理过程也已经开始。就像你在我身后看到的，约翰逊家庭，由于风势太大，清理工作变得非常困难。但尽管如此，你现在看到他们正在努力清理残骸，试图寻找任何首饰，任何他们能找到的残留在家中的物品，这是他们建造了20多年的家。我想让你们听一下罗尼·约翰逊告诉我的，他第一次回到家的时候的情况。
+
+我们晚上10:30回来的。我们在一些农场间穿行，偷偷来到这里，结果发现家已经不在了。这真是太难了。
+
+你可以听到他的情绪。对于这个社区的成员来说，这一切都非常艰难。这也对这里的牛肉产业产生了巨大影响，因为德克萨斯州85%的牛群在Panhandle饲养。因此，许多牧场主也不得不从零开始，他们在情感和经济上都承受着巨大的压力。他们知道要恢复到火灾前的状态需要很长时间。
 
 ==== 1st
 
