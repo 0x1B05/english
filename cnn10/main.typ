@@ -4,7 +4,7 @@
   title: [CNN10-Notes],
   short_title: "CNN10",
   description: [
-    听力练习CNN10.
+    CNN10 练习（听力，回译）.
   ],
   date: datetime(year: 2024, month: 3, day: 22),
   authors: (

@@ -39,19 +39,21 @@ The accord requires the world's leading tech companies to develop tools to help 
 
 Even though the #underline[the Kremlin] denies it, #underline[*countless*] Intelligence reports confirm Russia's elections interference efforts. But the Microsoft president warns Russia's level of sophistication is growing, #strike[few] #underline[fueled] by advances in Artificial Intelligence.
 
-=== words
+=== words, phrases and sentences
 
-- presidency
-- resentment
-- retribution
-- profile
-- amplify
+==== words
 
-=== phrases
+- _presidency_
+- _resentment_
+- _retribution_
+- _profile_
+- _amplify_
+
+==== phrases
 
 - ... on a scale rarely seen
 
-=== sentences
+==== sentences
 
 - 2024 is an election year like none other.
 - We will turn the page forever on the miserable #underline[nightmare] of the Biden presidency.
@@ -131,11 +133,11 @@ Even though the the Kremlin denies it, countless Intelligence reports confirm Ru
 
 No need to bring your NO.2 pencils to #strike[the] #underline[an] SAT anymore, because this college admission#underline[s] test is now full digital. Test takers still #strike[ought] #underline[have] to be there in person and supervised, so no bad #underline[*badinage*] with friends #strike[doing] #underline[during] the test. The SAT will be taking on #strike[the] #underline[a] laptop or tablet. And the exam will be shorter#strike[ where] #underline[. Where] #strike[there] #underline[it] was three hours before, it now down to two. It will still be based on the #strike[60 hundred] #underline[16 hundred-point] scale and #underline[the] results will come back sooner, in a matter of days in stead of weeks. But #underline[a] concern for some, these digital version is also adpative#strike[.Many were served] #underline[, meaning it will serve] #strike[hard] #underline[harder] questions#strike[,] the better you do, which some students say increases test anxiety and overthinking. This changes from the college #strike[border] #underline[board] #strike[on] #underline[are an] effort to make #strike[standard tests] #underline[this standardized test] more accessible to students, as many colleges make it optional to #underline[submit] standardized test scores especially during the pandemic. More #underline[elite] universities have announced a shift #strike[on] #underline[in now] requiring students to include this test scores with their applications. But on the other side, some #underline[critics] believe standardized tests can be a disadvantage for lower income students, because they may have limited resources to study and prepare for these tests.
 
-=== word
+=== words
 
-- badinage
-- standardized
-- college board
-- elite
-- critics
+- _badinage_
+- _standardized_
+- _college board_
+- _elite_
+- _critics_
 
