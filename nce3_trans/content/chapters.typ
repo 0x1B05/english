@@ -271,6 +271,30 @@ Four days after Titanic's setting out, #strike[she was driving on the chilly sur
 
 海关官员拧开瓶盖，把瓶子放到鼻子底下。一股怪味袭来，使他相信了我说的是真话。几分钟后，我终于被放行，手提划着宝贵的粉笔记号的行李，匆匆离去。
 
+== 回译
+
+=== 1st
+
+These days, #strike[the] *Customs Officer* are very #underline[*tolerant*]. However, when you #strike[go] #underline[are going] through the Green Channel without anything to declare, they can also block you. Even #strike[the most honest] #underline[really honest] people are often made #underline[to] feel guilty#strike[, but the] #underline[The *hardened*] #strike[experienced] professional smuggler #underline[, on the other hand,] #strike[can be relaxed] #underline[is never *troubled* by such feelings,] #underline[even] with 500 golden watches #underline[hidden] inside the suitcase. #strike[At the recent time] #underline[Recently], #underline[when ]I returned from abroad, #strike[meeting an idol young officer, who considered me as a simuggler.] #underline[a particular *officious* young Customs Officer clearly *regarded* me as a smuggler.]
+
+"Do you have anything to declare?" asked the officer, #strike[looking into my eyes] #underline[*looking me in the eye*].
+
+"Nothing," I answered with confidence.
+
+"#strike[Could you please open this suit?] #underline[Would you mind unlocking this suitcase?]"
+
+"#strike[Ok]#underline[Not at all]." I answered.
+
+The officer went through the #strike[suit] #underline[*case*] #strike[carefully] #underline[*with great care*], #strike[making all beautifully packed things into such a total mess that I believed it couldn't be closed since then] #underline[all the things I carefully packed being in such a dreadful mess soon that *I felt sure* I would never *be ablt to* close the case again]. Suddenly, #underline[I saw] the officer's face light up #strike[that] #underline[*when*] he #strike[found] #underline[spotted] a #strike[little] #underline[tiny bootle] and *pounced* #underline[on] it #strike[happily] #underline[with delight].
+
+"Perfume, eh?" he said #underline[*sarcastically*]. "You should've declare it#strike[, the]#underline[.] Perfume isn't *exempt from import duty*."
+
+"#strike[No,]#underline[But] it's not perfume," I said, "It's hair gel." Then I #underline[*added*] with smiles, "it's a strange mixture made by myself." #strike[Absolutely] #underline[As I expected], he didn't #strike[trust] #underline[believe] me.
+
+"#strike[You can just smell it.] #underline[Try it]" I said #strike[in a hurry] #underline[*encouragingly*].
+
+The officer #strike[take down] #underline[*unscrewed*] the cap, and put the bottle #strike[under its ...] #underline[to his *nostrils*.] #strike[A strange smell raged on him] #underline[He was *greeted* by an unpleasant smell]#strike[, letting him believe my words] #underline[which convinced him that I was *telling the truth*]. A few minutes later, I was allowed to #strike[go, hurried] #underline[hurry] away with a precious chalk mark on my #strike[suitcase] #underline[baggage].
+
 #pagebreak()
 = Life on a desert island
 == 参考译文
@@ -278,6 +302,14 @@ Four days after Titanic's setting out, #strike[she was driving on the chilly sur
 我们许多人对于荒岛生活有一种不切实际的想法。我们有时想像荒岛是阳光终日普照的天堂。在那里，生活简单又美好。成熟的水果从树上掉下来，人们根本无需劳动。另一种想法恰恰相反，认为荒岛生活很可怕，要么饿死，要么像鲁滨孙那样，天天盼船来，却总不见船影。也许，这两种想像都有可信之处。但很少有人能有机会去弄个究竟。
 
 最近有两个人在一座珊瑚岛上呆了5天，他们真希望在那儿再多呆一些日子。他们驾着一条严重损坏的小船从维尔京群岛去迈阿密修理。途中，船开始下沉，他们迅速把食物、火柴、罐装啤酒往一只救生筏上装。然后在加勒比海上划行了几英里，到了一座珊瑚岛上。岛上几乎没有一棵树，也没有淡水，但这不算什么问题。他们用橡皮艇蓄积雨水。由于他们随身带了一支捕鱼枪，因此，吃饭不愁。他们天天捕捉龙虾和鱼，正如其中一位所说，吃得“像国王一样好”。5天后，一条油轮从那儿路过，搭救了他们。这二位不得不离开那个荒岛时，还真的感到遗憾呢！
+
+== 回译
+
+=== 1st
+
+Most of us imagine lives on an isolated island to be unrealistic pictures. Sometimes we thought of the island to be a paradise with sunshine, people there living a simple but happy life, and fruit dropping from trees, no laboring at all. But here's a totally opposed picture that living on an isolated island is terrible, starving to death or just like Robinson who expected a boat all day but in vain. Maybe there's an element of truth in both pictures, but few people can check it out.
+
+Recently, two people had stayed in Carol Island for 2 days, who wished to had more days there. They sailed with a badly damaged boat from Virgin Island to Miami. On their trip, the boat beginning to sink, they quickly put their food, matches and cans of beer into a lifeboat. Then they rowed for several miles, arriving a carol island where there's no tree and water. But that's not to be a problem. They collected rainwater with the rubber boat, caught .. and fishes with their ..., no worry about food at all. As one of them said, "Eating like a king." Five days passed, a ... passed and rescued them. These two had to leave the carol island, feeling deeply sorry.
 
 #pagebreak()
 = It's only me
