@@ -161,13 +161,13 @@ In Muslim canlendar, #underline[one of] the #underline[holist], most sacred mont
 
 #strike[The health ministry says,]#underline[From the health ministry inside Gaza are now saying] 25 people have died #strike[for] #underline[as a result of] malnutrition and #underline[*dehydration*]. CNN can't #underline[independently] confirm these information for international #strike[reporters] #underline[journalists] are not allowed #strike[to go] into Gaza to report #underline[on the ground]. However, #strike[this is line with the information]#underline[it certainly *gels with* what] we #strike[heard] #underline[have been hearing] from #strike[UA organizations] #underline[the groups like U.N.]#strike[. They warn] #underline[, who has warned] that, millions of #strike[people in Gaza] #underline[Gazans in northern part of the enclave] are only one step away from *famine*. As you mentioned above, 4/5 people or families #strike[can't access to water anymore] #underline[do not *have access any longer to clean water*]. #strike[These airdrops expressed some kindness and intention, but according to the aid organization, they don't have a efficient mechanism on distribution of aid. We heard a humanitarian said, this airdrops are great for photos, but not efficient in making sure that people on the ground can get the aid they need.] #underline[While these airdrops *showed a certain level of intention and goodwill*, according to aid organizations, they are not terribly efficient and effective *in terms of* mechanism *for actually distributing aid*. We *heard from a humanitarian worker who said* they're a great photo op, but they are terrible in terms of trying to make sure that people on the ground get the aid they need.]
 
-== Kenya
+== Rhino populations in Kenya
 
 Let's head to Kenya now, where the #strike[eastern] #underline[East] country is dealing with #strike[the] #underline[_a_] rise #underline[_in the *rhinoceros*_] of population. #underline[_Overcrowding_] in #underline[_*sanctuaries* has_] cause problem #strike[that] #underline[_such as rhinos attacking_] each other and competing for food. It's such a concern that Kenya #strike[of wide] #underline[_Wildlife Service_] is transporting 21 rhinos to a new location.
 
-It takes nearly a dozen people to get this #underline[_five-year-old black rhino up on its feet as the *tranquilizer* *wears off*._] With #underline[_tracker_] securely #underline[_*glued to* her horn,_] she is ready to move 100 hundred miles away. Kenya has an unusual problem. Rhino populations here are actually going up, so Safia and others have this overcrowded #strike[century] #underline[_sancturay in central_] Kenya #strike[, a] #underline[are] getting a new home. Decades ago, 20,000 eastern black rhinos like this one run free in Africa. But in just under 20 years the numbers #underline[_*plummeted*_] to below 400 as #underline[_*poachers*_] hunted them for their precious #underline[_*horns*_]. Now Kenya rhinos #underline[_are making a comebac_] thanks to #underline[_anti-poaching efforts_] #strike[anchors]. But overcrowding in #strike[centuries] #underline[_sanctuaries_] has become a problem for a #underline[_*solitary*_] animal.
+It takes nearly a dozen people to get this #underline[_five-year-old black rhino up on its feet as the *tranquilizer* *wears off*._] With #underline[_tracker_] securely #underline[_*glued to* her horn,_] she is ready to move 100 hundred miles away. Kenya has an unusual problem. Rhino populations here are actually going up, so Safia and others #strike[have] #underline[at] this overcrowded #strike[century] #underline[_sancturay in central_] Kenya #strike[, a] #underline[are] getting a new home. Decades ago, 20,000 eastern black rhinos like this one ran free in Africa. But in just under 20 years the numbers #underline[_*plummeted*_] to below 400 as #underline[_*poachers*_] hunted them for their precious #underline[_*horns*_]. Now Kenya rhinos #underline[_are making a comeback_] thanks to #underline[_anti-poaching efforts_] #strike[anchors]. But overcrowding in #strike[centuries] #underline[_sanctuaries_] has become a problem for a #underline[_*solitary*_] animal.
 
-To #strike[get them more living space] #underline[_give them more roaming space_], 21 rhinos were taking to a brand new sancturay in #underline[Loisaba Conservancy]. They #strike[had] #underline[are] the first rhino#underline[s] to live on the land in #strike[15] #underline[50] years.
+To #strike[get them more living space] #underline[_give them more roaming space_], 21 rhinos were taken to a brand new sancturay in #underline[Loisaba Conservancy]. They #strike[had] #underline[are] the first rhino#underline[s] to live on the land in #strike[15] #underline[50] years.
 
 === words and phrases
 
@@ -176,34 +176,39 @@ To #strike[get them more living space] #underline[_give them more roaming space_
 - _rhinocero_
 - _sancturies_
 - _tranquilizer_
+- _horn_
 - _plumete_
-- _poache_, _poacher_
+- _poach_, _poacher_
 - _solitary_
 
 ==== phrases
 
-- _a feather in one's cap_
-- _in stride_
-- _wears off_
+- _wear off_
 - _be glued to_
 
 === 回译
 
 Let's head to Kenya now, where the East country is dealing with a rise in the rhinoceros of population. Overcrowding in sanctuaries has cause problem such as rhinos attacking each other and competing for food. It's such a concern that Kenya Wildlife Service is transporting 21 rhinos to a new location.
 
-It takes nearly a dozen people to get this five-year-old black rhino up on its feet as the tranquilizer wears off. With tracker securely glued to her horn, she is ready to move 100 hundred miles away. Kenya has an unusual problem. Rhino populations here are actually going up, so Safia and others have this overcrowded sancturay in central Kenya are getting a new home. Decades ago, 20,000 eastern black rhinos like this one run free in Africa. But in just under 20 years the numbers plummeted to below 400 as poachers hunted them for their precious horns. Now Kenya rhinos are making a comebac thanks to anti-poaching efforts . But overcrowding in sanctuaries has become a problem for a solitary animal.
+It takes nearly a dozen people to get this five-year-old black rhino up on its feet as the tranquilizer wears off. With tracker securely glued to her horn, she is ready to move 100 hundred miles away. Kenya has an unusual problem. Rhino populations here are actually going up, so Safia and others at this overcrowded sancturay in central Kenya are getting a new home. Decades ago, 20,000 eastern black rhinos like this one ran free in Africa. But in just under 20 years, the numbers plummeted to below 400 as poachers hunted them for their precious horns. Now Kenya rhinos are making a comeback thanks to anti-poaching efforts . But overcrowding in sanctuaries has become a problem for a solitary animal.
 
-To give them more roaming space, 21 rhinos were taking to a brand new sancturay in Loisaba Conservancy. They are the first rhinos to live on the land in 50 years.
+To give them more roaming space, 21 rhinos were taken to a brand new sancturay in Loisaba Conservancy. They are the first rhinos to live on the land in 50 years.
 
 ==== 参考翻译
 
 肯尼亚现在面临着犀牛数量上升的问题。在保护区过度拥挤导致了一些问题，例如犀牛之间的攻击和为食物而竞争。这引起了人们的关注，肯尼亚野生动植物管理局正在将21只犀牛转移到新的地点。
 
-当镇静剂作用消退时，需要近十几人才能让这只五岁的黑犀牛站起来。它的角上粘着定位器，准备移动100英里远的地方。肯尼亚面临着一个不寻常的问题。这里的犀牛数量实际上在增加，因此Safia和其他人将这个过度拥挤的中部肯尼亚保护区作为新家。几十年前，像这只东部黑犀牛一样，有2万只犀牛在非洲自由奔跑。但在不到20年的时间里，由于偷猎者为了它们珍贵的角而猎杀，数量急剧下降至400只以下。现在，肯尼亚的犀牛得以复苏，这要归功于反偷猎的努力。但保护区的过度拥挤已经成为孤独动物的一个问题。
+当镇静剂作用消退时，需要近十几人才能让这只五岁的黑犀牛站起来。它的角上粘着定位器，准备移动100英里远的地方。肯尼亚面临着一个不寻常的问题。这里的犀牛数量实际上在增加，因此在这个过度拥挤的中部肯尼亚保护区里的Safia和其他犀牛马上就要有新家了。几十年前，有2万只像这只一样的东部黑犀牛在非洲自由奔跑。但在不到20年的时间里，由于偷猎者为了它们珍贵的角而猎杀，数量急剧下降至400只以下。现在，肯尼亚的犀牛得以复苏，这要归功于反偷猎的努力。但保护区的过度拥挤已经成为独居动物的一个问题。
 
 为了给它们更多的活动空间，21只犀牛被带到了位于洛伊萨巴保护区的全新保护区。它们是50年来首批在这片土地上生活的犀牛。
 
 ==== 1st
+
+Kenya is now #strike[confronting a problem of the increasing number of rhinoceros] #underline[_is dealing with_ *a rise in the rhinoceros of population*]. #strike[The overcrowding] #underline[Overcrowding in *sanctuaries*] has #strike[led to some problems] #underline[*cause problems*] such as #strike[competitions for food and attack among rhinos] #underline[_rhinos attacking each other and competing for food_]#strike[, which has attracted human's attention.] #underline[. It's such a concern that] now the Kenya Wildlife #underline[Service] is transporting 21rhinos to a new #strike[place] #underline[location].
+
+#strike[When the effect of tranquilizer fade away, it needs over 10 people making this 5-year-old rhino stand on its feet.] #underline[It takes nealy a dozen people to get this 5-year-old rhino *up on its feet* as *tranquilizer wears off*.] #strike[A tracker was attached to its ..., being ready to be sent 100 miles away.] #underline[With a tracker securely *glued to her horn*, she is ready to move 100 miles away.] Kenya are now facing an unusual problem: #strike[the number of rhinos] #underline[rhino populations] here are actually #strike[increasing] #underline[going up], so Safia and other rhinos #strike[consider this overcrowded protection region in the middle Kenya as their new home] #underline[so Safia and others at this overcrowded sanctuary in *central Kenya* _are getting a new home_]. Decades ago, about 20 thousand eastern black rhinos just like this one ran #strike[freely] #underline[free] in Africa. However, in #underline[just under] 20 year, the number #strike[dropped sharply] #underline[plummeted] to below 400 for the poachers poached their precious horns. Now rhinos in Kenya #strike[has been prosperous] #underline[are making a comeback]#strike[, which *is credited to*] #underline[*thanks to*] the anti-poaching efforts. But #strike[the overcrowded proctection region] #underline[overcrowding in sanctuaries] has been a problem of a solitary animal.
+
+To offer them more #underline[roaming] space, the 21 rhinos #strike[was] #underline[were] taken to a #strike[totally] #underline[*brand*] new sanctuary in *Loisaba Conservancy*. The are the first #underline[rhinos] to live on this #strike[soil] #underline[land in 50 years].
 
 == Bird
 
@@ -240,17 +245,6 @@ All right. Remember tomorrow's ... follow me . I'm Coy Wire.
 
 ==== phrases
 
+- _a feather in one's cap_
 - _in stride_
-
-=== 回译
-
-For today's story's getting a 10 out of 10, a video-bombing bird doing its best to break up a beat on broadcast tv. CNN's Jeanne Moos has more.
-
-Look at this, reporters are supposed to be able to wing it, but this is something out of the birds. Ok, maybe not that extreme. But Australia reporter Ursula Heger was filing a report for 10 News First when she got dive-bombed over and over. dive-bombed nine times. Her own station called it impeckable journalism Instead doing this, Ursula did this. At least she didn't get used a landing strip by, say, a robin or a pet parrot. 
-
-And Ursula didn't get her earbud plucked by this reporter in Chile. Ironically, he was reporting on the rising roberies. They did manage to get the earbud back from the parrot.
-
-The way Ursula handle the attack was a feather in her cap. Could have been worse if she got pecked by a woodpecker.
-
-Talk about foul play and a "hawkward" situation, but that reporter had no egrets taking the "birden" in stride, delivering an impeckable report that was like poultry report in motion.
 
