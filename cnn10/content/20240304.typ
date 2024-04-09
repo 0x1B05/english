@@ -115,21 +115,109 @@ And you can hear the emotion . It's been so difficult for members of this commun
 
 ==== 1st
 
-== Titok
+== Supersonic aircraft
+
+All right, you might remeber we were talking about the speed of sound about a month ago#strike[. When] #underline[when] we mentioned the development of new supersonic plane, #strike[we will take it] #underline[we're taking] a closer look today#strike[. And] #underline[at] what #strike[air spacing] #underline[*aerospace* and] defense company, *Lockheed Martin* has built #strike[an ...] #underline[and *debuted*] for NASA. The exprimental plane is called X-59, and it's a #strike[quite] #underline[quiet] supersonic aircraft. NASA is looking to possibly #strike[evolutionize] #underline[revolutionize] the air #strike[travelling] #underline[travel] industry#strike[ by] #underline[. And by] that#underline[, I] mean go really fast. So fast that it could travel faster than the speed of sound. Take a look #underline[at] this piece, *profiling* the X-59:
+
+This is the X-59 *quest*, a new plane built by Lockheed Martin for NASA. NASA is hoping it would be #strike[a solover of] #underline[able to solve a] problem that has stopped commercial air plane from flying really really fast, that's because: 
+
+When #strike[the] #underline[an] aircraft goes supersonic, faster than the speed of sound, it create shockwaves. When I heard the sonic boom for the first time, I finally understood why it was such a big deal. If something's travelling #strike[supersonicly] #underline[*supersonically*], you can see it coming but you won't hear it at all until it has already passed you. 
+
+As you could image, sonic booms can be #strike[desruptive] #underline[*disruptive*] to life on the ground. So #strike[... 131953] #underline[disruptive that in 1973], the United States government #strike[alone] #underline[along] with much of the world #strike[ban] #underline[banned] all #strike[Soviet...] #underline[*civilian*] aircraft from supersonic #underline[flight] overland
+
+For the U.S., it's a speed limit.
+
+The only #underline[civilian] jet #underline[to *ferry*] passengers fater than the speed of sound was the *Concorde*. It is #strike[the] only able to fly over the ocean supersonic. So you could do Londo to New York, but you had to slow down before you got to New York #underline[and be *subsonic*.] So the #strike[arrival ... is] #underline[*routes* were very] limited. The Concorde was a *celebrated* #strike[technology] #underline[technical] achievement, and _an exclusive luxury_ for its passengers. Limited #underline[roots] and heavy fuels comsumption #underline[meant that] operating the Concorde was not #strike[good. Business however] #underline[good business. However], it #underline[stopped flying] in 2003. But if supersonic airplane could fly overland, they can fly anywhere, and the *business proposition* changes. NASA and Lockheed Martin are hoping this crazy looking airplane is a step in that direction. It is designed to go supersonic without making the loud sonic boom, we've #underline[*accustomed*] to hearing for decades now. To understand how this might work, it's important to understand how a sonic boom happens. Just like a #strike[boom] #underline[boat], when the #strike[boom] #underline[boat] is moving, you get the #strike[way coming...] #underline[weight coming off of it], and it's #strike[worthy] #underline[with it] the entire time #strike[of] #underline[it's] travelling. Similarly for supersonic aircraft, the shockwaves *come off* the aircraft and travel to the ground the entire time #underline[it's flying supersonic.] So when engineers designed the X-59, #strike[the use of] #underline[they used] smooth and long #strike[air dynamic] #underline[aerodynamic] lines to limit their shockwaves from reaching the ground. The engine is above the wing, and that's so #underline[that] the shock wave from the engine isn't able to go down to the ground #strike[when it] #underline[. It] just goes up.
+
+It is still #underline[*audible*] like a quiet #underline[*thump*.] And most people, if them hear it, won't even notice it.
+
+NASA is aiming for a first test flight #strike[to] #underline[of] the X-59 in the spring of 2024. *Poetically*, over the #underline[the same patch] of California desert where *Chuck Yeager* first #strike[brought ...] #underline[*broke the sound barrier*] in the X-1.
+
+NASA #underline[can take] that data, #strike[they ...] #underline[and then] be able to present that to the #strike[regular] #underline[*regulatory*] authorities to actually *repeal* the overline supersonic #underline[limitations] #strike[they have to] #underline[or was that we have today.]
+
+A #strike[changing regulation] #underline[change in regulation] could #strike[leave] #underline[lead to] a #strike[surgeon] #underline[*surge* of] investment #strike[to] #underline[in] the next generation of commercial supersonic aircraft, making travelfaster than the speed of sound#underline[,] more accessible to everyone. And that could send massive shockwaves to the air travel industry. Shockwaves that the NASA and Lockheed Martin hope will sound more like #underline[*thump*.]
 
 === words, phrases and sentences
 
 ==== words
 
+- _supersonic_
+- _aerospace_
+- _debut_
+- _profile_
+- _supersonically_
+- _disruptive_
+- _civilian_
+- _ferry_
+- _subsonic_
+- _route_
+- _exclusive_
+- _celebrated_
+- _business proposition_
+- _aerodynamic_
+- _audible_
+- _thump_
+- _poetically_
+- _regulatory_
+- _repeal_
+- _regulation_
+
 ==== phrases
 
+- _come off_
+- _a surge of_
+
 ==== sentences
+
+- _This crazy looking airplane is a step in that direction._
+- _Similarly for supersonic aircraft,..._
+- _That could send massive shockwaves to the air travel industry._
 
 === 回译
 
 ==== 原文
 
+All right, you might remeber we were talking about the speed of sound about a month ago when we mentioned the development of new supersonic plane, we're taking a closer look today at what aerospace and defense company, Lockheed Martin has built and debuted for NASA. The exprimental plane is called X-59, and it's a quiet supersonic aircraft. NASA is looking to possibly revolutionize the air travel industry . And by that, I mean go really fast. So fast that it could travel faster than the speed of sound. Take a look at this piece, profiling the X-59:
+
+This is the X-59 quest, a new plane built by Lockheed Martin for NASA. NASA is hoping it would be able to solve a problem that has stopped commercial air plane from flying really really fast, that's because: 
+
+When an aircraft goes supersonic, faster than the speed of sound, it create shockwaves. When I heard the sonic boom for the first time, I finally understood why it was such a big deal. If something's travelling supersonically, you can see it coming but you won't hear it at all until it has already passed you. 
+
+As you could image, sonic booms can be disruptive to life on the ground. So disruptive that in 1973, the United States government along with much of the world banned all civilian aircraft from supersonic flight overland
+
+For the U.S., it's a speed limit.
+
+The only civilian jet to ferry passengers fater than the speed of sound was the Concorde. It is only able to fly over the ocean supersonic. So you could do Londo to New York, but you had to slow down before you got to New York and be subsonic. So the routes were very limited. The Concorde was a celebrated technical achievement, and an exclusive luxury for its passengers. Limited roots and heavy fuels comsumption meant that operating the Concorde was not good business. However, it stopped flying in 2003. But if supersonic airplane could fly overland, they can fly anywhere, and the business proposition changes. NASA and Lockheed Martin are hoping this crazy looking airplane is a step in that direction. It is designed to go supersonic without making the loud sonic boom, we've accustomed to hearing for decades now. To understand how this might work, it's important to understand how a sonic boom happens. Just like a boat, when the boat is moving, you get the weight coming off of it, and it's with it the entire time it's travelling. Similarly for supersonic aircraft, the shockwaves come off the aircraft and travel to the ground the entire time it's flying supersonic. So when engineers designed the X-59, they used smooth and long aerodynamic lines to limit their shockwaves from reaching the ground. The engine is above the wing, and that's so that the shock wave from the engine isn't able to go down to the ground . It just goes up.
+
+It is still audible like a quiet thump. And most people, if them hear it, won't even notice it.
+
+NASA is aiming for a first test flight of the X-59 in the spring of 2024. Poetically, over the the same patch of California desert where Chuck Yeager first broke the sound barrier in the X-1.
+
+NASA can take that data, and then be able to present that to the regulatory authorities to actually repeal the overline supersonic limitations or was that we have today.
+
+A change in regulation could lead to a surge of investment in the next generation of commercial supersonic aircraft, making travelfaster than the speed of sound, more accessible to everyone. And that could send massive shockwaves to the air travel industry. Shockwaves that the NASA and Lockheed Martin hope will sound more like thump.
+
 ==== 参考翻译
+
+也许你还记得大约一个月前我们谈论过声速时，提到了新超音速飞机的开发，今天我们将更详细地了解一下航空航天和国防公司Lockheed Martin为美国国家航空航天局（NASA）建造和首次亮相的新型实验飞机X-59。这架实验飞机被称为X-59，是一种静音超音速飞机。NASA希望能够彻底改变航空旅行业，我的意思是，实现真正的快速。如此之快，以至于能够比声速更快地行进。让我们来看一下这篇介绍X-59的文章：
+
+这就是X-59探索者，一架由Lockheed Martin为NASA建造的新型飞机。NASA希望它能够解决商用飞机不让飞行非常快的问题，原因是：
+
+当飞机超音速行进时，快于声速，会产生冲击波。当我第一次听到音爆时，我终于明白为什么这是个大问题了。如果某物以超音速行进，你可以看到它，但直到它已经经过你了，你才会听到声音。
+
+你可以想象，音爆会对地面生活造成干扰。1973年，美国政府与世界上许多国家一起禁止所有民用飞机在陆地上进行超音速飞行。
+
+对于美国来说，这是一种速度限制。
+
+唯一一架运送乘客超音速的民用喷气式飞机是协和式飞机(Concorde)。它只能在海上进行超音速飞行。所以你可以从伦敦飞往纽约，但你必须在抵达纽约之前减速，转为次音速飞行。因此，航线非常有限。Concorde是一项备受赞誉的技术成就，也是其乘客的独特奢侈享受。有限的航线和高油耗意味着运营协和式飞机并不划算。然而，它在2003年停止飞行。但是，如果超音速飞机能够在陆地上飞行，它们可以飞往任何地方，商业前景就会发生变化。NASA和Lockheed Martin希望这架看起来很疯狂的飞机是朝着这个方向迈出的一步。它被设计为在超音速行进时不发出我们几十年来习以为常的巨大音爆。要理解这种原理，了解声爆是如何发生的很重要。就像一艘船，当船在移动时，它带着船身上的重量一起移动。同样，对于超音速飞机，冲击波从飞机上脱落并在整个超音速飞行期间传播到地面。因此，当工程师设计X-59时，他们使用了光滑且长的空气动力学线条来限制冲击波到达地面。发动机位于机翼上方，这样发动机产生的冲击波就无法传播到地面，只会向上传播。
+
+它仍然是可听到的，像一个轻微的隆隆声。大多数人，如果听到了，甚至都不会注意到。
+
+NASA计划于2024年春季进行X-59的首次试飞。诗意地，就在加利福尼亚沙漠的同一块地方，Chuck Yeager首次在X-1上突破音障时。
+
+NASA可以利用这些数据，然后向监管机构提供，以实际废除我们今天所面临的超音速飞行限制。
+
+法规的变化可能会导致下一代商用超音速飞机的投资激增，使超音速飞行对每个人都更加普遍。这可能会给航空旅行业带来巨大的冲击波。NASA和Lockheed Martin希望这些冲击波听起来更像是隆隆声。
 
 ==== 1st
 
