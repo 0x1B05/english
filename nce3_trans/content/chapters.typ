@@ -301,6 +301,28 @@ The officer went through the #strike[suit] #underline[*case*] #strike[carefully]
 
 The officer #strike[take down] #underline[*unscrewed*] the cap, and put the bottle #strike[under its ...] #underline[to his *nostrils*.] #strike[A strange smell raged on him] #underline[He was *greeted* by an unpleasant smell]#strike[, letting him believe my words] #underline[which convinced him that I was *telling the truth*]. A few minutes later, I was allowed to #strike[go, hurried] #underline[hurry] away with a precious chalk mark on my #strike[suitcase] #underline[baggage].
 
+=== 2nd
+
+Customs Officer have been very tolerant these days. However, when you #strike[go] #underline[are going] through the Green Channel without anything to declare, they can still block you. Even *really honest* persons can be made to feel guilty, while hardened professional smuggler#underline[, on the other hand,] won't be troubled by such feeling even with 500 golden watches hidden in their suitcase. Recentlt, when I returned from abroad, a #strike[idol] #underline[*officious*] young officer came for me, who had regarded me as a smuggler apprently.
+
+"Have you something to declare?" He asked, looking #underline[me] in #strike[my] #underline[the] eye.
+
+"No," I answered with confidence.
+
+"Would you mind #strike[opening] #underline[unlocking] this case?"
+
+"Of course not." I answered.
+
+The officer went through the suitcase #strike[carefully] #underline[with great care], all carefully packed things going to such a dreadful mess that I believed the case couldn't be closed anymore. Suddenly, I saw the officer's face light up for he spotted a tiny bottle #strike[in] #underline[at] the bottom of my suitcase and then pounced on it #underline[*with delight*].
+
+"Perfume? Eh?" said he *sarcastically*, "you should have declare it, _perfume isn't exempt from import duty._"
+
+"No, it's not perfume", I said, "It's hair gel." Then I added with a smile, "It's a strange mixture made by myself." As I expected, he didn't believe me.
+
+"Just try it", I said encouragingly.
+
+The customs officer uncrewed the cap and put the tiny bottle #strike[under] #underline[to] his nostrils. #strike[An unpleasant smell greeting on him] #underline[Greeted by an *unpleasant* smell], he finally believed me #underline[ that I was telling the truth ]. A few minutes later, I was eventually allowed to go, and then I hurried away with the suitcase with precious chalk marks.
+
 #pagebreak()
 = Life on a desert island
 == 参考译文
