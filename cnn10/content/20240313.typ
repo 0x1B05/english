@@ -63,7 +63,7 @@ Even though the #underline[the Kremlin] denies it, #underline[*countless*] Intel
 
 Hello, and Wonderful Wednesday to you. I'm Coy Wire , bringing you best ten minutes in news right here on CNN10. It is your word Wednesday, so to see if your words submission made it into today's show.
 
-We start with the year of the election 2024. And not just here in United States, many countries around the world are having their own important national elections this year. Nations with people heading to the polls this year include some of the most powerful and wealthiest country in the world, as well as the most populous like Indian, South Africa, Mexico and in Europe, where United Kingdom is leaning towards elections later this year. And countries with hundreds of millons of voters will be heading to the polls to elect a new parliament for the European Union. 
+We start with the year of the election 2024. And not just here in United States, many countries around the world are having their own important national elections this year. Nations with people heading to the polls this year include some of the most powerful and wealthiest country in the world, as well as the most populous like Indian, South Africa, Mexico and in Europe, where United Kingdom is leaning towards elections later this year. And countries with hundreds of millions of voters will be heading to the polls to elect a new parliament for the European Union. 
 
 One of the major concerns with elections this year, is advanced technology, particularly Artificial Intelligence, and how it has the potential to persuade and even mislead voters with disinfomation. AI generated fake videos , deepfakes, could trigger voters into believing their watching and hearing a presidential candidate, when in reality they're not.
 
@@ -75,7 +75,7 @@ Let's turn now to out Simon Cullen, who breaks down this crucial election this y
 (Biden)Donald Trump sees the different of the America, an American story of resentment, revenge and retribution. 
 While the U.S. presidential race might be the highest profile, it's just one of dozens taking place internationally, covering more than half the world's populatio.
 
-Many country, the health of their demoncracy itself will be being put to the test.
+Many country, the health of their democracy itself will be being put to the test.
 
 And the outcome has a potential to reshape international affairs on a scale rarely seen.
 
@@ -83,17 +83,17 @@ While the results of some elections are all but guaranteed, others will be a gen
 
 That brings with the prospect of deepfake content like this:
 This is an AI generated video, showing just how far technology has come in recent years.
-Even Russian president Vladimir Putin appeared momentarily suprised and confronted by a computer-generated version of himself.
+Even Russian president Vladimir Putin appeared momentarily surprised and confronted by a computer-generated version of himself.
 People should be scared, because the technology is enabling the creation of fake videos. They could be very persuasive with the ordinary voters. People are not going to be able to distinguish the fake videos from real ones.
 Are governments ready for what's coming down the line?
 Governments are not ready. There are literally no guardrails in place.
 That's prompted dozens of technology companies to step in, signing an accord aimed at combating the misuse of Artificial Intelligence in elections.
 
-Democracies depend on free and fair elcetions. Free and fair elections depend on trustworthy information, and trustworthy information depends on transparency about the nature and the provenance of that information.
+Democracies depend on free and fair elections. Free and fair elections depend on trustworthy information, and trustworthy information depends on transparency about the nature and the provenance of that information.
 
 The accord requires the world's leading tech companies to develop tools to help identify and label AI generated content. They've also agreed on the need to respond more quickly when deceptive AI generated material spreads online. But even they concede the task ahead won't be easy. We are combating not just individuals, unfortunately, but well-resourced nation states including one in particular.
 
-Even though the the Kremlin denies it, countless Intelligence reports confirm Russia's elections interference efforts. But the Microsoft president warns Russia's level of sophistication is growing, fueled by advances in Artificial Intelligence.
+Even though the Kremlin denies it, countless Intelligence reports confirm Russia's elections interference efforts. But the Microsoft president warns Russia's level of sophistication is growing, fueled by advances in Artificial Intelligence.
 
 ==== 参考翻译
 
@@ -131,7 +131,7 @@ Even though the the Kremlin denies it, countless Intelligence reports confirm Ru
 
 == SAT(Scholastic Aptitude Test)
 
-No need to bring your NO.2 pencils to #strike[the] #underline[an] SAT anymore, because this college admission#underline[s] test is now full digital. Test takers still #strike[ought] #underline[have] to be there in person and supervised, so no bad #underline[*badinage*] with friends #strike[doing] #underline[during] the test. The SAT will be taking on #strike[the] #underline[a] laptop or tablet. And the exam will be shorter#strike[ where] #underline[. Where] #strike[there] #underline[it] was three hours before, it now down to two. It will still be based on the #strike[60 hundred] #underline[16 hundred-point] scale and #underline[the] results will come back sooner, in a matter of days in stead of weeks. But #underline[a] concern for some, these digital version is also adpative#strike[.Many were served] #underline[, meaning it will serve] #strike[hard] #underline[harder] questions#strike[,] the better you do, which some students say increases test anxiety and overthinking. This changes from the college #strike[border] #underline[board] #strike[on] #underline[are an] effort to make #strike[standard tests] #underline[this standardized test] more accessible to students, as many colleges make it optional to #underline[submit] standardized test scores especially during the pandemic. More #underline[elite] universities have announced a shift #strike[on] #underline[in now] requiring students to include this test scores with their applications. But on the other side, some #underline[critics] believe standardized tests can be a disadvantage for lower income students, because they may have limited resources to study and prepare for these tests.
+No need to bring your NO.2 pencils to #strike[the] #underline[an] SAT anymore, because this college admission#underline[s] test is now full digital. Test takers still #strike[ought] #underline[have] to be there in person and supervised, so no bad #underline[*badinage*] with friends #strike[doing] #underline[during] the test. The SAT will be taking on #strike[the] #underline[a] laptop or tablet. And the exam will be shorter#strike[ where] #underline[. Where] #strike[there] #underline[it] was three hours before, it now down to two. It will still be based on the #strike[60 hundred] #underline[16 hundred-point] scale and #underline[the] results will come back sooner, in a matter of days in stead of weeks. But #underline[a] concern for some, these digital version is also adaptive#strike[.Many were served] #underline[, meaning it will serve] #strike[hard] #underline[harder] questions#strike[,] the better you do, which some students say increases test anxiety and overthinking. This changes from the college #strike[border] #underline[board] #strike[on] #underline[are an] effort to make #strike[standard tests] #underline[this standardized test] more accessible to students, as many colleges make it optional to #underline[submit] standardized test scores especially during the pandemic. More #underline[elite] universities have announced a shift #strike[on] #underline[in now] requiring students to include this test scores with their applications. But on the other side, some #underline[critics] believe standardized tests can be a disadvantage for lower income students, because they may have limited resources to study and prepare for these tests.
 
 === words
 
