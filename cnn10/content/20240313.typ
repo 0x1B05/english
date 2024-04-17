@@ -16,22 +16,20 @@ Let's turn #strike[on] #underline[now] to out #underline[Simon Cullen,] who *bre
 
 2024 is an election year like #underline[none other.]
 (Trump)We will turn the page forever on the miserable #underline[nightmare] of the Biden #strike[presidence] #underline[presidency]
-(Biden)Donald Trump sees the different of the America, #strike[and] #underline[an] American story #underline[of resentment, revenge and retribution.] 
-While the U.S. presidential #underline[race] might be *the highest profile*, it's just one of dozens taking place internationally, covering more than half the world's populatio.
+(Biden)Donald Trump sees the difference of the America, #strike[and] #underline[an] American story #underline[of resentment, revenge and retribution.] 
+While the U.S. presidential #underline[race] might be *the highest profile*, it's just one of dozens taking place internationally, covering more than half the world's population.
 
-Many country, the health #underline[of their] demoncracy #underline[itself] will be #strike[putting] #underline[being put] to the test.
+Many countries, the health #underline[of their] demoncracy #underline[itself] will be #strike[putting] #underline[being put] to the test. And the outcome has a potential to reshape international #underline[affairs] on #strike[the] #underline[a] scale rarely seen.
 
-And the outcome has a potential to reshape international #underline[affairs] on #strike[the] #underline[a] scale rarely seen.
-
-While the results of some elections are all #strike[by] #underline[but] guaranteed, others will be a #strike[genious] #underline[genuine] contest#strike[. Many] #underline[, meaning a] relatively small shift in #underline[voter] support could affect the outcome #strike[that] #underline[. That amplifies] the potential impact of disinformation. And experts #strike[on] #underline[warn] that #strike[risks] #underline[risk is] made even more significant, but the fact of these information are #strike[coincidently booming] #underline[are coinciding with a boom in] Artificial Intelligence.
+While the results of some elections are all #strike[by] #underline[but] guaranteed, others will be a #strike[genious] #underline[genuine] contest#strike[. Many] #underline[, meaning a] relatively small shift in #underline[voter] support could affect the outcome #strike[that] #underline[. That amplifies] the potential impact of disinformation. And experts #strike[on] #underline[warn] that #strike[risks] #underline[risk is] made even more significant, but the facts of these information are #strike[coincidently booming] #underline[are coinciding with a boom in] Artificial Intelligence.
 
 That brings with the #strike[prospective] #underline[prospect of deepfake] content like this:
 This is an AI generated video, showing just how far technology #strike[is come with recent use] #underline[has come in recent years].
 Even Russian president #underline[Vladimir Putin] #strike[are mentally] #underline[appeared *momentarily*] suprised and confronted by a computer-generated version of himself.
 People should be scared, because the technology is #strike[enable] #underline[enabling] the creation of fake videos. They could be very persuasive with the ordinary voters. People are not going to be able to distinguish the fake videos from real #strike[world's] #underline[ones].
-Are governments ready for #strike[what's down ...] #underline[what's coming down the line]?
+Are governments ready for #strike[what's down...] #underline[what's coming down the line]?
 Governments are not ready. There are #underline[literally] no #strike[guard reals] #underline[guardrails] in place.
-That's prompted dozens of technology companies to step in, signing #underline[an *accord* aimed at combating] the misuse of Artificial Intelligence in #strike[no] elections.
+That prompted dozens of technology companies to step in, signing #underline[an *accord* aimed at combating] the misuse of Artificial Intelligence in #strike[no] elections.
 
 Democracies #strike[depend. On] #underline[depend on] free and fair elcetions. Free and fair elections depend on trustworthy information, and trustworthy information depends on transparency about the nature and the #underline[*provenance*] of that information.
 
@@ -51,7 +49,9 @@ Even though the #underline[the Kremlin] denies it, #underline[*countless*] Intel
 
 ==== phrases
 
-- ... on a scale rarely seen
+- _break down_
+- _on a scale rarely seen_
+- _be fueled with_
 
 ==== sentences
 
@@ -61,33 +61,35 @@ Even though the #underline[the Kremlin] denies it, #underline[*countless*] Intel
 
 === 回译
 
-Hello, and Wonderful Wednesday to you. I'm Coy Wire , bringing you best ten minutes in news right here on CNN10. It is your word Wednesday, so to see if your words submission made it into today's show.
+Hello, and Wonderful Wednesday to you. I'm Coy Wire, bringing you best ten minutes in news right here on CNN10. It is your word Wednesday, so to see if your words submission made it into today's show.
 
 We start with the year of the election 2024. And not just here in United States, many countries around the world are having their own important national elections this year. Nations with people heading to the polls this year include some of the most powerful and wealthiest country in the world, as well as the most populous like Indian, South Africa, Mexico and in Europe, where United Kingdom is leaning towards elections later this year. And countries with hundreds of millions of voters will be heading to the polls to elect a new parliament for the European Union. 
 
-One of the major concerns with elections this year, is advanced technology, particularly Artificial Intelligence, and how it has the potential to persuade and even mislead voters with disinfomation. AI generated fake videos , deepfakes, could trigger voters into believing their watching and hearing a presidential candidate, when in reality they're not.
+One of the major concerns with elections this year, is advanced technology, particularly Artificial Intelligence, and how it has the potential to persuade and even mislead voters with disinfomation. AI generated fake videos, deepfakes, could trigger voters into believing their watching and hearing a presidential candidate, when in reality they're not.
 
 Yesterday in the U.S., voters in Georgia, Hawaii, Mississippi and State of Washington cast their ballots in their respective primaries. It is expected the both president Joe Biden and the former president Donald Trump will clinch their parties nomination.
 Let's turn now to out Simon Cullen, who breaks down this crucial election this year for several nations across the world.
 
 2024 is an election year like none other.
+
 (Trump)We will turn the page forever on the miserable nightmare of the Biden presidency
-(Biden)Donald Trump sees the different of the America, an American story of resentment, revenge and retribution. 
-While the U.S. presidential race might be the highest profile, it's just one of dozens taking place internationally, covering more than half the world's populatio.
 
-Many country, the health of their democracy itself will be being put to the test.
+(Biden)Donald Trump sees the difference of the America, an American story of resentment, revenge and retribution.
 
-And the outcome has a potential to reshape international affairs on a scale rarely seen.
+While the U.S. presidential race might be the highest profile, it's just one of dozens taking place internationally, covering more than half the world's population.
 
-While the results of some elections are all but guaranteed, others will be a genuine contest , meaning a relatively small shift in voter support could affect the outcome . That amplifies the potential impact of disinformation. And experts warn that risk is made even more significant, but the fact of these information are are coinciding with a boom in Artificial Intelligence.
+Many countries, the health of their democracy itself will be being put to the test. And the outcome has a potential to reshape international affairs on a scale rarely seen.
+
+While the results of some elections are all but guaranteed, others will be a genuine contest, meaning a relatively small shift in voter support could affect the outcome. That amplifies the potential impact of disinformation. And experts warn that risk is made even more significant, because the facts of these information are coinciding with a boom in Artificial Intelligence.
 
 That brings with the prospect of deepfake content like this:
 This is an AI generated video, showing just how far technology has come in recent years.
-Even Russian president Vladimir Putin appeared momentarily surprised and confronted by a computer-generated version of himself.
-People should be scared, because the technology is enabling the creation of fake videos. They could be very persuasive with the ordinary voters. People are not going to be able to distinguish the fake videos from real ones.
+
+Even Russian president Vladimir Putin appeared momentarily surprised and when confronted by a computer-generated version of himself. People should be scared, because the technology is enabling the creation of fake videos. They could be very persuasive with the ordinary voters. People are not going to be able to distinguish the fake videos from real ones.
+
 Are governments ready for what's coming down the line?
 Governments are not ready. There are literally no guardrails in place.
-That's prompted dozens of technology companies to step in, signing an accord aimed at combating the misuse of Artificial Intelligence in elections.
+That prompted dozens of technology companies to step in, signing an accord aimed at combating the misuse of Artificial Intelligence in elections.
 
 Democracies depend on free and fair elections. Free and fair elections depend on trustworthy information, and trustworthy information depends on transparency about the nature and the provenance of that information.
 
@@ -97,76 +99,70 @@ Even though the Kremlin denies it, countless Intelligence reports confirm Russia
 
 ==== 参考翻译
 
-你好，我是Coy Wire，欢迎收看CNN10，为您带来最精彩的十分钟新闻。今天是“你的词汇星期三”，让我们看看您的词汇是否出现在今天的节目中。
+你们好，祝你有个美好的周三。我是Coy Wire，欢迎收看CNN10，为您带来最精彩的十分钟新闻。今天是“你的词汇星期三”，看看你提交的词汇有没有出现在今天的节目中。
 
 首先，让我们来看看2024年的选举。不仅美国，世界上许多国家今年都将举行重要的全国选举。这些国家包括一些最强大和最富有的国家，以及人口最多的国家，如印度、南非、墨西哥，以及欧洲的英国，后者可能会在今年晚些时候举行选举。此外，拥有数亿选民的国家还将前往投票站选举欧洲联盟的新议会。
 
 今年选举的一个主要关切点是先进技术，尤其是人工智能，以及它如何有可能通过虚假信息来影响和误导选民。由AI生成的虚假视频，即“deepfakes”，可能会让选民相信他们正在观看和听到一位总统候选人的讲话，而实际上并非如此。
 
-昨天，在美国，佐治亚州、夏威夷州、密西西比州和华盛顿州的选民投票选举了各自的初选候选人。预计总统乔·拜登和前总统唐纳德·特朗普都将赢得各自党派的提名。
+昨天，在美国，Georgia、Hawaii、Mississippi和State of Washington的选民投票选举了各自的初选候选人。预计总统Joe Biden和前总统Donald Trump都将赢得各自党派的提名。
 
 现在，让我们听听Simon Cullen的解读，他将为我们分析今年世界各国的关键选举。
 
 2024年是一个与众不同的选举年。
 
-（Trump）我们将永远翻开拜登总统令人痛苦的噩梦一页。 
-（Biden）Donald Trump看到了美国的不同，这是一个充满怨恨、复仇和报复的美国故事。 
+（Trump）我们将永远翻开Biden总统令人痛苦的噩梦一页。
+
+（Biden）Donald Trump看到了美国的不同，这是一个充满怨恨、复仇和报复的美国故事。
 
 虽然美国总统竞选可能是最引人注目的，但这只是全球数十个选举之一，涵盖了超过世界人口的一半。
 
-许多国家，甚至是民主本身的健康，都将面临考验。
+许多国家，甚至是民主本身的健康，都将面临考验。选举结果有可能在罕见的程度上重塑国际事务。
 
-选举结果有可能在罕见的程度上重塑国际事务。
+虽然某些选举的结果几乎可以预料，但其他选举将是真正的竞争，这意味着选民支持度上的微小变化也可能会影响结果。这加大了虚假信息的潜在影响。专家警告说，这种风险变得更加重要，因为这些信息的真相恰好与人工智能的蓬勃发展同时出现。
 
-虽然某些选举的结果几乎可以预料，但其他选举将是真正的竞争，这意味着选民支持的微小变化可能会影响结果。这加大了虚假信息的潜在影响。专家警告说，这种风险变得更加重要，因为这些信息的事实恰好与人工智能的蓬勃发展同时出现。
-
-这就带来了深度伪造内容的前景，比如这个： 这是一个由人工智能生成的视频，展示了技术近年来的进步。 即使是俄罗斯总统弗拉基米尔·普京也会在电脑生成的自己面前感到短暂的惊讶和困惑。 人们应该感到害怕，因为这项技术使制作虚假视频成为可能。这些视频可能对普通选民产生很大的说服力。人们将无法区分假视频和真实视频。 政府准备好应对即将到来的问题了吗？ 政府并没有准备好。实际上，根本没有任何防范措施。 这促使数十家科技公司加入，签署了一项旨在打击选举中人工智能滥用的协议。
+这就带来了深度伪造内容的前景，比如这个： 这是一个由人工智能生成的视频，展示了技术近年来的进步。即使是俄罗斯总统Vladimir Putin也会在电脑生成的自己面前感到短暂的惊讶和困惑。人们应该感到害怕，因为这项技术使制作虚假视频成为可能。这些视频可能对普通选民产生很大的说服力。人们将无法区分假视频和真实视频。 政府准备好应对即将到来的问题了吗？ 政府并没有准备好。实际上，根本没有任何防范措施。 这促使数十家科技公司加入，签署了一项旨在打击选举中人工智能滥用的协议。
 
 民主制度依赖于自由和公正的选举。自由和公正的选举依赖于可靠的信息，而可靠的信息则取决于对信息性质和来源的透明度。
 
-这项协议要求全球领先的科技公司开发工具，以帮助识别和标记由人工智能生成的内容。他们还一致认为，在欺骗性的人工智能生成材料在网上传播时，需要更快地做出回应。但即使如此，他们也承认前方的任务并不容易。我们正在与不仅仅是个人，而且还包括一个特定的、资源充足的国家进行斗争。
+这项协议要求全球领先的科技公司开发工具，以帮助识别和标记由人工智能生成的内容。他们还一致认为，在欺骗性的人工智能生成材料在网上传播时，需要更快地做出回应。但即使如此，他们也承认前方的任务并不容易。我们正在与不仅仅是个人，而且还包括一个资源充足的国家进行斗争。
 
 尽管克里姆林宫否认了这一点，但无数的情报报告证实了俄罗斯干预选举的努力。但微软总裁警告说，俄罗斯的技术水平正在不断提高，这得益于人工智能的进步。
 
-这是一个严峻的挑战，我们需要密切关注这一领域的发展，以保护选举的公正性和透明度。
-
 ==== 1st
 
-Hello, I'm Coy Wire, welcome to cnn10, bringing you the best fantastic ten-minute news. Today's your vocabulary Wednesday. Let's see whether your vocabulary will appear in today's show.
+Hello, and wonderful Wednesday to you. I'm Coy Wire, welcome to cnn10, bringing you the best fantastic #strike[ten-minute news] #underline[in news right here]. Today's your #strike[vocabulary] #underline[word] Wednesday#strike[. Let's see whether your vocabulary will appear in today's show.] #underline[, _so to see if your words submission *made it* into today's show._]
 
-First, let's turned to the 2024 election. More than America, many countries in the world will have a election this year. Among these countries are the strongest and wealthiest countries and the most populous countries such as India, South Africa and Mexico, as well as England in Europe. The later one will take the election later of this year. What's more, the country with hundreds million voters are going to the vote station to vote for the new parliament of European Union.
+First, let's #strike[turned to the 2024 election] #underline[start with *the year of election 2024*]. #strike[More than America] #underline[Not just here in United States], many other countries in the world #strike[will have a] #underline[_are having_ their own important national] elections this year. #strike[Among these countries are] #underline[Nations with people heading to the polls this year *include* some of] the #strike[strongest] #underline[most powerful] and wealthiest countries #strike[and] #underline[*as well as*] the most *populous* countries such as India, South Africa, Mexico, and #strike[England in Europe. The later one will take the election later of this year.]#underline[in Europe, _where United Kingdom is *leaning towards* elections later this year_]. What's more, the country with hundreds million voters #strike[are going to the vote station to vote for the] #underline[will _be heading to_ the polls to elect a] new parliament #strike[of] #underline[for the] European Union.
 
-One of the spotlight of this year's election is on the advanced technology, especially the Artificial Intelligence and how it impact or misdirect voters through fake information. AI-generated fake videos as known as "deepfakes" are likely to have voters believe in their watching and listening the speeches given by a president candidate, but it's not true in reality.
+One of the #strike[spotlight of this year's election] #underline[major concerns with elections this year] is #strike[on the] advanced technology, especially #strike[the] Artificial Intelligence and how it #strike[impact or misdirect voters through fake information] #underline[has the potential to persuade and even mislead voters this disinformation]. AI-generated fake videos as known as "deepfakes" #strike[are likely to have voters believe in] #underline[could *trigger* voters into believing] their watching and #strike[listening] #underline[hearing] the speeches given by a #strike[president] #underline[presidential] candidate, #strike[but it's not true in reality] #underline[when in reality they're not].
 
-Yesterday, in the USA, voters in .... voted for their initial candidates. It is predicted that president Joe Biden and pre-president Donald Trump will win the *nomination* of their parties.
+Yesterday, in the USA, voters in #underline[Georgia, Hawaii, Mississippi and State of Washington] #strike[voted for their initial candidates] #underline[*cast their ballots* in their respective primaries]. #strike[It is predicted that president Joe Biden and pre-president Donald Trump will win the *nomination* of their parties.] #underline[_It is expected_ the both president Joe Biden and the former president Donald Trump will *clinch their parties nomination*.]
 
-Now, let's listen to Simon Cullen who will analyse the critical election of countries around the world.
+Now, let's #strike[listen] #underline[turn] to #underline[out] Simon Cullen who will #strike[analyse the critical election of countries around the world] #underline[breaks down this crucial election this year for several nations *across the world*].
 
-2024 is a distinctive election year.
+#strike[2024 is a distinctive election year.] #underline[2024 is an election year like *none other*.]
 
-(Trump) We will turn the page the ... nightmare of Joe Biden's presidency forever.
-(Biden) Donald Trump has seen the difference of the America, this is a American story filled with revenge, ...
+(Trump) We will turn the page forever #underline[on the *miserable*] nightmare of Joe Biden's presidency.
 
-The election of American president may be the most focused, but it was only one of the tens of the elections all over the world covering more than a half population of the world.
+(Biden) Donald Trump has seen the difference of the America, #strike[this is a American story filled with] #underline[an American story of] #underline[*resentment*], revenge, #underline[and *retribution*].
 
-Many coutries even the health of democracy will be challenged in many countries
+#strike[The election of American president may be the most focused, but it was only one of the tens of the elections all over the world covering more than a half population of the world.] #underline[_While the U.S. presidential race might be the highest profile, it's just one of dozens taking place internationally, covering more than half the world's population._]
 
-The results of the elections could reconstructed the international matters in terms of the level of the ...
+Many coutries even the health of #underline[their] democracy #underline[itself] will be #strike[challenged.] #underline[being put to the test.] #strike[The results of the elections could reconstructed the international matters in terms of the level of the] #underline[And the outcome has _a potential to reshape international affairs_ *on a scale rarely seen.*]
 
-Although some results of the elections can almost be predicted, but other elections will be the truly competition, which means even the faint changes of voters can impact on the result. The experts warns, this kind of risk becomes more significant for the fact of these information comes along with the prosperous development of AI.
+#strike[Although some results of the elections can almost be predicted] #underline[While some the results of some elections are all but *guaranteed*], #strike[but other elections] #underline[others] will be #strike[the truly competition] #underline[a *genuine* contest], #strike[which means even the faint changes of voters can impact on the result] #underline[meaning a relatively small shift in voter support could affect the outcome]. #underline[That ampplifies the potential impact of disinformation.] The experts warns, #strike[this kind of risk becomes more significant for the facts of these information comes along with the prosperous development of AI.] #underline[this risk is made more significant for the facts of these information are *coinciding* with a boom in AI.]
 
-And this brings the future of "deepfakes", for example: this is a AI-generated video, showing the progress in technology. Even the Russian president Putin feels a bit surprised in front of himself generated by computer. People should be scared for such technology make it possible to generated fake videos which may be persuasive to voters. People aren't able to distinguish the fake one and the real one. 
+And #strike[this brings] #underline[that brings with] the future of "deepfakes", for example: this is an AI-generated video, showing #strike[the progress in technology] #underline[*how far technology has come in recent year*]. Even the Russian president Putin #strike[feels a bit surprised in front of himself generated by computer] #underline[appeared momentarily surprised when confronted by a computer-genrated version of himself]. People should be scared for such technology, #strike[making it possible to generated fake videos] #underline[which is enabling the creation of fake videos] that could be persuasive to ordinary voters. People aren't #underline[going to be] able to distinguish #strike[the fake one and the real one] #underline[fake videos *from* reals ones.].
 
-Have the governments prepared for the coming problems? 
-No, they haven't. In fact, there's no any defence existing, which urged several technology companies to sign a ... prohibiting the abuse of AI in elections.
+Have the governments prepared for #strike[the coming problems] #underline[what's coming down the line]?
+No, they haven't. In fact, there are no #strike[any defence] #underline[literally guardrailds], which #strike[urged] #underline[prompted] #strike[several] #underline[dozens of] technology companies to #underline[*step in*], signing #underline[an *accord* *aimed at*] #strike[prohibiting] #underline[combating] the abuse of AI in elections.
 
-The democracy regulation is based on free and fair elections which depend on reliable information, and reliable information is decided on the properties of the information and the transparency of the source.
+#strike[The democracy regulation is] #underline[Democracies are] based on free and fair elections. Free and fair elections depend on #strike[reliable] #underline[trustworthy] information, and trustworthy information is decided on the #strike[properties] #underline[provenance] of the information and the transparency #strike[of the source] #underline[about the source].
 
-This ... asked the world-advanced technology companies to develop tools to help identify and label the content generated by AI. They also reached a deal that rapid response need to made when deceptive fake material generated by AI transporting on the Internet. Inspite of this, they also acknowledged the tasks aren't easy. We are not only fighting with a person but also a particular well-resourced coutry.
+This accord #strike[asked] #underline[requires] the #strike[world-advanced technology companies] #underline[the *world's leading tech companies*] to develop tools to help identify and label the content generated by AI. They also #strike[reached a deal that rapid response need to made] #underline[have agreed on the need to respond more quickly] when deceptive fake material generated by AI #strike[transporting] #underline[*spreads*] on the Internet. Inspite of this, they also #strike[acknowledged] #underline[*concede*] the tasks #underline[*ahead*] aren't easy. We are not only #strike[fighting] #underline[combating] with #strike[a person] #underline[*individuals*] but also a well-resourced coutry #underline[including one in particular].
 
-Even though Kremlin denied this, but countless reportes confirmed the efforts to interfere with the election. But CEO of Microsoft warns that the level of technology is now becoming higher and higher thanks to the progress of AI.
-
-This is a serious challenge, we need to pay much attention to this field to protect the fairness and transparency of the election.
+Even though Kremlin denied this, #strike[but]countless reportes confirmed #strike[the efforts to interfere with the election] #underline[Russia's elections interference] efforts. But CEO of Microsoft warns that Russia's level of #strike[technology] #underline[sophistication] is #strike[now becoming higher and higher thanks to the progress of AI.] #underline[*growing*, *fueled by* advances in AI.]
 
 == SAT(Scholastic Aptitude Test)
 
