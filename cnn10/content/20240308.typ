@@ -62,3 +62,9 @@ Next, we honor the life of Kate Sheppard, an activist who helped New Zealand bec
 接下来，我们向Kate Sheppard的生命致敬。她是一名活动家，帮助新西兰于1893年成为世界上第一个允许妇女投票的国家。原籍英国Liverpool，她20多岁时移居新西兰，并成为妇女基督教禁酒联盟的成员，该组织主张通过妇女选举权来反对酒精禁令。然而，凯特的活动远不止于此，她成为了新西兰妇女选举运动的领袖，为议会中的女性代表权以及女性不再穿紧身衣的自由而奋斗。她在新西兰和国外的活动激励了世界各地的妇女权利运动的崛起。
 
 ==== 1st
+
+Dear friends, happy Firday. Today's international women's day, let's start this March 8th, focusing on two different women whose actions still shine brightly.
+
+First, let's head to the civilian rights pioneer Claudette Colvin. She refused to give a seat to a white on a bus at the age of her 15 in 1955. It happens 9 months after Rosa Parks. Because of her protesting, Claudette was arrested and accused of ... and attacking the police. She later asked to clear her record, 66 years later, in 2021, her request was allowed.
+
+Next up, we honored the life of Kate Sheppard who's a activist, helping New Zealand become the first country that allows women to vote in the world. She was born in Liverpool England and immigrated to New Zealand in her 20s and became a member of ... which believes in opposing liquor prohibition through women's voting. However the action Kate has done is far more than this, she then became the leader of the New Zealand women voting movement, fighting for the rights of women's respresent and the freedom of no ... in the meeting. The activity she led inspired women movements across the world.
