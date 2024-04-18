@@ -203,21 +203,34 @@ A change in regulation could lead to a surge of investment in the next generatio
 
 这就是X-59探索者，一架由Lockheed Martin为NASA建造的新型飞机。NASA希望它能够解决商用飞机不让飞行非常快的问题，原因是：
 
-当飞机超音速行进时，快于声速，会产生冲击波。当我第一次听到音爆时，我终于明白为什么这是个大问题了。如果某物以超音速行进，你可以看到它，但直到它已经经过你了，你才会听到声音。
+当飞机超音速行进时，快于声速，会产生冲击波。当我第一次听到音爆时，我终于明白为什么这是个大问题了。如果某物以超音速行进，你可以看到它，但直到它已经经过你了，你才会听到声音。你可以想象，音爆会对地面生活造成干扰。1973年，美国政府与世界上许多国家一起禁止所有民用飞机在陆地上进行超音速飞行。对于美国来说，这是一种速度限制。
 
-你可以想象，音爆会对地面生活造成干扰。1973年，美国政府与世界上许多国家一起禁止所有民用飞机在陆地上进行超音速飞行。
+唯一一架运送乘客超音速的民用喷气式飞机是协和式飞机(Concorde)。它只能在海上进行超音速飞行。所以你可以从伦敦飞往纽约，但你必须在抵达纽约之前减速，转为次音速飞行。因此，航线非常有限。Concorde是一项备受赞誉的技术成就，也是其乘客的独特奢侈享受。有限的航线和高油耗意味着运营协和式飞机并不划算。然而，它在2003年停止飞行。但是，如果超音速飞机能够在陆地上飞行，它们可以飞往任何地方，商业前景就会发生变化。
 
-对于美国来说，这是一种速度限制。
+NASA和Lockheed Martin希望这架看起来很疯狂的飞机是朝着这个方向迈出的一步。它被设计为在超音速行进时不发出我们几十年来习以为常的巨大音爆。要理解这种原理，了解声爆是如何发生的很重要。就像一艘船，当船在移动时，它带着船身上的重量一起移动。同样，对于超音速飞机，冲击波从飞机上脱落并在整个超音速飞行期间传播到地面。因此，当工程师设计X-59时，他们使用了光滑且长的空气动力学线条来限制冲击波到达地面。发动机位于机翼上方，这样发动机产生的冲击波就无法传播到地面，只会向上传播。它仍然是可听到的，像一个轻微的隆隆声。大多数人，如果听到了，甚至都不会注意到。
 
-唯一一架运送乘客超音速的民用喷气式飞机是协和式飞机(Concorde)。它只能在海上进行超音速飞行。所以你可以从伦敦飞往纽约，但你必须在抵达纽约之前减速，转为次音速飞行。因此，航线非常有限。Concorde是一项备受赞誉的技术成就，也是其乘客的独特奢侈享受。有限的航线和高油耗意味着运营协和式飞机并不划算。然而，它在2003年停止飞行。但是，如果超音速飞机能够在陆地上飞行，它们可以飞往任何地方，商业前景就会发生变化。NASA和Lockheed Martin希望这架看起来很疯狂的飞机是朝着这个方向迈出的一步。它被设计为在超音速行进时不发出我们几十年来习以为常的巨大音爆。要理解这种原理，了解声爆是如何发生的很重要。就像一艘船，当船在移动时，它带着船身上的重量一起移动。同样，对于超音速飞机，冲击波从飞机上脱落并在整个超音速飞行期间传播到地面。因此，当工程师设计X-59时，他们使用了光滑且长的空气动力学线条来限制冲击波到达地面。发动机位于机翼上方，这样发动机产生的冲击波就无法传播到地面，只会向上传播。
-
-它仍然是可听到的，像一个轻微的隆隆声。大多数人，如果听到了，甚至都不会注意到。
-
-NASA计划于2024年春季进行X-59的首次试飞。诗意地，就在加利福尼亚沙漠的同一块地方，Chuck Yeager首次在X-1上突破音障时。
-
-NASA可以利用这些数据，然后向监管机构提供，以实际废除我们今天所面临的超音速飞行限制。
+NASA计划于2024年春季进行X-59的首次试飞。诗意地，就在加利福尼亚沙漠的同一块地方，Chuck Yeager首次在X-1上突破音障时。NASA可以利用这些数据，然后向监管机构提供，以实际废除我们今天所面临的超音速飞行限制。
 
 法规的变化可能会导致下一代商用超音速飞机的投资激增，使超音速飞行对每个人都更加普遍。这可能会给航空旅行业带来巨大的冲击波。NASA和Lockheed Martin希望这些冲击波听起来更像是隆隆声。
 
 ==== 1st
 
+Maybe you still remember we've talked about the speed of sound last month, we mentioned the development of supersonic plane. Today we are going to learn more about the new experimental plane X-59 which debuted and was built by Lockheed Martin for NASA. This experimental plane was called NASA, a kind of supersonic plane. NASA is hoping to revolutionize the plane travelling industry, which means implement the real speed, so fast that it can drive faster than the speed of sound. Let's take a look at the article about X-59:
+
+This is the X-59 quest, a new kind of plane built by Lockheed Martin for NASA. NASA is hoping it can solve the problem of the business plane speed limitation, because:
+
+When a plane travels supersonicly, faster than the speed of sound, it will create shockwaves. When I first heard of the shockwaves, I finally understood why it's a big problem. If something travels supersonicly, you can see it, but you won't hear anything until it passed you.
+
+As you can imagine, shockwaves will be disruptive to the life on the ground. American government along with many other countries across the world prohibited the civilian plane from travelling supersonicly over the land in 1973.
+
+To the U.S., it's a kind of speed limitation.
+
+The only civilian jet that is allowed to carry passengers is Concorde, but it is only enable to travel supersonic over the sea. So you can fly from London to New York, but before arriving New York, you must slow down to ... , owing to which the routes are limited. Concorde is a technical achievement full of credit. However it has been stopped flying from 2003. However, if supersonic plane can travel over the land, they can fly to anywhere, the future of business will change. NASA and Lockheed Martin hope this crazy looking plan was a step in that direction. To understand this principle, it is important to know how shockwaves are made. Just like a boat, it moves along along with its weight. Similarly, to supersonic plane, shockwaves come off from the plane and transport to the ground when it is flying. So when engineers are designing X-59, they limited shockwaves arriving at ground with smooth and long aero lines. The engine is above the wing, so shockwaves from it can't spread to the ground which only can go above.
+
+It is still audible, like a slight thump. Most people won't notice it even they have heard of it.
+
+NASA are planing the first fly of X-59 in Spring of 2024. Poetically, in the same place of California desert, where Chuck Yeager first broke sound barrier.
+
+NASA can exploit it can provide it to the regulation organization to repeal the limitations in the speed of supersonic plane we are confronting today.
+
+The changes in regulation could lead to a boom in ... in the next generation of business supersonic plane, which makes more accessible to everyone. It has a potential to bring a shockwave to the air travel industry. NASA and Lockheed Martin hopes these shockwaves are more like thump.
