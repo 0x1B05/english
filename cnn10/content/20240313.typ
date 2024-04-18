@@ -61,6 +61,8 @@ Even though the #underline[the Kremlin] denies it, #underline[*countless*] Intel
 
 === 回译
 
+==== 原文
+
 Hello, and Wonderful Wednesday to you. I'm Coy Wire, bringing you best ten minutes in news right here on CNN10. It is your word Wednesday, so to see if your words submission made it into today's show.
 
 We start with the year of the election 2024. And not just here in United States, many countries around the world are having their own important national elections this year. Nations with people heading to the polls this year include some of the most powerful and wealthiest country in the world, as well as the most populous like Indian, South Africa, Mexico and in Europe, where United Kingdom is leaning towards elections later this year. And countries with hundreds of millions of voters will be heading to the polls to elect a new parliament for the European Union. 

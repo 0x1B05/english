@@ -188,6 +188,8 @@ To #strike[get them more living space] #underline[_give them more roaming space_
 
 === 回译
 
+==== 原文
+
 Let's head to Kenya now, where the East country is dealing with a rise in the rhinoceros of population. Overcrowding in sanctuaries has cause problem such as rhinos attacking each other and competing for food. It's such a concern that Kenya Wildlife Service is transporting 21 rhinos to a new location.
 
 It takes nearly a dozen people to get this five-year-old black rhino up on its feet as the tranquilizer wears off. With tracker securely glued to her horn, she is ready to move 100 hundred miles away. Kenya has an unusual problem. Rhino populations here are actually going up, so Safia and others at this overcrowded sanctuary in central Kenya are getting a new home. Decades ago, 20,000 eastern black rhinos like this one ran free in Africa. But in just under 20 years, the numbers plummeted to below 400 as poachers hunted them for their precious horns. Now Kenya rhinos are making a comeback thanks to anti-poaching efforts . But overcrowding in sanctuaries has become a problem for a solitary animal.
