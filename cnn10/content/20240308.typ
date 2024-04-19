@@ -11,7 +11,7 @@ First up, #underline[civil rights pioneer Claudette Colvin] at her age of 15 in 
 
 Claudette, who's now 84 years old, #underline[remained an unsung] hero of the #strike[ration] #underline[racial] justice #strike[moving] #underline[movement], until the book about her life by #underline[Philip Hoose]  #strike[one] #underline[won] the #strike[national book words for young people's literature] #underline[National Book Awards for Young People's Literature] in 2009.
 
-Next, we *honor* the life of #underline[Kate Sheppard], an #underline[*activist*] who helped New Zealand become the first country in the world to allow women to vote back in 1893. Originally born in #underline[Liverpool,] England, she #strike[immgrated] #underline[immigrated] to New Zealand in her early 20s and became an #underline[activist] as a member of Women's Christian #underline[Temperance] Union, which advocated for women *sufferage* as a #underline[way to] fight for #underline[*liquor*] prohibition.  Kate, however, _took her #underline[*activism*] way beyond that_, become a leader in New Zealand sufferage movement, fighting for issues _ranging from representation #strike[and parliament] #underline[in Parliament] to freedom from wearing the #underline[*corset*]_. #underline[Her activism work in] New Zealand #underline[and abroad] inspired women's rights #strike[move it] #underline[movement] around the world#underline[,] rise up.
+Next, we *honor* the life of #underline[Kate Sheppard], an #underline[*activist*] who helped New Zealand become the first country in the world to allow women to vote back in 1893. Originally born in #underline[Liverpool,] England, she #strike[immgrated] #underline[immigrated] to New Zealand in her early 20s and became an #underline[activist] as a member of Women's Christian #underline[Temperance] Union, which advocated for women *suffrage* as a #underline[way to] fight for #underline[*liquor*] prohibition.  Kate, however, _took her #underline[*activism*] way beyond that_, become a leader in New Zealand suffrage movement, fighting for issues _ranging from representation #strike[and parliament] #underline[in Parliament] to freedom from wearing the #underline[*corset*]_. #underline[Her activism work in] New Zealand #underline[and abroad] inspired women's rights #strike[move it] #underline[movement] around the world#underline[,] rise up.
 
 === words, phrases and sentences
 
@@ -24,7 +24,7 @@ Next, we *honor* the life of #underline[Kate Sheppard], an #underline[*activist*
 - _activist_
 - _temperance_
 - _liquor_
-- _sufferage_
+- _suffrage_
 - _activism_
 - _corset_
 
@@ -37,7 +37,7 @@ Next, we *honor* the life of #underline[Kate Sheppard], an #underline[*activist*
 ==== sentences
 
 - _Claudette, who's now 84 years old, remained an unsung hero of the racial justice movement, util the book about her life by Philip Hoose won the National Book Awards for Young People's Literature in 2009._
-- _..., which advocated for women *sufferage* as a way to fight for liquor prohibition._
+- _..., which advocated for women *suffrage* as a way to fight for liquor prohibition._
 
 === 回译
 
@@ -49,7 +49,7 @@ First up, civil rights pioneer Claudette Colvin at her age of 15 in the year 195
 
 Claudette, who's now 84 years old, remained an unsung hero of the racial justice movement, util the book about her life by Philip Hoose won the National Book Awards for Young People's Literature in 2009.
 
-Next, we honor the life of Kate Sheppard, an activist who helped New Zealand become the first country in the world to allow women to vote back in 1893. Originally born in Liverpool, England, she immigrated to New Zealand in her early 20s and became an activist as a member of Women's Christian Temperance Union, which advocated for women sufferage as a way to fight for liquor prohibition. Kate, however, took her activism way beyond that, become a leader in New Zealand sufferage movement, fighting for issues ranging from representation in Parliament to freedom from wearing the corset. Her activism work in New Zealand and abroad inspired women's rights movement around the world, rise up.
+Next, we honor the life of Kate Sheppard, an activist who helped New Zealand become the first country in the world to allow women to vote back in 1893. Originally born in Liverpool, England, she immigrated to New Zealand in her early 20s and became an activist as a member of Women's Christian Temperance Union, which advocated for women suffrage as a way to fight for liquor prohibition. Kate, however, took her activism way beyond that, become a leader in New Zealand suffrage movement, fighting for issues ranging from representation in Parliament to freedom from wearing the corset. Her activism work in New Zealand and abroad inspired women's rights movement around the world, rise up.
 
 ==== 参考翻译
 
@@ -63,8 +63,10 @@ Next, we honor the life of Kate Sheppard, an activist who helped New Zealand bec
 
 ==== 1st
 
-Dear friends, happy Firday. Today's international women's day, let's start this March 8th, focusing on two different women whose actions still shine brightly.
+#strike[Dear friends] #underline[What's up lovely people], happy Firday. #strike[Today's] #underline[And happy] international Women's day, let's start this March 8th#strike[, focusing] #underline[by putting this sportlight] on two #strike[different] #underline[difference-making] women whose lives and actions still shine brightly these days.
 
-First, let's head to the civilian rights pioneer Claudette Colvin. She refused to give a seat to a white on a bus at the age of her 15 in 1955. It happens 9 months after Rosa Parks. Because of her protesting, Claudette was arrested and accused of ... and attacking the police. She later asked to clear her record, 66 years later, in 2021, her request was allowed.
+First, let's head to the #strike[civilian] #underline[civil] rights pioneer Claudette Colvin. She refused to give #underline[up] #strike[a] #underline[her] seat to a whiter passenger on a bus at the age of her 15 in 1955. It happens 9 months after Rosa Parks did the same. Because of her #underline[act of] #strike[protesting] #underline[protest], Claudette was arrested and accused of #underline[the *citys's segregation rule*] and #strike[attacking] #underline[assaulting] a police officer. She later #strike[asked] #underline[petitioned] to clear her record, 66 years later, in 2021, her request was #strike[allowed] #underline[granted].
 
-Next up, we honored the life of Kate Sheppard who's a activist, helping New Zealand become the first country that allows women to vote in the world. She was born in Liverpool England and immigrated to New Zealand in her 20s and became a member of ... which believes in opposing liquor prohibition through women's voting. However the action Kate has done is far more than this, she then became the leader of the New Zealand women voting movement, fighting for the rights of women's respresent and the freedom of no ... in the meeting. The activity she led inspired women movements across the world.
+Claudette, who's been 84 years old, #underline[remained an unsung hero of the racial justice movement], util the book about her life written by Philip Hoose won the National Book Awards for Young People's Literature.
+
+Next up, we honor the life of Kate Sheppard #strike[who's a] #underline[, an] activist#strike[, helping] #underline[who helped] New Zealand become the first country in the world#strike[that allows] #underline[to allow] women to vote back in 1893. #strike[She was] #underline[Originally] born in Liverpool, England, #strike[and] #underline[she] immigrated to New Zealand in her early 20s and became #underline[an activist as] a member of #underline[Women's Christian Temperance Union], which #strike[believes in opposing liquor prohibition through women's voting] #underline[advocated for women suffrage as a way to fight for liquor prohibition]. However #strike[the action Kate has done is far more than this] #underline[Kate, however, *took* her activism way beyond that], #strike[she then] became the leader #strike[of the New Zealand women voting movement] #underline[in New Zealand suffrage movement], fighting for #strike[the rights of women's respresent and the freedom of no ... in the meeting] #underline[issues ranging form representation in Parliament to freedom from wearing the corset]. #strike[The activity she led] #underline[Her activism work in New Zealand and abroad] inspired #strike[women] #underline[women's rights] movements across the world#underline[, rise up].
