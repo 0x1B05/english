@@ -192,3 +192,29 @@ We will show you some key points of President Biden's address, and break down ho
 
 ==== 1st
 
+== Dead Galaxy
+
+Next up, the oldest dead galaxy ever observed#underline[. It was spotted] with the #underline[James Webb] Space Telescope. And an astronomers researchers say, this galaxy existed when the universal was only 700 million years into its current age of about 13.8 billion years. 
+
+So what is a dead galaxy, it is essentially a galaxy that no longer has the ability to form new stars, because #strike[it didn't have] #underline[there isn't] enough gas #strike[it] #underline[that's] need to create them. Some factors can cause the gas to disappear or #underline[*dissipate*] are a *supermassive* black hole, stars violately interacting#strike[ in], and new stars consuming all the remaining gas when they#underline['re] born. The astronomers and researchers observing this newly dicovered dead galaxy have been left puzzled, and they're still trying to *uncover* the reason the stars there #strike[leaves] #underline[lived] fast and died young more than 13 billion years ago.
+
+=== words
+
+- _dissipate_
+- _uncover_
+
+=== 回译
+
+==== 原文
+
+Next up, the oldest dead galaxy ever observed. It was spotted with the James Webb Space Telescope. And an astronomers researchers say, this galaxy existed when the universal was only 700 million years into its current age of about 13.8 billion years. 
+
+So what is a dead galaxy, it is essentially a galaxy that no longer has the ability to form new stars, because there isn't enough gas that's need to create them. Some factors can cause the gas to disappear or dissipate are a supermassive black hole, stars violately interacting, and new stars consuming all the remaining gas when they're born. The astronomers and researchers observing this newly dicovered dead galaxy have been left puzzled, and they're still trying to uncover the reason the stars there lived fast and died young more than 13 billion years ago.
+
+==== 参考翻译
+
+接下来，我们要说的是有史以来观测到的最古老的死亡星系。这是由James Webb太空望远镜发现的。天文学家的研究人员表示，这个星系存在于宇宙年龄约为138亿年时，当时宇宙仅有7亿年。
+
+那么，什么是死亡星系呢？实质上，它是一个不再具有形成新恒星能力的星系，因为没有足够的气体来形成它们。导致气体消失或消散的一些因素包括超大质量黑洞、恒星之间的激烈相互作用，以及新恒星在出生时消耗了所有剩余的气体。观测到这个新发现的死亡星系的天文学家和研究人员感到困惑，他们仍在努力揭示超过130亿年前那里的恒星为何生活得那么快，死得那么早的原因。
+
+==== 1st
