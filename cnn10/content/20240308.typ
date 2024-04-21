@@ -152,3 +152,43 @@ And just like a stent, it doesn't require open brain surgery. Instead it's able 
 
 ==== 1st
 
+== Political News
+
+President Joe Biden delievered his State of The Union speech last night, a *high-stakes* moment that he's preparing to face the former President Donald Trump in #strike[the] #underline[a] likely *rematch* in the *general elections* in November. Trump and Biden dominated their respective Super Tuesday races this week. While two of their respective party rivals, former U.N. #strike[embassidor] #underline[*ambassador*] Nikki Haley on the Republic #strike[sight] #underline[side], and #strike[respresent] #underline[Representative Dean Phillips] on a democratic #strike[sight] #underline[side] both ended their campaigns. 
+
+We will show you some key points of President Biden's address, and break down how both sides of political #underline[*aisle*] responding to this State of Union on Monday's show, but there's some other political news #strike[was attaching] #underline[worth touching] on today, the U.S. Congress avoiding a partial government shutdown this week#strike[. A green] #underline[, agreeing] to continue funding the government on a temporary basis until #strike[I] #underline[they] can vote on individuals spending #strike[bills] #underline[deals] also known as #strike[a preparation] #underline[appropriation] bills. Top democrats and Republicans have already agreed to six funding bills for #strike[varies] #underline[various] government agencies and #underline[are] now working towards #strike[a green] #underline[agreements] for six others before #strike[I knew] #underline[a new] Marh #strike[27] #underline[22(twenty-second)] deadline. This is the first since 2018 the Congress has not funded the government by #underline[tying] all #strike[time proparation] #underline[appropriations] bills into a single deal.
+
+=== words, phrases and sentences
+
+==== words
+
+- _high-stakes_
+- _rematch_
+- _general election_
+- _ambassador_
+
+==== phrases
+
+- _on one's side_
+
+==== sentences
+
+- _This is the first since 2018 the Congress has not funded the government by *tying all appropriations bills into a single deal*_.
+- _There's some other political news *worth touching* on today_
+
+=== 回译
+
+==== 原文
+
+President Joe Biden delievered his State of The Union speech last night, a high-stakes moment that he's preparing to face the former President Donald Trump in a likely rematch in the general elections in November. Trump and Biden dominated their respective Super Tuesday races this week. While two of their respective party rivals, former U.N. ambassador Nikki Haley on the Republic side, and Representative Dean Phillips on a democratic side both ended their campaigns.
+
+We will show you some key points of President Biden's address, and break down how both sides of political aisle responding to this State of Union on Monday's show, but there's some other political news worth touching on today, the U.S. Congress avoiding a partial government shutdown this week, agreeing to continue funding the government on a temporary basis until they can vote on individuals spending deals also known as appropriation bills. Top democrats and Republicans have already agreed to six funding bills for various government agencies and are now working towards agreements for six others before a new Marh 22(twenty-second) deadline. This is the first since 2018 the Congress has not funded the government by tying all appropriations bills into a single deal.
+
+==== 参考翻译
+
+美国总统乔·拜登昨晚发表了他的国情咨文演讲，这是一个高风险的时刻，他正在准备在11月的大选中可能再次面对前总统唐纳德·特朗普的挑战。本周，特朗普和拜登分别在各自的超级星期二竞选中占据主导地位。而两位候选人的党内竞争对手——共和党方面的前联合国大使尼基·黑利和民主党方面的众议员迪恩·菲利普斯——都已结束了他们的竞选活动。
+
+我们将展示一些拜登总统演讲的关键要点，并分析两党对这次国情咨文的反应，但今天还有一些其他值得关注的政治新闻，美国国会本周避免了部分政府停摆，同意继续暂时资助政府，直到他们能够就个别支出协议达成投票，也就是所谓的拨款法案。民主党和共和党的高层已经就各个政府机构的六项资助法案达成一致，并正在努力在3月22日之前就另外六项达成协议。这是自2018年以来，国会首次未通过将所有拨款法案捆绑成一项协议来资助政府。
+
+==== 1st
+

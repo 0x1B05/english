@@ -140,7 +140,7 @@ This is the X-59 *quest*, a new plane built by Lockheed Martin for NASA. NASA is
 
 When #strike[the] #underline[an] aircraft goes supersonic, faster than the speed of sound, it create shockwaves. When I heard the sonic boom for the first time, I finally understood why it was such a big deal. If something's travelling #strike[supersonicly] #underline[*supersonically*], you can see it coming but you won't hear it at all until it has already passed you. 
 
-As you could image, sonic booms can be #strike[desruptive] #underline[*disruptive*] to life on the ground, so #strike[... 131953] #underline[disruptive that in 1973], the United States government #strike[alone] #underline[along] with much of the world #strike[ban] #underline[banned] all #strike[Soviet...] #underline[*civilian*] aircraft from supersonic #underline[flight] overland.
+As you could imagine, sonic booms can be #strike[desruptive] #underline[*disruptive*] to life on the ground, so #strike[... 131953] #underline[disruptive that in 1973], the United States government #strike[alone] #underline[along] with much of the world #strike[ban] #underline[banned] all #strike[Soviet...] #underline[*civilian*] aircraft from supersonic #underline[flight] overland.
 
 For the U.S., it's a speed limit.
 
@@ -200,7 +200,7 @@ This is the X-59 quest, a new plane built by Lockheed Martin for NASA. NASA is h
 
 When an aircraft goes supersonic, faster than the speed of sound, it create shockwaves. When I heard the sonic boom for the first time, I finally understood why it was such a big deal. If something's travelling supersonically, you can see it coming but you won't hear it at all until it has already passed you.
 
-As you could image, sonic booms can be disruptive to life on the ground, so disruptive that in 1973, the United States government along with much of the world banned all civilian aircraft from supersonic flight overland. For the U.S., it's a speed limit.
+As you could imagine, sonic booms can be disruptive to life on the ground, so disruptive that in 1973, the United States government along with much of the world banned all civilian aircraft from supersonic flight overland. For the U.S., it's a speed limit.
 
 The only civilian jet to ferry passengers faster than the speed of sound was the Concorde. It is only able to fly over the ocean supersonic. So you could do London to New York, but you had to slow down before you got to New York and be subsonic. So the routes were very limited. The Concorde was a celebrated technical achievement, and an exclusive luxury for its passengers. Limited roots and heavy fuels consumption meant that operating the Concorde was not good business. However, it stopped flying in 2003. But if supersonic airplane could fly overland, they can fly anywhere, and the business proposition changes.
 
