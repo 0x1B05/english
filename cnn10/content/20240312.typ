@@ -173,11 +173,11 @@ To #strike[get them more living space] #underline[_give them more roaming space_
 
 ==== words
 
-- _rhinocero_
-- _sancturies_
+- _rhinoceros_
+- _sanctuary_
 - _tranquilizer_
 - _horn_
-- _plumete_
+- _plummet_
 - _poach_, _poacher_
 - _solitary_
 
@@ -214,9 +214,9 @@ To offer them more #underline[roaming] space, the 21 rhinos #strike[was] #underl
 
 == Bird
 
-For today's #underline[story's getting a] 10 out of 10, a video#underline[-bombing] bird doing its best to break up #strike[and] #underline[a] beat on broadcast tv. CNN's #underline[Jeanne Moos] has more.
+For today's #underline[story's getting a] 10 out of 10, a video#underline[-bombing] bird doing its best to break up #strike[and] #underline[a] beat on broadcast TV. CNN's #underline[Jeanne Moos] has more.
 
-Look at this, reporters are supposed to be able to #underline[_*wing it*_], but this is something #strike[like] #underline[out of the] birds. Ok, maybe not that #strike[stream] #underline[extreme]. But #underline[Australia reporter Ursula Heger] was #strike[fighting] #underline[_*filing*_] a #underline[report] for 10 News First#strike[. When] #underline[when] she got #underline[dive-bombed] over and over. #underline[dive-bombed] #strike[for] nine times. Her own station called it #underline[_*impeckable* *journalism*_] Instead doing this, #underline[Ursula did this.] 
+Look at this, reporters are supposed to be able to #underline[_*wing it*_], but this is something #strike[like] #underline[out of the] birds. OK, maybe not that #strike[stream] #underline[extreme]. But #underline[Australia reporter Ursula Heger] was #strike[fighting] #underline[_*filing*_] a #underline[report] for 10 News First#strike[. When] #underline[when] she got #underline[dive-bombed] over and over. #underline[dive-bombed] #strike[for] nine times. Her own station called it #underline[_*impeckable* *journalism*_] Instead doing this, #underline[Ursula did this.] 
 
 #strike[We should] #underline[_At least she didn't_] get used #strike[to] a landing #underline[_strip_] by, say, a #underline[_*robin*_] or a #underline[_pet_] parrot. And Ursula didn't get #strike[his] #underline[_her_] earbud #underline[_*plucked*_] by this reporter in #underline[_*Chile*_]
 Ironically, he was reporting on the rising *robberies*. They did manage to get the earbud back from the parrot.
