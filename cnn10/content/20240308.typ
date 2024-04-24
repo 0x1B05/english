@@ -79,7 +79,7 @@ Up, down, left, right. Everything you're watching happen on this screen right no
 
 So that#strike['s just a] #underline[just sent out a] health #strike[modification] #underline[notification].
 
-He describes it #strike[is] #underline[as] #strike[constructing] #underline[contracting] and relaxing his brain: It takes concentration. It's #underline[a] pretty involve process. It's one I don't take #strike[likely] #underline[lightly]. 
+He describes it #strike[is] #underline[as] #strike[constructing] #underline[contracting] and relaxing his brain: It takes concentration. It's #underline[a] pretty involved process. It's one I don't take #strike[likely] #underline[lightly]. 
 
 This's all been pretty sudden for Mark. He was diagnosed with #underline[ALS] in 2021. Mark has #underline[since] lost control of his hands and arms. He #underline[would] likely #strike[loses] #underline[lose] his voice. Markd didn't hesitate to sign #underline[a clinical] trial to have this #strike[plays] #underline[placed] in his brain. It's called #underline[a *stentrode*]. 
 
@@ -131,13 +131,13 @@ And just like a #strike[stand] #underline[*stent*], it doesn't require open brai
 
 ==== 原文
 
-Next up, we examined cutting-edge technology behind a human brain chip that can translate neural activity into commands on a computer. You may remember Elon Musk announced about 5 weeks ago that a person received the implant from his company Neuralink for the first time. But there are other companies like Synchron who have been implanting people in its clinical trial in the U.S. for years. CNN's Chief Medical Correspandent, doctor Sanjay Gupta, goes behind the scenes with the folks at Synchron to learn how this groundbreaking technology aims at changing lives for the better.
+Next up, we examined a cutting-edge technology behind a human brain chip that can translate neural activity into commands on a computer. You may remember Elon Musk announced about 5 weeks ago that a person received the implant from his company Neuralink for the first time. But there are other companies like Synchron who have been implanting people in its clinical trial in the U.S. for years. CNN's Chief Medical Correspandent, doctor Sanjay Gupta, goes behind the scenes with the folks at Synchron to learn how this groundbreaking technology aims at changing lives for the better.
 
 Up, down, left, right. Everything you're watching happen on this screen right now is being controlled only with Mark's thoughts.
 
 So that just sent out a health notification.
 
-He describes it as contracting and relaxing his brain: It takes concentration. It's a pretty involve process. It's one I don't take lightly.
+He describes it as contracting and relaxing his brain: It takes concentration. It's a pretty involved process. It's one I don't take lightly.
 
 This is all been pretty sudden for Mark. He was diagnosed with ALS in 2021. Mark has since lost control of his hands and arms. He would likely lose his voice. Markd didn't hesitate to sign a clinical trial to have this placed in his brain. It's called a stentrode. 
 
@@ -151,7 +151,7 @@ And just like a stent, it doesn't require open brain surgery. Instead it's able 
 
 ==== 参考翻译
 
-接下来，我们将研究一种人脑芯片的前沿技术，它可以将神经活动转化为计算机上的指令。你可能还记得Elon Musk大约五周前宣布，有人首次接受了他的公司Neuralink的植入器。但是像Synchron这样的其他公司已经在美国进行临床试验多年了。CNN的首席医学记者、医生Sanjay Gupta博士与Synchron的工作人员一起走进幕后，了解这项开创性技术如何旨在改善生活。
+接下来，我们将研究人脑芯片背后的一项前沿技术，它可以将神经活动转化为计算机上的指令。你可能还记得Elon Musk大约五周前宣布，有人首次接受了他的公司Neuralink的植入器。但是像Synchron这样的其他公司已经在美国进行临床试验多年了。CNN的首席医学记者、医生Sanjay Gupta博士与Synchron的工作人员一起走进幕后，了解这项开创性技术如何旨在改善生活。
 
 上、下、左、右。你现在在屏幕上看到的一切都是仅凭Mark的想法控制的。
 
@@ -167,7 +167,7 @@ And just like a stent, it doesn't require open brain surgery. Instead it's able 
 
 太神奇了。这就是我能说的。
 
-就像支架一样，它不需要开颅手术。相反，它能够穿过身体的自然静脉网络，并位于大脑中间的一条主要静脉中。我们的大脑有数百万个神经元发射控制我们的运动的电冲动，从握手到迈步的一切。每一个行动都与特定的电信号相关联。stentrode再次设置在负责运动的大脑区域周围，学会识别这些特定的电信号模式，从而创建自己的个性化运动字典。这对未来的患者是一种希望，也是马克继续过上充实生活的机会。
+就像支架一样，它不需要开颅手术。相反，它能够穿过身体的自然静脉网络，并位于大脑中间的一条主要静脉中。我们的大脑有数百万个神经元发射控制我们的运动的电冲动，从握手到迈步的一切。每一个行动都与特定的电信号相关联。stentrode再次设置在负责运动的大脑区域周围，学习识别这些特定的电信号模式，从而创建自己的个性化运动字典。这对未来的患者是一种希望，也是马克继续过上充实生活的机会。
 
 ==== 1st
 
@@ -250,7 +250,7 @@ So what is a dead galaxy, it is essentially a galaxy that no longer has the abil
 
 ==== 原文
 
-Next up, the oldest dead galaxy ever observed. It was spotted with the James Webb Space Telescope. And astronomers and researchers say, this galaxy existed when the universal was only 700 million years into its current age of about 13.8 billion years. 
+Next up, the oldest dead galaxy ever observed. It was spotted with the James Webb Space Telescope. And astronomers and researchers say, this galaxy existed when the universal was only 700 million years into its current age of about 13.8 billion years.
 
 So what is a dead galaxy, it is essentially a galaxy that no longer has the ability to form new stars, because there isn't enough gas that's needed to create them. Some factors can cause the gas to disappear or dissipate are a super massive black hole, stars violently interacting, and new stars consuming all the remaining gas when they're born. The astronomers and researchers observing this newly discovered dead galaxy have been left puzzled, and they're still trying to uncover the reason the stars there lived fast and died young more than 13 billion years ago.
 
