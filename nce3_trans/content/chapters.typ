@@ -433,6 +433,14 @@ Dimitri came back from the field, and the wife told him #strike[the situation] #
 
 维拉萨诺大桥由奥斯马·阿曼设计，连结着布鲁克林与斯塔顿岛，桥长4，260英尺。由于桥身太长，设计者不得不考虑了地表的形状。两座巨塔支撑着4根粗大的钢缆。塔身建在巨大的水下钢筋混凝土平台上。平台深入海底100英尺。仅这两座塔就花了16个月才建成。塔身高出水面将近700英尺。高塔支撑着钢缆，而钢缆又悬吊着大桥。4根钢缆中的每根由26，108股钢绳组成。据估计，若桥上摆满了汽车，也只不过是桥的总承载力的1／3。然而，这座桥的重要特点不仅是它的规模与强度。尽管此桥很大，但它的结构简单，造型优美，实现了设计者企图创造一个“尽量用细线条勾画出一个庞然大物”的梦想。
 
+== 回译
+
+=== 1st
+
+In 1524, an Italian #strike[of] #underline[about] whom little is known, Verrazano, sailed into New York Harbour and named it Angouleme. He described it as #strike[below:"It has an] #underline["a very]  agreeable situation, located #strike[between two] #underline[*within* two small] hills in the midst of which #underline[*flowed*]a large river#strike[goes across]." While Verrazano was #strike[absolutely eligible for being great] #underline[*by no means* considered to be a great explorer], his name will #strike[be remembered forever] #underline[probably remain immortal], because the longest suspension bridge in the world built on November 21st of 1964 was named after him.
+
+The Verrazano bridge #strike[with 4,260 feet of length] was designed by Othmar Ammann, #strike[joined] #underline[joins] Broolkyn and Staten Island. #underline[It has a span of 4,260 feet.]So long is the bridge that the shape of the #strike[surface] #underline[earth] had to be taken into #strike[accounts] #underline[account] by #underline[its] designers. Two #strike[immense] #underline[great] towers support 4 huge cables. The #strike[body of] tower was built on the huge #underline[*underwater*] platforms #underline[made] of steel and concrete #strike[under water]. #strike[The platforms go down 100 feet below the surface of the sea] #underline[The platforms extend to a depth of over 100 feet under the sea]. These two towers alone #strike[takes] #underline[took] 16 months to #strike[be built] #underline[build]. #underline[Above the surface of the water,] the #strike[body] #underline[tower] rose #strike[over about 700 feet over the surface of the sea] #underline[to a height of nearly 700 feet], supporting the cables #strike[which suspend the bridge] #underline[from which the bridge has been suspended]. Each of the four cables #strike[consists 26,108 steel ropes] #underline[contains 26,108 lengths of wire]. It is estimated that #strike[it takes only 1/3 of the total capacity of the bridge even if the bridge is full of cars] #underline[_even if the bridge were packed with cars, it would still only be carrying a third of its total capacity_]. However, #strike[the most important thing of the bridge was not only its scale and strength] #underline[size and strength are not the only important things about this bridge]. Despite #strike[it's huge] #underline[its immensity], it's #underline[both] simple and elegant also, #strike[making] #underline[*fulfilling*] its designers' dream #strike[-- designing a colossal in just simple lines come true] #underline[to create "an enormous object drawn as faintly as possible"] .
+
 #pagebreak()
 = Electric currents in modern art
 
@@ -448,11 +456,7 @@ Dimitri came back from the field, and the wife told him #strike[the situation] #
 
 绑架者很少对动物感兴趣。最近，绑架者却盯上了埃莉诺·拉姆齐太太的猫。埃莉诺·拉姆齐太太是一个非常富有的老妇人，多年来，一直同她养的猫拉斯特斯一起住在一所公寓里。拉斯特斯生活很有规律，傍晚常常出去溜达一会儿，并且总是在7点钟以前回来。可是，有一天晚上，它出去后再也没回来。拉姆齐太太急坏了，四处寻找，但没找着。
 
-拉斯特斯失踪
-3天后，拉姆齐太太收到一封匿名信。写信人声称拉斯特斯安然无恙，只要拉姆齐太太愿意支付
-1,
-000英镑赎金，可以立即将猫送还。他让拉姆齐太太把钱放在一个纸盒里，然后将纸盒放在门口。一开始拉姆齐太太打算报告警察，但又害怕再也见不到拉斯特斯了——这点，信上说得十分明白——于是便改变了主意。她从银行取出1,
-000英镑，并照绑架者的要求做了。第二天早晨，放钱的盒子不见了。但拉姆齐太太确信绑架者是会履行诺言的。果然，当天晚上7点正，拉斯特斯准时回来了。它看上去一切正常，只是口渴得很，喝了半瓶牛奶。拉姆齐太太把她所做的事告诉了警察，警察听后大为吃惊。拉姆齐太太解释说她心疼她的猫拉斯特斯。想到她所花的那笔钱，她的心疼就具有双重意义了。
+拉斯特斯失踪3天后，拉姆齐太太收到一封匿名信。写信人声称拉斯特斯安然无恙，只要拉姆齐太太愿意支付1,000英镑赎金，可以立即将猫送还。他让拉姆齐太太把钱放在一个纸盒里，然后将纸盒放在门口。一开始拉姆齐太太打算报告警察，但又害怕再也见不到拉斯特斯了——这点，信上说得十分明白——于是便改变了主意。她从银行取出1,000英镑，并照绑架者的要求做了。第二天早晨，放钱的盒子不见了。但拉姆齐太太确信绑架者是会履行诺言的。果然，当天晚上7点正，拉斯特斯准时回来了。它看上去一切正常，只是口渴得很，喝了半瓶牛奶。拉姆齐太太把她所做的事告诉了警察，警察听后大为吃惊。拉姆齐太太解释说她心疼她的猫拉斯特斯。想到她所花的那笔钱，她的心疼就具有双重意义了。
 
 #pagebreak()
 = Pioneer pilots
@@ -461,8 +465,7 @@ Dimitri came back from the field, and the wife told him #strike[the situation] #
 1908年，诺斯克利夫勋爵拿出1,
 000英镑，作为对第一个飞越英吉利海峡的人的奖励。然而一年多过去了才有人出来尝试。1909年7月19日凌晨，休伯特·莱瑟姆驾驶“安特瓦奈特4号”飞机从法国海岸起飞，但他只在海峡上空飞行了7英里，引擎就发生了故障，他只好降落在海面上。“安特瓦奈特”号飞机在海上漂浮，后来有船经过，莱瑟姆方才获救。
 
-两天之后，路易斯·布莱里奥驾驶一架名为“11号”的飞机来到加来附近。布莱里奥从1905年起便开始研制飞机，“11号”飞机是他制作的最新型号。一周以前，他曾成功地进行了一次
-26英里的陆上飞行。但是莱瑟姆不肯轻易罢休。同一天，他驾驶一架新的“安特瓦奈特”号飞机来到了加来附近。看来会有一场激烈的飞越英吉利海峡的竞争。两架飞机都打算在7月25日起飞，但莱瑟姆那天起床晚了。布莱里奥凌晨4点15分作了一次短距离试飞，半小时后便正式出发了。他这次伟大的飞行持续了37分钟。当他在多佛着陆后，第一个迎接他的是当地一名警察。莱瑟姆一周以后也作了一次尝试，飞到了离多佛不到半英里的地方。这次他又遭厄运，因引擎故障第二次降落在海面上。
+两天之后，路易斯·布莱里奥驾驶一架名为“11号”的飞机来到加来附近。布莱里奥从1905年起便开始研制飞机，“11号”飞机是他制作的最新型号。一周以前，他曾成功地进行了一次26英里的陆上飞行。但是莱瑟姆不肯轻易罢休。同一天，他驾驶一架新的“安特瓦奈特”号飞机来到了加来附近。看来会有一场激烈的飞越英吉利海峡的竞争。两架飞机都打算在7月25日起飞，但莱瑟姆那天起床晚了。布莱里奥凌晨4点15分作了一次短距离试飞，半小时后便正式出发了。他这次伟大的飞行持续了37分钟。当他在多佛着陆后，第一个迎接他的是当地一名警察。莱瑟姆一周以后也作了一次尝试，飞到了离多佛不到半英里的地方。这次他又遭厄运，因引擎故障第二次降落在海面上。
 
 #pagebreak()
 = Daniel Mendoza
