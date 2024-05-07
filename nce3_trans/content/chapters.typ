@@ -478,10 +478,17 @@ Three days after Rastus' #strike[missing] #underline[disappearance], Mrs. Eleano
 = Pioneer pilots
 == 参考译文
 
-1908年，诺斯克利夫勋爵拿出1,
-000英镑，作为对第一个飞越英吉利海峡的人的奖励。然而一年多过去了才有人出来尝试。1909年7月19日凌晨，休伯特·莱瑟姆驾驶“安特瓦奈特4号”飞机从法国海岸起飞，但他只在海峡上空飞行了7英里，引擎就发生了故障，他只好降落在海面上。“安特瓦奈特”号飞机在海上漂浮，后来有船经过，莱瑟姆方才获救。
+1908年，诺斯克利夫勋爵(Lord Northcliffe)拿出1,000英镑，作为对第一个飞越英吉利海峡(English Channel)的人的奖励。然而一年多过去了才有人出来尝试。1909年7月19日凌晨，休伯特·莱瑟姆(Hubert Latham)驾驶“安特瓦奈特4号”(Antoinete IV)飞机从法国海岸起飞，但他只在海峡上空飞行了7英里，引擎就发生了故障，他只好降落在海面上。“安特瓦奈特”号飞机在海上漂浮，后来有船经过，莱瑟姆方才获救。
 
-两天之后，路易斯·布莱里奥驾驶一架名为“11号”的飞机来到加来附近。布莱里奥从1905年起便开始研制飞机，“11号”飞机是他制作的最新型号。一周以前，他曾成功地进行了一次26英里的陆上飞行。但是莱瑟姆不肯轻易罢休。同一天，他驾驶一架新的“安特瓦奈特”号飞机来到了加来附近。看来会有一场激烈的飞越英吉利海峡的竞争。两架飞机都打算在7月25日起飞，但莱瑟姆那天起床晚了。布莱里奥凌晨4点15分作了一次短距离试飞，半小时后便正式出发了。他这次伟大的飞行持续了37分钟。当他在多佛着陆后，第一个迎接他的是当地一名警察。莱瑟姆一周以后也作了一次尝试，飞到了离多佛不到半英里的地方。这次他又遭厄运，因引擎故障第二次降落在海面上。
+两天之后，路易斯·布莱里奥(Louis Bleriot)驾驶一架名为“11号”(No. XI)的飞机来到加来(Calais)附近。布莱里奥从1905年起便开始研制飞机，“11号”飞机是他制作的最新型号。一周以前，他曾成功地进行了一次26英里的陆上飞行。但是莱瑟姆不肯轻易罢休。同一天，他驾驶一架新的“安特瓦奈特”号飞机来到了加来附近。看来会有一场激烈的飞越英吉利海峡的竞争。两架飞机都打算在7月25日起飞，但莱瑟姆那天起床晚了。布莱里奥凌晨4点15分作了一次短距离试飞，半小时后便正式出发了。他这次伟大的飞行持续了37分钟。当他在多佛着陆后，第一个迎接他的是当地一名警察。莱瑟姆一周以后也作了一次尝试，飞到了离多佛(Dover)不到半英里的地方。这次他又遭厄运，因引擎故障第二次降落在海面上。
+
+== 回译
+
+=== 1st
+
+In 1908, Lord Northcliffe offered #underline[a prize of] 1,000 pounds #strike[as an award for] #underline[to] the first people flying across the English Channel. #strike[However, nobody made a try until over a year passed] #underline[_Over a year passed before the first attempt was made_]. #strike[On the early morning of 19th July in 1909] #underline[On July 19th, in the early morning], Hubert Latham took off from the #strike[coast of France] #underline[French coast] #strike[with his] #underline[in his plane, the] "Antoinete IV". Only #strike[flying for 7 miles] #underline[travelling 7 miles], the engine failed, which forced him to land on the sea. "Antoinete" #strike[floating on the sea, Latham was rescued when a ship passed by] [floated on the water until Latham was *pick up* by a ship.].
+
+Two days later, Louis Bleriot #strike[drove his "No. XI" near Calais] #underline[arrived near Calais with a plane called "No. XI"]. Bleriot had been #strike[starting to study ]making planes since 1905, and "No. XI" was #strike[the] #underline[his] latest model #strike[made by himself]. A week before, he had #strike[made] #underline[completed] a successful overland flight #strike[of 26 miles] #underline[during which he covered 26 miles]. #strike[But Latham] #underline[Latham, however,] wouldn't give up easily as well. #strike[The same day, he drove a brand new "Antoinete" near Calais] #underline[He, too, arrived near Calais on the same day with a new "Antoinete"]. It #strike[seemed] #underline[looked *as if*] there would be a fantastic #strike[competition] #underline[race] on flying across the English Channel. #strike[The two planes both] #underline[Both planes] planned to took off on 25th July, but Latham got up late. #strike[Bleriot made a short-distance fly at 4.15 in the early morning and] #underline[After a short test flight at 4.15 a.m., Bleriot] #strike[took] #underline[set] off #strike[officially] a half hour later. The great fly was all over in 37 minutes. After his landing near Dover, the first person #strike[who] #underline[to] greeted him was a local policeman. A week later, Latham made another #strike[try] #underline[attempt]. But a tragic happened again when he #strike[was no more than a half mile away from] #underline[got within half a mile of] Dover, landing on the sea for the second time because the engine failed again.
 
 #pagebreak()
 = Daniel Mendoza
