@@ -57,13 +57,13 @@ What's up everybody, let's #underline[get our energy up and] #strike[start the d
 
 All right, next we take you out onto the Patapsco River to see the #underline[*remnants*] of Francis Scott Key Bridge in Baltimore. As you may remember, last Tuesday in the early morning hour#underline[s], #strike[the ferry] #underline[a *freight*] ship crashed into a *pillar* of the *famed* bridge, causing it to collapse. Official#underline[s] said that the group of the six men#strike[, walking in over nine shift, fixing ... holes] #underline[working an overnight *shift* fixing potholes], died when it collapsed. Gloria Pazmino has more on what's next for the city of Baltimore:
 
-So you can see we have #strike[everybody] #underline[been able to get] extremely up close to the #underline[*wreckage*] of the Dali and #underline[we're starting to really get an] appreciation #strike[on the]#underline[and a] sense of just how massive this job is going to be. You're looking at 4,000 tons of steel and concrete that are #underline[sitting] on top of that #underline[bow.] That is going to be the most complicated part of this operation, moving all of that debris and taking it #strike[on] #underline[off] the ship so they can begin this cleanup process. And then #underline[there's] everything that #strike[lean] #underline[laying] below the #underline[surface,] the part that we can't see, there is more metal, more concrete, more debris #strike[and] #underline[in] the water. And that's going to be critical, because they have to be able to make that safe for the #strike[diverse] #underline[*divers*] whose mission is to get back into the water and continue searching to attempt to recover the bodies of those who were lost. But as we are sitting here, you know now finally being able to see it and get up close to it, you really just get the sense of the #underline[*enormity*] of the job at hand. But all the officials here have told us that they are confident that they #strike[want] #underline[are going] to be able to get it done. They're working #strike[to get their half]#underline[together, have all] of the technology necessary, and they're going step by step, taking #underline[a *meticulous* approach] to make sure that they get #strike[a way] #underline[it right and] that eventually they can #strike[real find the core] #underline[reopen the port], they can start #strike[the way building] #underline[rebuilding], and that is the important symbol for the city of Baltimore. And the city of Baltimore and the Sate of Maryland can get cleaned up. And people here can start getting back to normal. I'm Gloria Pazmino, CNN.
+So you can see we have #strike[everybody] #underline[been able to get] extremely up close to the #underline[*wreckage*] of the Dali and #underline[we're starting to really get an] appreciation #strike[on the]#underline[and a] sense of just how massive this job is going to be. You're looking at 4,000 tons of steel and concrete that are #underline[sitting] on top of that #underline[bow.] That is going to be the most complicated part of this operation, moving all of that debris and taking it #strike[on] #underline[off] the ship so they can begin this cleanup process. And then #underline[there's] everything that #strike[lean] #underline[laying] below the #underline[surface,] the part that we can't see, there is more metal, more concrete, more debris #strike[and] #underline[in] the water. And that's going to be critical, because they have to be able to make that safe for the #strike[diverse] #underline[*divers*] whose mission is to get back into the water and continue searching to attempt to recover the bodies of those who were lost. But as we are sitting here, you #strike[know] now finally being able to see it and get up close to it, you really just get the sense of the #underline[*enormity*] of the job at hand. But all the officials here have told us that they are confident that they #strike[want] #underline[are going] to be able to get it done. They're working #strike[to get their half]#underline[together, have all] of the technology necessary, and they're going step by step, taking #underline[a *meticulous* approach] to make sure that they get #strike[a way] #underline[it right and] that eventually they can #strike[real find the core] #underline[reopen the port], they can start #strike[the way building] #underline[rebuilding], and that is the important symbol for the city of Baltimore. And the city of Baltimore and the State of Maryland can get cleaned up. And people here can start getting back to normal. I'm Gloria Pazmino, CNN.
 
 === words, phrases and sentences
 
 ==== words
 
-- _remnants_
+- _remnant_
 - _freight_
 - _pillar_
 - _famed_
@@ -76,6 +76,10 @@ So you can see we have #strike[everybody] #underline[been able to get] extremely
 
 ==== phrases
 
+- _on top of_
+- _take sth off_
+- _at hand_
+
 ==== sentences
 
 === 回译
@@ -84,7 +88,7 @@ So you can see we have #strike[everybody] #underline[been able to get] extremely
 
 All right, next we take you out onto the Patapsco River to see the remnants of Francis Scott Key Bridge in Baltimore. As you may remember, last Tuesday in the early morning hours, a freight ship crashed into a pillar of the famed bridge, causing it to collapse. Officials said that the group of the six men working an overnight shift fixing potholes, died when it collapsed. Gloria Pazmino has more on what's next for the city of Baltimore:
 
-So you can see we have been able to get extremely up close to the wreckage of the Dali and we're starting to really get an appreciation and a sense of just how massive this job is going to be. You're looking at 4,000 tons of steel and concrete that are sitting on top of that bow. That is going to be the most complicated part of this operation, moving all of that debris and taking it off the ship so they can begin this cleanup process. And then there's everything that laying below the surface, the part that we can't see, there is more metal, more concrete, more debris in the water. And that's going to be critical, because they have to be able to make that safe for the divers whose mission is to get back into the water and continue searching to attempt to recover the bodies of those who were lost. But as we are sitting here, you know now finally being able to see it and get up close to it, you really just get the sense of the enormity of the job at hand. But all the officials here have told us that they are confident that they are going to be able to get it done. They're working together, have all of the technology necessary, and they're going step by step, taking a meticulous approach to make sure that they get it right and that eventually they can reopen the port, they can start rebuilding, and that is the important symbol for the city of Baltimore. And the city of Baltimore and the Sate of Maryland can get cleaned up. And people here can start getting back to normal. I'm Gloria Pazmino, CNN.
+So you can see we have been able to get extremely up close to the wreckage of the Dali and we're starting to really get an appreciation and a sense of just how massive this job is going to be. You're looking at 4,000 tons of steel and concrete that are sitting on top of that bow. That is going to be the most complicated part of this operation, moving all of that debris and taking it off the ship so they can begin this cleanup process. And then there's everything that laying below the surface, the part that we can't see, there is more metal, more concrete, more debris in the water. And that's going to be critical, because they have to be able to make that safe for the divers whose mission is to get back into the water and continue searching to attempt to recover the bodies of those who were lost. But as we are sitting here, you now finally being able to see it and get up close to it, you really just get the sense of the enormity of the job at hand. But all the officials here have told us that they are confident that they are going to be able to get it done. They're working together, have all of the technology necessary, and they're going step by step, taking a meticulous approach to make sure that they get it right and that eventually they can reopen the port, they can start rebuilding, and that is the important symbol for the city of Baltimore. And the city of Baltimore and the State of Maryland can get cleaned up. And people here can start getting back to normal. I'm Gloria Pazmino, CNN.
 
 ==== 参考翻译
 
@@ -92,11 +96,17 @@ So you can see we have been able to get extremely up close to the wreckage of th
 
 你可以看到我们已经能够非常近距离地接触Dali的残骸，我们开始真正意识到这项工作将会有多庞大。你们看到的是4000吨的钢铁和混凝土压在船头上。这将是整个行动中最复杂的部分，清理所有的残骸并将其从船上取下，以便他们开始清理工作。然后还有潜藏在水下的所有东西，那些我们看不见的部分，水中还有更多的金属、混凝土和碎片。这一点至关重要，因为他们必须确保这对于潜水员是安全的，他们的任务是重新进入水中并继续搜索，试图找回那些失踪者的尸体。但是当我们坐在这里，现在终于能够看到并接近它时，你真的能感受到手头工作的巨大。但是这里的所有官员都告诉我们，他们有信心能够完成这项任务。他们正在共同努力，拥有所有必要的技术，他们正在逐步进行，采取一种细致入微的方法，确保他们做对了，并最终可以重新开放港口，开始重建，这对Baltimore市来说是重要的象征。Baltimore市和Maryland州可以得到清理。这里的人们可以开始恢复正常生活。我是Gloria Pazmino，CNN报道。
 
+==== 1st
+
+All right, #strike[let's] #underline[next we] take you out #underline[on]to the Patapsco River in Baltimore State to see the #strike[debris] #underline[*remnants*] of Francis Scott Key Bridge. #strike[As] you could remember, #strike[in the last Tuesday morning] #underline[last Tuesday in the early morning hours], a #strike[ferry] #underline[*freight*] ship #strike[collided with the support of this great Bridge, making] #underline[crashed into a *pillar* of the *famed* bridge, *causing*] it to collapse. Officials #strike[state] #underline[said], six workers #underline[working an overnight shift fixing *potholes*] #strike[on a night shift] died when the bridge collapsed. Gloria Pazmino #strike[will show us the future plan about] #underline[has more on what's next for the city of] Baltimore.
+
+You're seeing we have been able to be #underline[extremely] up close the #strike[debris] #underline[wreckage] of Dali, #strike[we start] #underline[and we're starting] to #strike[realize how large this work will be] #underline[really get an appreciation and a sense of just how massive this job is going to be]. #strike[What you're seeing are] #underline[You're looking at ] 4,000 tons of steel and concrete #strike[pressed] #underline[that are sitting] on #strike[the head] #underline[top] of the #strike[ship] #underline[bow]. #strike[This will] #underline[That is going to] be the most complicated part of the #strike[work] #underline[operation], #strike[cleaning up] #underline[moving] all the debris and #strike[move them away from] #underline[*taking it off*] the ship to #strike[start the cleanup] #underline[begin the cleanup process]. And #strike[we're not able to see everything under the water like metal, concrete and all kinds of fragments] #underline[then there's everything that _laying below the surface_, the part we can't see, there is more metal, more concrete and more debris in the water]. It's a very key point that they have to make sure the safety of divers whose mission is to dive into the water and then go on searching, trying to #strike[find the lost] #underline[recover the bodies of those who were lost]. But #strike[when we sit] #underline[as we're sitting] here #strike[to be up close to it and see it, you can realy know how large the work at hands is] #underline[you now finally being able to see it and get up close to it, you really just get the sense of the enormity of the job *at hand*.]. However, all the officials here told us, they are confident enough to #strike[finish the task] #underline[get it done]. They are working together in possession of all #strike[necessary technologies] #underline[of the technology necessary,] and #strike[do it] #underline[they're doing] step by step in a #underline[*meticulous* approach] to make sure they #strike[are right] #underline[get it right] #strike[to] #underline[and that] eventually #underline[they can] reopen the #strike[harbour] #underline[port] and #strike[start to] rebuild it which is a significant symbol for the city of Baltimore. And the city of Baltimore and the State of Maryland can be cleaned up, where people #strike[could] #underline[can] get back to the normal life. I'm Gloria Pazmino, CNN.
+
 == Wolf
 
 Owooooo, sorry, just #strike[get in reintroduce ] #underline[getting reintroduced to] my inner wolf. That's a lot like what's happening in Colorado, where people vote#underline[d] to reintroduce wolves back to their state. That's the first time ever in the country's history that the state has voted on this kind of #underline[*ballot*] *initiative*. But as Lucy Kafanov shows us, after the vote passed by #underline[*a slim margin*, some folks in the more rural parts of the state weren't exactly *howling* with joy].
 
-Humans adapting with wolves going to be, the biggest #underline[*obstacle*] we're going to be dealing with. After being nearly #underline[*eradicated*] from Colorado about 80 years ago, wolves are officially back in the state thanks to the first ever #strike[vote mended we introduction... wolves danger] #underline[*voter-mandated* reintroduction of *endangered* wolves] in U.S. history. These wolves#strike[ capture the] #underline[, captured in Oregon,]  will set free in Colorado's #underline[*wilderness*] last December.
+Humans adapting with wolves is going to be the biggest #underline[*obstacle*] we're going to be dealing with. After being nearly #underline[*eradicated*] from Colorado about 80 years ago, wolves are officially back in the state thanks to the first ever #strike[vote mended we introduction... wolves danger] #underline[*voter-mandated* reintroduction of *endangered* wolves] in U.S. history. These wolves#strike[ capture the] #underline[, captured in Oregon,]  will set free in Colorado's #underline[*wilderness*] last December.
 
 "You're hungry. #strike[And] #underline[I] never thought #strike[to] #underline[I'd] be able to be so close to a wolf." 
 
@@ -135,7 +145,7 @@ They #strike[may] #underline[have been] coming from the neighbor in Wyoming, whi
 
 In Colorado, the wolf #underline[re]introduction proposition barely passed with most #underline[of the votes in favor of] #underline[re]introduction coming from #strike[open]#underline[*urban*] areas like Denver and Boulder.
 
-"People have very strong opinions about wolves. And #strike[that] #underline[it]'s doesn't matter what side they are on."
+"People have very strong opinions about wolves. And #strike[that] #underline[it] doesn't matter what side they are on."
 
 But here in the #strike[world] #underline[*rural Colorado*], there's no confusing which side they're on. #strike[They] #underline[The State] compensate#underline[s] ranchers for #strike[life] #underline[*livestock*] attacks. But because #strike[of] #underline[it's illegal to hunt wolves] in Colorado, Don has to get creative using #underline[*donkeys*] ("They bite, and they bite hard.") longhorns and shooting blanks. #strike[as we're fancing.] #underline[As for fencing?]
 
@@ -143,7 +153,7 @@ But here in the #strike[world] #underline[*rural Colorado*], there's no confusin
 
 "Yep, #underline[a foot chain link] fence to keep the wolves out. I have #underline[*moose*]. I have #underline[*mule deer*] #strike[here]. I have #underline[*elk* and I have *antelope* that] cross this country to migrate back and forth. And I would absolutely stop them from doing that. And I #strike[will not] #underline[am not willing to do that.] "
 
-"You care about the #underline[this landscape]"
+"You care about #underline[this landscape]"
 
 "So you don't #strike[these] #underline[manage] things #strike[pieces and time]#underline[one species at a time.]."
 
@@ -158,6 +168,8 @@ We don't wanna just leave it to the ranchers to deal with that on their own. The
 - _havoc_
 - _a slim margin_
 - _howling_
+- _eradicate_
+- _mandated_
 - _endangered_
 - _settlers_
 - _myth_
@@ -195,7 +207,7 @@ We don't wanna just leave it to the ranchers to deal with that on their own. The
 
 Owooooo, sorry, just getting reintroduced to my inner wolf. That's a lot like what's happening in Colorado, where people voted to reintroduce wolves back to their state. That's the first time ever in the country's history that the state has voted on this kind of ballot initiative. But as Lucy Kafanov shows us, after the vote passed by a slim margin, some folks in the more rural parts of the state weren't exactly howling with joy.
 
-Humans adapting with wolves going to be, the biggest obstacle we're going to be dealing with. After being nearly eradicated from Colorado about 80 years ago, wolves are officially back in the state thanks to the first ever voter-mandated reintroduction of endangered wolves in U.S. history. These wolves, captured in Oregon, will set free in Colorado's wilderness last December.
+Humans adapting with wolves is going to be the biggest obstacle we're going to be dealing with. After being nearly eradicated from Colorado about 80 years ago, wolves are officially back in the state thanks to the first ever voter-mandated reintroduction of endangered wolves in U.S. history. These wolves, captured in Oregon, will set free in Colorado's wilderness last December.
 
 "You're hungry. I never thought I'd be able to be so close to a wolf." 
 
@@ -234,7 +246,7 @@ They have been coming from the neighbor in Wyoming, which reintroduced wolves in
 
 In Colorado, the wolf reintroduction proposition barely passed with most of the votes in favor of reintroduction coming from urban areas like Denver and Boulder.
 
-"People have very strong opinions about wolves. And it's doesn't matter what side they are on."
+"People have very strong opinions about wolves. And it doesn't matter what side they are on."
 
 But here in the rural Colorado, there's no confusing which side they're on. The State compensates ranchers for livestock attacks. But because it's illegal to hunt wolves in Colorado, Don has to get creative using donkeys ("They bite, and they bite hard.") longhorns and shooting blanks. As for fencing?
 
@@ -242,7 +254,7 @@ But here in the rural Colorado, there's no confusing which side they're on. The 
 
 "Yep, a foot chain link fence to keep the wolves out. I have moose. I have mule deer. I have elk and I have antelope that cross this country to migrate back and forth. And I would absolutely stop them from doing that. And I am not willing to do that. "
 
-"You care about the this landscape"
+"You care about this landscape"
 
 "So you don't manage things one species at a time.."
 
@@ -289,7 +301,7 @@ We don't wanna just leave it to the ranchers to deal with that on their own. The
 
 在科罗拉多，狼重新引入的提案几乎只在像丹佛和博尔德这样的城市地区获得了大部分赞成票。
 
-“人们对狼有很强烈的意见。而且无论他们站在哪一边，都不会产生混淆。”
+“人们对狼有很强烈的意见。无论他们站在哪一边。”
 
 但在这个农村的科罗拉多州，他们的立场是明确的。州政府为农场主因牲畜被攻击而进行补偿。但由于在科罗拉多州狩猎狼是非法的，唐必须变着法子使用驴子（“它们咬得很狠。”）、长角牛和发射空弹。至于围栏？
 
@@ -302,3 +314,59 @@ We don't wanna just leave it to the ranchers to deal with that on their own. The
 “所以你不能仅仅针对一个物种进行管理。”
 
 我们不想让农场主自己应对这些问题。有许多组织和非政府组织愿意帮助实施这些非致命性的措施，因为归根结底，农场主和狼的倡导者都想要清洁的空气、清洁的空间和健康的环境和生态系统。我认为狼是实现这一目标的关键因素之一。
+
+==== 1st
+
+Owooooo, sorry, I #underline[was] just #underline[getting] reintroduced #underline[to] my inner wolf. #strike[This is] #underline[That's a lot] like what is happening in Colorado, where people vote#underline[d] to reintroduce wolves #underline[back] to their state. This is the first time #strike[people vote in this kind of initiative in the country] #underline[*ever* in the coutry's history that the state has voted on this kind of ballot initiative]. But as Lucy Kafanov showed us, after #strike[passing the initiative] #underline[the vote passed by a slim margin], #strike[the rural region in that state don't howl happily]#underline[some *folks* in the more rural parts of the state weren't exactly howling with joy].
+
+#strike[The largest barrier we are confronting will be people's coexisting with wolves] #underline[Humans adapting with wolves is going to be the biggest obstacle we're going to be dealing with]. #strike[About 80 years ago, wolf was even wiped out in Colorado and now they had been reintroduced in this state officially thanks to the initiative people forced to vote to reintroduce the endanger wolf for the first time in U.S. history.]#underline[After being nearly eradicated from Colorado about 80 years ago, wolves are officially back in the state thanks to the first ever voter-mandated reintroduction of endangered wolves in U.S. history.] These wolves were captured #underline[in Oregon]  and had been #strike[released to] #underline[set free in] the wilderness of Colorado last December.
+
+"You're hungry. I had never thought to be so up close to a wolf."
+
+"She's a very special ambassador."
+
+Kelly Murphy #strike[is]#underline[,] the #underline[animal care] supervisor of Colorado Wolf & Wildlife Center, #strike[who] is one of the advocates helping #strike[wolf reintroduced in] #underline[bring wolves back to] the state.
+
+"#strike[Apparently] #underline[Obviously], it is not an interaction we would have in #underline[the] wild."
+
+"If you see a wolf in the wild, we suggest take pictures and consider yourself lucky as it possibly won't happen #strike[any more] #underline[again]."
+
+There were about 2 million wolves #underline[once] roaming #underline[freely] #strike[in the north] #underline[throughout North] America. But when #strike[the] European #underline[settlers arrived] here, they brought their old myth and hatred of wolf here. Wolves were #underline[nearly] wiped out #strike[in] #underline[by the] 1940s.
+
+"There are a great number of myths and misconceptions #strike[about wolf] #underline[that are surrounding wolves]. Sometimes it's difficult to understand they aren't totally right."
+
+As #strike[the top] #underline[an *apex*] predator of the food chain, they help #strike[to control the population of some animals to help plants, trees and other wildlife grow prosperously.] #underline[keep certain populations in check, which in turn helps plants, trees and other wildlife thrive.]
+
+"They are critical to maintain the balance of the ecosystem, meaning a more productive scenery to the ranchers."
+
+"What did the wolf do to the specific cattle."
+
+"So he #strike[caught the] #underline[got a] hold of her #underline[by] throat and #underline[he got a hold of her by] her hind leg. #strike[She is now better]#underline[It's healed a lot]."
+
+Don Gittleson had #strike[guard] #underline[been *fending off*] the #strike[invasion] #underline[incursions] of wolf #strike[in the ranch of north Colorado] #underline[on his ranch in northern Colorado long] before the initiative.
+
+"There have been wolves for year."
+
+They #strike[came] #underline[have been coming] from the neighbor in Woyoming, #strike[where] #underline[which] reintroduced wolf in the 90s.
+
+"To me, it's my home. To them, it's their home. They #strike[won't leave in this way] #underline[are not just gonna leave]."
+
+"Can you see the tracks #strike[on] #underline[in] the snow?"
+"Are those tracks of wolves?"
+"#strike[They are tracks they went through last time.] #underline[That's the last time they came through]."
+
+In Colorado, #strike[the initiative of the wolf reintroduction can only get most approval in] #underline[the wolf reintroduction proposition barely passed with most of the votes in favor of reintroduction coming from] urban #strike[region] #underline[areas] like Denver and Baltimore.
+
+"People have strong opinions about wolves. And #strike[whatever the] #underline[it doesn't matter what] side they are on."
+
+But here in the rural #strike[region of Colorado State] #underline[Colorado], #strike[their side are deterministic] #underline[there's no confusing which side they're on]. The state government compensates #strike[for the ranchers whose ... were attacked.] #underline[ranchers for livestock attacks.] But it's illegal to hunt wolves in Colorado, Don has to be creative, using donkeys("They bite hard."), longhorns and shooting the blanks. As for #strike[the] fencing?
+
+"#strike[Put a fence in such a large place?] #underline[It's a pretty big place to put a fence around.]"
+
+“Yep, a foot chain link fence to keep the wolves out. I have moose. I have mule deer. I have elk and I have antelope that cross this country to migrate back and forth. And I would absolutely stop them from doing that. And I am not willing to do that.“
+
+"You care about the #strike[earth] #underline[landscape]."
+
+"So you can't just manage one specie #underline[at a time]."
+
+We don't #strike[want ranchers to] #underline[wanna just leave it to the ranchers to] deal with these problems on their own. Many organizations and NGOs are willing to help #strike[take] #underline[implement] those non-lethal measures. Because #underline[at the end of the day], ranchers and wolf advocates deep down all want the same thing, clean air, clean space, healthy environment and ecosystem. I think wolf is one of the key points #underline[into making that happen].
