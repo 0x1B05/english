@@ -501,6 +501,16 @@ Two days later, Louis Bleriot #strike[drove his "No. XI" near Calais] #underline
 
 门多萨在14岁时参加了一场拳击赛后一举成名。这引起了当时英国拳坛名将理查德·汉弗莱斯的注意。他主动提出教授门多萨，而年少的门多萨一学就会。事实上，门多萨不久便名声大振，致使汉弗莱斯与他反目为敌。两个人争吵不休，显而易见，只有较量一番才能解决问题。于是两人在斯蒂尔顿设下赛场，厮打了一个小时。公众把大笔赌注下到了门多萨身上，但他却输了。后来，门多萨与汉弗莱斯再次在拳击场上较量，门多萨又输了一场。直到1790年他们第3次对垒，门多萨才终于击败了汉弗莱斯，成了全英拳击冠军。同时，他建立了一所拳击学校，办得很成功，连拜伦勋爵也成了他的学生。门多萨挣来大笔大笔的钱，一次出场费就可多达100英镑。尽管收入不少，但他挥霍无度，经常债台高筑。他在被一个叫杰克逊绅士的拳击手击败后很快被人遗忘。他因无力还债而被捕入狱，最后于1836年在贫困中死去。
 
+== 回译
+
+=== 1st
+
+Two hundred years ago, boxing matches was very popular in England. At that time, boxers fighting for awards bare fist, for which they were called professional boxers. However, boxing is very cruel as no any match rules and boxers could be badly hurt or even killed in the match.
+
+One of the most attracting boxers is Daniel, who was born in 1764. In 1860, Lord made boxing match rules for the first time and then the gloves were introduced in boxing matches. Though Mendoza was no more than a professional boxer strictly speaking, he made huge contribution in terms of changing this kind of crude boxing into an official sport. It's him who introduced science into the sport. Mendoza received a warm welcome by people on his day, both the rich and the poor admiring him very much.
+
+Mendoza had been celebrated after attending his first boxing match at the age of 14, which attracts the attention of Richard , a famed Britain boxer. He offered to teach Mendoza and the young boxer learned the skills easily. In fact, Mendoza soon made his name causing Richard being a rival of him. The two men arguing all the time, apparently a matched was required to solve the problme. So the two took place a match in ... and then fought for anhour. The public gambled Mendoza in a large ..., but he failed. Afterwards, Mendoza made another fight again in a match, but Mendoza failed again. Not until the third time they fought with each other, Mendoza beat Richard to be a champion in Britain boxing. At the same time, he found a boxing school and ran it successfully, even Lord Ballon was even one of his students. Mendoza earned large sums of money, his ... could be up to 100 pounds for one time. Though his earning much, he spent money without limitations and had a heavy debt. After being beaten by a boxer called Jackson, people soon forgot him. Ultimately, he was arrested in prison for the debt and died with poverty in 1836.
+
 #pagebreak()
 = By heart
 == 参考译文
