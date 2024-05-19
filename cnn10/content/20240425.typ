@@ -17,6 +17,9 @@ So it could be up to a year before anything happens, but if ByteDance refuses to
 
 ==== words
 
+- _authoritarian_
+- _treat_
+- _giant_
 - _sue_
 - _unconstitutional_
 - _violate_
@@ -53,10 +56,10 @@ TikTok 已经准备好了战斗。他们会全力以赴，称这是一个言论�
 
 ==== 1st
 
-Hi, sunshine! Hope you are having a thankful Thursday. Gratitude is helpful to attitude. I'm Coy Wire, this is cnn 10.
+Hi, sunshine! Hope you are having a #underline[thoroughly] thankful Thursday. Gratitude is helpful to attitude. I'm Coy Wire, this is cnn 10.
 
-Today's show begins with a news that many people may take considerable interest in, TikTok getting one step closer to being banned in the U.S. The American president Joe Biden has signed a bill that the Congress sent to him which would effectively ban the social media in the U.S. if the company who owned the app aren't able to find a new buyer. Why would this happen? Because many American leaders consider TikTok is a threat to the National Security. The app is owned by ByteDance, a privately owned company. But in China, a privately owned company is often regarded as government owned company by authoritarian government. Even though the bill has been signed into a law, it doesn't mean that TikTok will disappear. The social media giant plans to sue the American government, trying to block the law, claiming the law is unconstitutional and violate speech free.
+Today's show begins with #strike[a]#underline[some] news #strike[that many people may take considerable interest in] #underline[could be of particular interest to a lot of us], TikTok getting one step closer to being banned in the U.S. The American president Joe Biden has signed a bill that the Congress sent to him which would effectively ban the social media in the U.S. if the company who owned the app aren't able to find a new #strike[buyer] #underline[owner]. Why #strike[would] #underline[is] this happen#underline[ing]? Because many American leaders #strike[consider] #underline[say] TikTok is a threat to the National Security. The app is owned by ByteDance, a privately owned #underline[Chinese] company. But in China, #strike[a privately owned company is often regarded as government owned company by authoritarian government] #underline[the authoritarian government often treats privately owned companies like they are government owned]. Even though the bill has been signed into a law, it doesn't mean that TikTok #strike[will] #underline[would just] disappear. The social media giant plans to sue the American government, trying to block the law, claiming the law is unconstitutional and violate speech free.
 
-TikTok is ready to fight. They will endeavor themselves, stating it's a issue on speech free. But it may takes one year to find one who are willing to buy it though. And then, if the White House sees some progress, they can offer a 90-day extension. So during the time of the court fight and extension, it won't happen quickly.
+TikTok is ready to fight. They will #strike[endeavor themselves] #underline[go hard and call on], stating it's a #underline[free speech]issue on speech free. But it may takes one year to find one who are willing to buy it though. And then, if the White House sees some progress, they can offer a 90-day extension. So during the time of the court fight and extension, it won't happen quickly.
 
 So, it takes a year to see any progress. But if ByteDance refuses to sell TikTok or the Chinese government interferes in and doesn't allow ByteDance to sell TikTok, then you wouldn't be able to download or update TikTok in America by January next year. And it means you could keep using TikTok on your phone theoretically but couldn't update the app. As time passed, it could become buggy, start to go wrong and could stop working then.
