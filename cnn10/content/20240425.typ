@@ -63,3 +63,66 @@ Today's show begins with #strike[a]#underline[some] news #strike[that many peopl
 TikTok is ready to fight. They will #strike[endeavor themselves] #underline[go hard and call on], stating it's a #underline[free speech]issue on speech free. But it may takes one year to find one who are willing to buy it though. And then, if the White House sees some progress, they can offer a 90-day extension. So during the time of the court fight and extension, it won't happen quickly.
 
 So, it takes a year to see any progress. But if ByteDance refuses to sell TikTok or the Chinese government interferes in and doesn't allow ByteDance to sell TikTok, then you wouldn't be able to download or update TikTok in America by January next year. And it means you could keep using TikTok on your phone theoretically but couldn't update the app. As time passed, it could become buggy, start to go wrong and could stop working then.
+
+== Pro-Palestinian Protests
+
+Pro-Palestinian protests#strike[, it] #underline[that] started at U.S. Columbia University are now spreading to colleges in universities across the U.S. #underline[*Fundamentally*], students are protesting how their school#underline[s] #strike[are investing and ... or large pulls of money the] #underline[invest their *endowments* or large pools of money that] colleges #strike[in]#underline[and] universities usually acquire through donations. Pro-Palestinian #strike[in students] #underline[student] protesters#strike[, one]#underline[want] the school to #underline[*divest*] or take money away from companies that #underline[are] either #strike[is rarely more]#underline[Israeli or] involved in #underline[Israel's] war in Gaza. CNN's Isabel Rosales has more:
+
+Growing #strike[protesters]#underline[protests]#strike[, a]#underline[ as] student from Columbia University #strike[balloting]#underline[*vowing*] to occupy school grounds until the university meets their demands. This#underline[, as] calls #strike[recognition]#underline[for the *resignation*] of the school's president Minouche Shafik, continue to get louder. Shafik *under fire* from both inside and outside the university and could face #underline[a *censure* vote] from the university #underline[senate _as early as tomorrow_].
+
+Shafik and other university officials are facing internal criticism#strike[. And] #underline[that NYPD] arrests and students suspensions #strike[legendary]#underline[*allegedly* violated *tenets* of] "Academic Freedom" and "Free Expression on Campus". From Boston to Berkeley, #underline[_there is a spotlight on_] how colleges are managing student *outrage*. Harvard Yard closed for a second day in #underline[a row], while at MIT, #underline[a] Pro-Palestinian #underline[*encampment* _stands firm in solidarity with_] other protesting students.
+
+The growing #strike[arrest]#underline[*unrest*] #strike[in]#underline[on] college campus#underline[es] causing concern and #underline[chaos as] schools prepare for the graduation in the coming weeks.
+
+Many students saying, they fear for their safety. While others say they're #underline[*vehemently* opposing all forms of *oppression*.]
+
+=== words, phrases
+
+==== words
+
+- _fundamentally_
+- _endowment_
+- _divest_
+- _vow_
+- resignation
+- _censure_
+- _allegedly_
+- _tenet_
+- _outrage_
+- _encampment_
+- _unrest_
+- _vehemently_
+- _oppression_
+
+==== phrases
+
+- _stand frim in solidarity with_
+
+=== 回译
+
+==== 原文
+
+Pro-Palestinian protests that started at U.S. Columbia University are now spreading to colleges in universities across the U.S. Fundamentally, students are protesting how their schools invest their endowments or large pools of money that colleges and universities usually acquire through donations. Pro-Palestinian student protesters want the school to divest or take money away from companies that are either Israeli or involved in Israel's war in Gaza. CNN's Isabel Rosales has more:
+
+Growing protests, as student from Columbia University vowing to occupy school grounds until the university meets their demands. This, as calls for the resignation of the school's president Minouche Shafik, continue to get louder. Shafik under fire from both inside and outside the university and could face a censure vote from the university senate as early as tomorrow.
+
+Shafik and other university officials are facing internal criticism that NYPD arrests and students suspensions allegedly violated tenets of "Academic Freedom" and "Free Expression on Campus". From Boston to Berkeley, there is a spotlight on how colleges are managing student outrage. Harvard Yard closed for a second day in a row, while at MIT, a Pro-Palestinian encampment stands firm in solidarity with other protesting students.
+
+The growing unrest on college campuses causing concern and chaos as schools prepare for the graduation in the coming weeks.
+
+Many students saying, they fear for their safety. While others say they're vehemently opposing all forms of oppression.
+
+==== 参考翻译
+
+亲巴勒斯坦的抗议活动从美国哥伦比亚大学开始，现在正在扩散到全美各大高校。根本上，学生们抗议的是他们的学校如何对他们的捐赠基金或通过捐赠获得的大笔资金进行投资。亲巴勒斯坦的学生抗议者希望学校撤资，即将资金从以色列公司或与以色列在加沙的战争有关的公司撤出。CNN的Isabel Rosales带来了更多报道：
+
+抗议活动日益增长，哥伦比亚大学的学生誓要占领校园，直到大学满足他们的要求。同时，要求学校校长Minouche Shafik辞职的呼声也越来越高。Shafik面临来自校内外的压力，最早可能在明天面临大学参议院的谴责投票。
+
+Shafik和其他大学官员面临内部批评，指控纽约警察局逮捕和学生停学事件涉嫌违反“学术自由”和“校园言论自由”的原则。从波士顿到伯克利，各大高校如何应对学生的愤怒引起了广泛关注。哈佛大学校园连续第二天关闭，而在麻省理工学院，一个亲巴勒斯坦的营地坚守立场，声援其他抗议学生。
+
+随着各校为即将到来的毕业季做准备，校园内日益增长的不安引发了担忧和混乱。
+
+许多学生表示，他们担心自己的安全。还有一些学生表示，他们坚决反对一切形式的压迫。
+
+==== 1st
+
