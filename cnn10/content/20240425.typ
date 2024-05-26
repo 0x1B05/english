@@ -126,3 +126,57 @@ Shafik和其他大学官员面临内部批评，指控纽约警察局逮捕和�
 
 ==== 1st
 
+== North Korea
+
+North Korea isn't known for its export#underline[s], it's known as the *hermit kingdom* because basically it #underline[*willfully*] shuts its#underline[elf off] for most of the world. Things like TV shows, movies from the United States and other western countries are banned in North Korea. But what if I told you that some of the very shows in North Koreans are#underline[n't] legally allowed to watch #strike[where]#underline[were] at least partially created by North Koreans. CNN's Alex Marquardt is here to explain:
+
+_Invincible_ is a popular animated show streaming on Amazon Prime#strike[, the]#underline[with a] third season on the way. It's based on #strike[the]#underline[a] comic book about #underline[a] superhero #strike[routine]#underline[teen]. While its main character is all American. Some animation in the new season #strike[makes what comes]#underline[may come] from one of America#underline['s] biggest #underline[*foes*] North Korea.
+
+Martyn Williams is a North Korean *analyst* at the Stimson center. He shows us what was inside #strike[in]#underline[a] recently discovered North Korean internet server. Files including sketches and video from North Korea, which #strike[is] *resemble* #strike[with] the animation from two shows produced and streamed by American companies, Amazon's _Invincible_ and another coming soon called _Iyanu - Child of Wonder_ #strike[is] set to stream on IMAX, which along with CNN, #underline[is owned by Warner Brothers] Discovery. There is no evidence that the studio knew that any #underline[*proprietary* work] #strike[were]#underline[was] on #strike[the]#underline[a] North Korean server.
+
+There #underline[is a *clip* of] _Iyanu_ which hasn't been released yet. William says, a lot of American production work is *outsourced*, particularly to #underline[China] #strike[what can]#underline[, where it could then] be *subcontracted* to North Koreans without American company awareness.
+
+A draft of one animation has Chinese instructions, translated into Korean. There's also a production sheet in English for _Invincible_. Using North Korean labor #strike[will]#underline[would] be a violation of U.S. *sanctions*. Max and #underline[the] producer of _Iyanu_ Lion Forge Entertainment declined to #strike[the common,]#underline[comment.] Unique studios, which co-created the graphic novel series didn't respond. Skybound Entertainment, which produces _Invincible_ told CNN it never #strike[proved]#underline[approved] outsourcing and #underline[would *investigate*.]
+
+=== words
+
+- _hermit_
+- _willfully_
+- _foe_
+- _analyst_
+- _resemble_
+- _proprietary_
+- _clip_
+- _outsource_
+- _subcontract_
+- _sanction_
+- _investigate_
+
+=== 回译
+
+==== 原文
+
+North Korea isn't known for its exports, it's known as the hermit kingdom because basically it willfully shuts itself off for most of the world. Things like TV shows, movies from the United States and other western countries are banned in North Korea. But what if I told you that some of the very shows in North Koreans aren't legally allowed to watch were at least partially created by North Koreans. CNN's Alex Marquardt is here to explain:
+
+_Invincible_ is a popular animated show streaming on Amazon Primewith a third season on the way. It's based on a comic book about a superhero teen. While its main character is all American. Some animation in the new season may come from one of America's biggest foes North Korea.
+
+Martyn Williams is a North Korean analyst at the Stimson center. He shows us what was inside a recently discovered North Korean internet server. Files including sketches and video from North Korea, which resemble the animation from two shows produced and streamed by American companies, Amazon's _Invincible_ and another coming soon called _Iyanu - Child of Wonder_ set to stream on IMAX, which along with CNN, is owned by Warner Brothers Discovery. There is no evidence that the studio knew that any proprietary work was on a North Korean server.
+
+There is a clip of _Iyanu_ which hasn't been released yet. William says, a lot of American production work is outsourced, particularly to China, where it could then be subcontracted to North Koreans without American company awareness.
+
+A draft of one animation has Chinese instructions, translated into Korean. There's also a production sheet in English for _Invincible_. Using North Korean labor would be a violation of U.S. sanctions. Max and the producer of _Iyanu_ Lion Forge Entertainment declined to comment. Unique studios, which co-created the graphic novel series didn't respond. Skybound Entertainment, which produces _Invincible_ told CNN it never approved outsourcing and would investigate.
+
+==== 参考翻译
+
+朝鲜并不以出口闻名，它被称为“隐士王国”，因为它基本上故意将自己与大部分世界隔绝。来自美国和其他西方国家的电视节目、电影在朝鲜是被禁止的。但是，如果我告诉你，一些朝鲜人不被允许观看的节目，至少部分是由朝鲜人创作的，你会怎么想？CNN的Alex Marquardt在这里为我们解释：
+
+《Invincible》是一部在Amazon Prime上播放的热门动画剧，第三季即将到来。这部剧改编自一本关于青少年超级英雄的漫画书。虽然其主角是彻头彻尾的美国人，但新一季的一些动画可能来自美国最大的对手之一——朝鲜。
+
+Martyn Williams是Stimson中心的朝鲜分析师。他向我们展示了最近在朝鲜互联网服务器中发现的一些内容。这些文件包括来自朝鲜的草图和视频，这些作品与两部由美国公司制作并流媒体播放的动画节目相似，分别是Amazon的《Invincible》和即将在IMAX上映的《Iyanu - Child of Wonder》。IMAX和CNN同属Warner Brothers Discovery公司。没有证据表明这些工作室知道任何专有作品在朝鲜的服务器上。
+
+《Iyanu》的一段尚未发布的片段显示了这种情况。William说，许多美国的制作工作被外包，特别是外包给中国，然后中国可能会在美国公司不知情的情况下再转包给朝鲜人。
+
+其中一个动画的草稿上有中文指示，被翻译成了韩文。还有一份用英语写的《Invincible》的制作单。使用朝鲜劳工会违反美国的制裁。IMAX和《Iyanu》的制作公司Lion Forge Entertainment拒绝置评。共同创作图画小说系列的Unique Studios没有回应。制作《Invincible》的Skybound Entertainment告诉CNN，它从未批准外包，并将对此进行调查。
+
+==== 1st
+
