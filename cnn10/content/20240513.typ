@@ -93,3 +93,76 @@ Robb O'Hagan与宾夕法尼亚大学沃顿商学院合作研究了四天工作�
 是的，这很有趣。我们经常被问到这个问题。我实际上认为这需要领导层在思考工作本质时真正具有创新精神。每个行业都可以真正考虑是否有办法错开班次。即使你不能做到四天工作周，也要真正考虑我们所谓的“恢复优先”文化。
 
 ==== 1st
+
+== Lady Elliot Island
+
+Next we're taking a trip to one of those islands, Lady Elliot Island, located at #underline[the *southernmost tip*] of Great Barrier Reef. The island is #underline[*lush*] with #underline[*greenery* again], *regrowing* after decades of *topsoil* mining. But now there's a new threat to this #underline[*delicate*] ecosystem -- mass coral #underline[*bleaching*]. CNN's Ivan Watso has more:
+
+An hour #strike[after]#underline[*off*] the #strike[cost]#underline[coast] of Brisbane, Australia, lies a tiny paradise island, only accessible by aircraft. But it didn't always look like this. It has been through incredible transformation led by one man. Landing here is tricky. My pilot is Peter Gash. He basically owns the island, #underline[*leasing* it] from the Australian government and running a eco#underline[-resort] result here with his family.
+
+Meanwhile, above this surface, the island #underline[*teems*] with sea birds.
+
+In the 19th century, settlers #strike[minded]#underline[*mined*] the island for the bird #underline[*guano*] leaving the place mostly #underline[*barren*] hard coral.
+
+Peter's message #strike[with]#underline[of] hope is inspiring, but it's tempered by something we see under water. #underline[*Amid* the reef sharks] and sea turtles, there's coral #underline[*bleached*] white, enough to worry to this island's #underline[greatest *enthusiast*].
+
+The damaged coral here, part of #underline[the mass bleaching event caused by the marine heat wave along the Great Barrier Reef], a #underline[*phenomenon*] that could threaten the entire ecosystem.
+
+=== words, phrases and sentences
+
+==== words
+
+- _the southernmost tip of ..._
+- _greenery_
+- _topsoil_
+- _delicate_
+- _bleaching_
+- _lease_
+- _teem_
+- _mine_
+- _guano_
+- _barren_
+- _enthusiast_
+- _amid_
+- _phenomenon_
+
+==== phrases
+
+- _be lush with_
+- _teem with_
+
+==== sentences
+
+- _It has been through incredible transformation led by one man._
+
+=== 回译
+
+==== 原文
+
+Next we're taking a trip to one of those islands, Lady Elliot Island, located at the southernmost tip of Great Barrier Reef. The island is lush with greenery again, regrowing after decades of topsoil mining. But now there's a new threat to this delicate ecosystem -- mass coral bleaching. CNN's Ivan Watso has more:
+
+An hour off the coast of Brisbane, Australia, lies a tiny paradise island, only accessible by aircraft. But it didn't always look like this. It has been through incredible transformation led by one man. Landing here is tricky. My pilot is Peter Gash. He basically owns the island, leasing it from the Australian government and running a eco-resort result here with his family.
+
+Meanwhile, above this surface, the island teems with sea birds.
+
+In the 19th century, settlers mined the island for the bird guano leaving the place mostly barren hard coral.
+
+Peter's message of hope is inspiring, but it's tempered by something we see under water. Amid the reef sharks and sea turtles, there's coral bleached white, enough to worry to this island's greatest enthusiast.
+
+The damaged coral here, part of the mass bleaching event caused by the marine heat wave along the Great Barrier Reef, a phenomenon that could threaten the entire ecosystem.
+
+==== 参考翻译
+
+接下来我们将前往其中一个岛屿，位于大堡礁最南端的Lady Elliot Island。经过数十年的表土开采后，这个岛屿再次充满了绿色植物，正在重新生长。但现在，这个脆弱的生态系统面临着一个新的威胁——大规模珊瑚白化。CNN的Ivan Watso带来了更多报道：
+
+离澳大利亚布里斯班海岸一小时路程，有一个只能通过飞机到达的小天堂岛。但它并不总是像现在这样。它经历了一场由一人领导的惊人转变。降落在这里并不容易。我的飞行员是Peter Gash。他基本上拥有这个岛，从澳大利亚政府租赁并和家人在这里经营一个生态度假村。
+
+与此同时，岛上的天空中充满了海鸟。
+
+19世纪时，定居者在岛上开采鸟粪，导致这里几乎变成了光秃秃的硬珊瑚。
+
+Peter的希望信息令人鼓舞，但我们在水下看到的情况让人心情复杂。在礁鲨和海龟之间，有白化的珊瑚，足以让这个岛屿最热心的爱好者担忧。
+
+这里受损的珊瑚是大堡礁沿海海洋热浪引发的大规模白化事件的一部分，这种现象可能威胁整个生态系统。
+
+==== 1st
