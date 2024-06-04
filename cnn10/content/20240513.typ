@@ -94,17 +94,35 @@ Robb O'Hagan与宾夕法尼亚大学沃顿商学院合作研究了四天工作�
 
 ==== 1st
 
+Today's Monday #strike[which is considered as]#underline[,] the first day of the school #strike[days]#underline[week], as well as the first day of the work #strike[days]#underline[week]#strike[by most of us]. But does it have to be #strike[like this]#underline[that way]? #strike[Whatever you]#underline[Whether you're tightening] screw#underline[s] #strike[things] #strike[in]#underline[on] an assembly line or #strike[do a data processing]#underline[*crunching numbers*] #strike[in]#underline[on] a computer, people have been working for 5 days a week for a long time. Henry Ford standardized the practice about 100 years ago #strike[at his Ford Car Company, who]#underline[when he] asked #strike[workers]#underline[employees at his Ford Motor Company factories] to work 40 hours a week, meaning 8 hours every day#strike[, and 5 days a week]#underline[for five days]. However, a #strike[decade]#underline[century] passed, some companies are reconsidering whether such a schedule #strike[is still reasonable]#underline[still *makes sense*]. CNN's Clare Duffy has more:
+
+#underline[We went] from #strike[computers]#underline[desktops] to laptops, to mobiles, we are working, working and working. There's no discussion. It has been out of control.
+
+#strike[Avoiding workers]#underline[Preventing employee] burnout has been #strike[so prioritized]#underline[such an important priority] that nearly one third of the large U.S. companies are exploring #strike[how to shorten their work days]#underline[shorter work weeks]. One of the companies is Exos, a performance wellness company. CEO Sarah Robb O'Hagan saw the burnout and wanted to #strike[solve]#underline[fix] it.
+
+Her answer #strike[is]#underline[was something called] "You Do You Friday".
+
+So tell us what is "You Do You Friday"?
+
+It means "You Do You". So you can choose to say, I am exhausted this Friday, a foot trip is required. Others may say, Friday is the day #strike[I can work quietly without being disturbed]#underline[to just do quiet work and not be disturbed]. But what #strike[our rules are]#underline[we put in place was that] you are not allowed to email, text or write to any of your colleagues, you can't set meetings. This is "You Do You Friday"#strike[. Along with]#underline[and what *goes hand in hand with*] "You Do You Friday" is how we #strike[schedule]#underline[construct] the other day#underline[s] of the week. #strike[The reason why we schedule like this]#underline[We *structured this*] is because we have learnt from training high performance athletes that you #underline[*put a lot of load*] on them and then #strike[give them an intentional recovery to make their performance better]#underline[you follow it with really intentional recovery to get more out of how the athletes performing]. So image when at workplaces, if we do 80-hour week work, 70-hour week work, #underline[which] some people #strike[work like this indeed]#underline[are indeed], how #underline[*on earth*] does your body #underline[ever] recover? You of course #strike[will burn out]#underline[are gonna get burned out]. #strike[So we help introduce the conception more]#underline[So the more we can help to introduce this concept] that recovery isn't weak but a part of #strike[preparation]#underline[preparing you] for higher performance. I think it's better for all of us.
+
+Robb O'Hagan partnered with the University of Pennsylvania's Wharton School and studied #strike[the influence of 4-day week work on employees]#underline[how a four-day work week impacted employee performance]. During the six months #underline[of] study, Exos reported that the rate of #underline[employee] burnout dropped from 70% to 30%.
+
+It sounds like #strike[effective]#underline[this works *in part*] because the culture in Exos has #strike[scheduled,]#underline[structured in this way where you have] employees #underline[who are] probably already have lots of free time over their hours. Do you think #strike[it's a method that can be introduced anywhere] #underline[this is something that can work anywhere]?
+
+Yes, it's interesting. We get asked the question a lot. I actually think it requires #strike[the] leadership to be innovative in #strike[thinking]#underline[how they think about] what #strike[the] work really #strike[are]#underline[is]. #strike[Each job]#underline[Every industry] can think about if there's a way to #strike[make a]#underline[*stagger*] shifts. Even though you can't do 4-day work week, you should consider what we call #strike[the culture of "Recovery Priority"] #underline[a recovery first culture].
+
 == Lady Elliot Island
 
 Next we're taking a trip to one of those islands, Lady Elliot Island, located at #underline[the *southernmost tip*] of Great Barrier Reef. The island is #underline[*lush*] with #underline[*greenery* again], *regrowing* after decades of *topsoil* mining. But now there's a new threat to this #underline[*delicate*] ecosystem -- mass coral #underline[*bleaching*]. CNN's Ivan Watso has more:
 
-An hour #strike[after]#underline[*off*] the #strike[cost]#underline[coast] of Brisbane, Australia, lies a tiny paradise island, only accessible by aircraft. But it didn't always look like this. It has been through incredible transformation led by one man. Landing here is tricky. My pilot is Peter Gash. He basically owns the island, #underline[*leasing* it] from the Australian government and running a eco#underline[-resort] result here with his family.
+An hour #strike[after]#underline[*off*] the #strike[cost]#underline[coast] of Brisbane, Australia, lies a tiny paradise island, only accessible by aircraft. But it didn't always look like this. It has been through incredible transformation led by one man. Landing here is tricky. My pilot is Peter Gash. He basically owns the island, #underline[*leasing* it] from the Australian government and running a eco#underline[-resort] #strike[result] here with his family.
 
 Meanwhile, above this surface, the island #underline[*teems*] with sea birds.
 
 In the 19th century, settlers #strike[minded]#underline[*mined*] the island for the bird #underline[*guano*] leaving the place mostly #underline[*barren*] hard coral.
 
-Peter's message #strike[with]#underline[of] hope is inspiring, but it's tempered by something we see under water. #underline[*Amid* the reef sharks] and sea turtles, there's coral #underline[*bleached*] white, enough to worry to this island's #underline[greatest *enthusiast*].
+Peter's message #strike[with]#underline[of] hope is inspiring, but it's tempered by something we see under water. #underline[*Amid* the reef sharks] and sea turtles, there's coral #underline[*bleached*] white, enough to worry this island's #underline[greatest *enthusiast*].
 
 The damaged coral here, part of #underline[the mass bleaching event caused by the marine heat wave along the Great Barrier Reef], a #underline[*phenomenon*] that could threaten the entire ecosystem.
 
@@ -141,13 +159,13 @@ The damaged coral here, part of #underline[the mass bleaching event caused by th
 
 Next we're taking a trip to one of those islands, Lady Elliot Island, located at the southernmost tip of Great Barrier Reef. The island is lush with greenery again, regrowing after decades of topsoil mining. But now there's a new threat to this delicate ecosystem -- mass coral bleaching. CNN's Ivan Watso has more:
 
-An hour off the coast of Brisbane, Australia, lies a tiny paradise island, only accessible by aircraft. But it didn't always look like this. It has been through incredible transformation led by one man. Landing here is tricky. My pilot is Peter Gash. He basically owns the island, leasing it from the Australian government and running a eco-resort result here with his family.
+An hour off the coast of Brisbane, Australia, lies a tiny paradise island, only accessible by aircraft. But it didn't always look like this. It has been through incredible transformation led by one man. Landing here is tricky. My pilot is Peter Gash. He basically owns the island, leasing it from the Australian government and running a eco-resort here with his family.
 
 Meanwhile, above this surface, the island teems with sea birds.
 
 In the 19th century, settlers mined the island for the bird guano leaving the place mostly barren hard coral.
 
-Peter's message of hope is inspiring, but it's tempered by something we see under water. Amid the reef sharks and sea turtles, there's coral bleached white, enough to worry to this island's greatest enthusiast.
+Peter's message of hope is inspiring, but it's tempered by something we see under water. Amid the reef sharks and sea turtles, there's coral bleached white, enough to worry this island's greatest enthusiast.
 
 The damaged coral here, part of the mass bleaching event caused by the marine heat wave along the Great Barrier Reef, a phenomenon that could threaten the entire ecosystem.
 
@@ -166,3 +184,15 @@ Peter的希望信息令人鼓舞，但我们在水下看到的情况让人心情
 这里受损的珊瑚是大堡礁沿海海洋热浪引发的大规模白化事件的一部分，这种现象可能威胁整个生态系统。
 
 ==== 1st
+
+Next we are #strike[going to]#underline[taking a trip to] one of the islands, Lady Elliot Island, located #strike[in] the southernmost #strike[coast]#underline[*tip*] of the Great Barrier Reef. After decades of topsoil mining, the island is lush with greenery again and now regrowing. But now, the delicate ecosystem are confronting a new threat, #strike[vast bleaching coral]#underline[mass coral bleaching]. CNN's Ivan Watso has more:
+
+An hour off the coast of Brisbane in Australia, there is a #strike[small]#underline[tiny] paradise island#strike[ that could only be through]#underline[, only accessible] by aircraft. But it isn't always like this. It #strike[experienced an upheaval]#underline[has been *through incredible transformation*] led by one man. #strike[It's not easy to land on the island]#underline[Landing here is *tricky*]. Our pilot is Peter Gash who almost possesses the island, leasing from the Australian government and runing a eco-resort with his family.
+
+Meanwhile, #strike[the sky]#underline[above this surface, the island] teems with sea birds.
+
+In the 19th century, settlers mined #underline[for] birds guano, #strike[leading the place to be barren had coral..]#underline[leaving the place mostly *barren* hard coral.]
+
+Peter's message of hope is inspiring, but #strike[what we have seen under the water made us more sentimental]#underline[it's *tempered* by something we see under water]. Amid the #strike[coral]#underline[reef] shark and sea turtles #strike[is bleaching coral]#underline[, there's coral bleached white], which is enough to worry #underline[this island's greatest] enthusiasts.
+
+The damaged coral #strike[is]#underline[,] a part of #strike[what the Great Barrier Reef heat wave has caused]#underline[the mass bleaching event caused by the marine heat wave along the Great Barrier Reef], #strike[which could threaten the whole ecosystem]#underline[a phenomenon that could threaten the entire ecosystem].
