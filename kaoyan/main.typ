@@ -1,8 +1,8 @@
 #import "template.typ": *
 
 #show: template.with(
-  title: [考研英语一 - 答案速查],
-  short_title: "答案速查",
+  title: [考研英语一],
+  short_title: "考研英语一",
   description: [
   ],
   date: datetime(year: 2024, month: 7, day: 5),
@@ -34,3 +34,4 @@
 )
 
 #include "content/answers.typ"
+#include "content/writing.typ"
