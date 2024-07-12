@@ -1,17 +1,18 @@
 #import "../template.typ": *
 
-= 2005
+= 真题答案速查
+== 2005
 
 #align(center)[
   #three-line-table[
     | 题目        |  答案  |
     |  -          |   -    |
     |1-10(完形)   |CBACB ADADB|
-    |10-20(完形)  |CADCD BCDAB|
+    |11-20(完形)  |CADCD BCDAB|
     |21-25(Text1) |CBACB|
     |26-30(Text2) |CDADB|
     |31-35(Text3) |ACDDA|
-    |31-35(Text4) |BDABC|
+    |36-40(Text4) |BDABC|
     |41-45(选段)  |ECGFB|
   ]
 ]
@@ -23,18 +24,18 @@
 50. 在应付一个如此规模的挑战过程中，我们可以毫不夸张地说，“团结，我们就会站起来；分裂，我们就会倒下去。”
 
 #pagebreak()
-= 2006
+== 2006
 
 #align(center)[
   #three-line-table[
     | 题目        |  答案  |
     |  -          |   -    |
     |1-10(完形)   |ABDAD CBCAA|
-    |10-20(完形)  |CBDCC ABCAD|
+    |11-20(完形)  |CBDCC ABCAD|
     |21-25(Text1) |CACDB|
     |26-30(Text2) |ABCDD|
     |31-35(Text3) |CACDB|
-    |31-35(Text4) |DBDBA|
+    |36-40(Text4) |DBDBA|
     |41-45(选段)  |CABFD|
   ]
 ]
@@ -46,18 +47,18 @@
 50. 他们可以教得很好，而且不仅仅是为了挣薪水，但他们大多数人却很少或没有对需要进行道德判断的、人的问题进行独立思考。
 
 #pagebreak()
-= 2007
+== 2007
 
 #align(center)[
   #three-line-table[
     | 题目        |  答案  |
     |  -          |   -    |
     |1-10(完形)   |BDACC DBABC|
-    |10-20(完形)  |ADACB DCABD|
+    |11-20(完形)  |ADACB DCABD|
     |21-25(Text1) |CBADC|
     |26-30(Text2) |DCAAB|
     |31-35(Text3) |CBDCB|
-    |31-35(Text4) |DABAD|
+    |36-40(Text4) |DABAD|
     |41-45(选段)  |FDBCE|
   ]
 ]
@@ -69,18 +70,18 @@
 50. 尽管律师的见解和反应会提高报道的质量，但新闻记者最好凭借他们自己对重要性的理解自行做出判断。
 
 #pagebreak()
-= 2008
+== 2008
 
 #align(center)[
   #three-line-table[
     | 题目        |  答案  |
     |  -          |   -    |
     |1-10(完形)   |BDACC ABDBC|
-    |10-20(完形)  |BD(A/B)CD DCABA|
+    |11-20(完形)  |BD(A/B)CD DCABA|
     |21-25(Text1) |ADCBD|
     |26-30(Text2) |DCAAB|
     |31-35(Text3) |ACBDC|
-    |31-35(Text4) |ACBDC|
+    |36-40(Text4) |DBCAB|
     |41-45(选段)  |DBCAB|
   ]
 ]
@@ -92,18 +93,18 @@
 50. 达尔文确信，失去了这些爱好不只是少了乐趣，而且可能会有损于一个人的智力，更有可能有损于一个人的性情。
 
 #pagebreak()
-= 2009
+== 2009
 
 #align(center)[
   #three-line-table[
     | 题目        |  答案  |
     |  -          |   -    |
     |1-10(完形)   |BADBC ADCBD|
-    |10-20(完形)  |DBCDA CBAAC|
+    |11-20(完形)  |DBCDA CBAAC|
     |21-25(Text1) |CDADA|
     |26-30(Text2) |ACDAB|
     |31-35(Text3) |DBBCC|
-    |31-35(Text4) |BBDAC|
+    |36-40(Text4) |BBDAC|
     |41-45(选段)  |CEABG|
   ]
 ]
@@ -115,18 +116,18 @@
 50. 这就引导我们在一直思考的广义的教育过程中区分出一种更为正规的教育形式，即直接指导或学校教育。
 
 #pagebreak()
-= 2010
+== 2010
 
 #align(center)[
   #three-line-table[
     | 题目        |  答案  |
     |  -          |   -    |
     |1-10(完形)   |ABCBC BDACD|
-    |10-20(完形)  |CAADB ADCBD|
+    |11-20(完形)  |CAADB ADCBD|
     |21-25(Text1) |BADAB|
     |26-30(Text2) |CDCBA|
     |31-35(Text3) |BDACC|
-    |31-35(Text4) |ADCBD|
+    |36-40(Text4) |ADCBD|
     |41-45(选段)  |BFDGA|
   ]
 ]
@@ -138,18 +139,18 @@
 50. 这种保护体系往往忽视陆地群落中诸多缺乏商业价值但对其健康运作至关重要的物种，而最终导致它们的灭绝。
 
 #pagebreak()
-= 2011
+== 2011
 
 #align(center)[
   #three-line-table[
     | 题目        |  答案  |
     |  -          |   -    |
     |1-10(完形)   |CDBBA BADCA|
-    |10-20(完形)  |BCDCB DADAC|
+    |11-20(完形)  |BCDCB DADAC|
     |21-25(Text1) |CBDBC|
     |26-30(Text2) |BDCAC|
     |31-35(Text3) |DCBAA|
-    |31-35(Text4) |CDADB|
+    |36-40(Text4) |CDADB|
     |41-45(选段)  |BDACF|
   ]
 ]
@@ -161,18 +162,18 @@
 50. 其正面意义在于，了解了一切都取决于我们自己，即有了诸多可能，此前我们是谙熟各种局限的专家，现在我们成了驾驭各种可能性的权威。
 
 #pagebreak()
-= 2012
+== 2012
 
 #align(center)[
   #three-line-table[
     | 题目        |  答案  |
     |  -          |   -    |
     |1-10(完形)   |BABDC BDBAB|
-    |10-20(完形)  |ACCDA CACDD|
+    |11-20(完形)  |ACCDA CACDD|
     |21-25(Text1) |DBACD|
     |26-30(Text2) |CDADA|
     |31-35(Text3) |ABBDC|
-    |31-35(Text4) |CDBCA|
+    |36-40(Text4) |CDBCA|
     |41-45(选段)  |CDAFG|
   ]
 ]
@@ -184,18 +185,18 @@
 50. 乔姆斯基的语法应该显示出语言变化的模式，这些模式并不受语言谱系或贯穿谱系路径的影响，而格林堡式的普遍性则预言了特定的语法词序关系类型之间所存在的紧密互依性。
 
 #pagebreak()
-= 2013
+== 2013
 
 #align(center)[
   #three-line-table[
     | 题目        |  答案  |
     |  -          |   -    |
     |1-10(完形)   |ABCDB DAADC|
-    |10-20(完形)  |ACBCB CDDBA|
+    |11-20(完形)  |ACBCB CDDBA|
     |21-25(Text1) |ABDCC|
     |26-30(Text2) |DACBD|
     |31-35(Text3) |BADBA|
-    |31-35(Text4) |BCACD|
+    |36-40(Text4) |BCACD|
     |41-45(选段)  |EFDGA|
   ]
 ]
@@ -207,18 +208,18 @@
 50. 虽然有“扩大词义外延”的意味，但正是这种对大自然或隐晦或明晰的参照让用“花园”一词来描述这些人造组合有了充分的根据。
 
 #pagebreak()
-= 2014
+== 2014
 
 #align(center)[
   #three-line-table[
     | 题目        |  答案  |
     |  -          |   -    |
     |1-10(完形)   |DABAC DCDBC|
-    |10-20(完形)  |AABDC BABCD|
+    |11-20(完形)  |AABDC BABCD|
     |21-25(Text1) |ACDAA|
     |26-30(Text2) |DDABB|
     |31-35(Text3) |BCCBD|
-    |31-35(Text4) |ADCCB|
+    |36-40(Text4) |ADCCB|
     |41-45(选段)  |CFGDB|
   ]
 ]
@@ -230,18 +231,18 @@
 50. 苦难是不可避免的，但与之抗争的勇气正是生活的意义所在，对贝多芬的诸多作品，我们都可做此解读。
 
 #pagebreak()
-= 2015
+== 2015
 
 #align(center)[
   #three-line-table[
     | 题目        |  答案  |
     |  -          |   -    |
     |1-10(完形)   |DBCAC ADABD|
-    |10-20(完形)  |BABDC CBDCA|
+    |11-20(完形)  |BABDC CBDCA|
     |21-25(Text1) |DCBAC|
     |26-30(Text2) |CADDD|
     |31-35(Text3) |BCDCA|
-    |31-35(Text4) |ABACB|
+    |36-40(Text4) |ABACB|
     |41-45(选段)  |CEGBA|
   ]
 ]
@@ -253,18 +254,18 @@
 50. 郁郁葱葱、树种繁多的原始森林是一座从缅因一直向南绵延到佐治亚的天然宝库。
 
 #pagebreak()
-= 2016
+== 2016
 
 #align(center)[
   #three-line-table[
     | 题目        |  答案  |
     |  -          |   -    |
     |1-10(完形)   |ADCAC BDBDA|
-    |10-20(完形)  |DCBBC ABDBA|
+    |11-20(完形)  |DCBBC ABDBA|
     |21-25(Text1) |ADDCD|
     |26-30(Text2) |ADCAC|
     |31-35(Text3) |BCDAB|
-    |31-35(Text4) |ABBCB|
+    |36-40(Text4) |ABBCB|
     |41-45(选段)  |CGDEG|
   ]
 ]
@@ -276,18 +277,18 @@
 50. 你终会明白，懂得心理健康无时不在并懂得信赖它，这能让我们慢下来活在每一刻，快乐地生活着。
 
 #pagebreak()
-= 2017
+== 2017
 
 #align(center)[
   #three-line-table[
     | 题目        |  答案  |
     |  -          |   -    |
     |1-10(完形)   |BADCB DBCAD|
-    |10-20(完形)  |ABDBC ACACD|
+    |11-20(完形)  |ABDBC ACACD|
     |21-25(Text1) |ACDDC|
     |26-30(Text2) |BABAD|
     |31-35(Text3) |DBDCA|
-    |31-35(Text4) |CCABD|
+    |36-40(Text4) |CCABD|
     |41-45(选段)  |FEACG|
   ]
 ]
@@ -299,18 +300,18 @@
 50. 它为旨在促进英语学习和使用的所有组织机构提供了一个基础，该基础用于规划应对由一种或许会很不一样的运作环境所带来的各种可能。
 
 #pagebreak()
-= 2018
+== 2018
 
 #align(center)[
   #three-line-table[
     | 题目        |  答案  |
     |  -          |   -    |
     |1-10(完形)   |CADBD BCDBA|
-    |10-20(完形)  |BBACD ACBAC|
+    |11-20(完形)  |BBACD ACBAC|
     |21-25(Text1) |DCADB|
     |26-30(Text2) |DABCA|
     |31-35(Text3) |BCDDB|
-    |31-35(Text4) |BAACD|
+    |36-40(Text4) |BAACD|
     |41-45(选段)  |EGABD|
   ]
 ]
@@ -322,18 +323,18 @@
 50. 要明白当时的戏剧活动是何等繁荣，我们还必须记住，大量剧作都已散失，恐怕没有哪位知名作家的全部作品幸存至今。
 
 #pagebreak()
-= 2019
+== 2019
 
 #align(center)[
   #three-line-table[
     | 题目        |  答案  |
     |  -          |   -    |
     |1-10(完形)   |CCBDA BDCAD|
-    |10-20(完形)  |ABDCB DAABC|
+    |11-20(完形)  |ABDCB DAABC|
     |21-25(Text1) |ADBCB|
     |26-30(Text2) |DAACB|
     |31-35(Text3) |CDBAC|
-    |31-35(Text4) |CDCBA|
+    |36-40(Text4) |CDCBA|
     |41-45(选段)  |EDGBA|
   ]
 ]
@@ -345,18 +346,18 @@
 50. 如果我们真想保证我们的科研既有意义又可复制，就必须确保我们的体制能激励这样的科研。
 
 #pagebreak()
-= 2020
+== 2020
 
 #align(center)[
   #three-line-table[
     | 题目        |  答案  |
     |  -          |   -    |
     |1-10(完形)   |CABDA BDADC|
-    |10-20(完形)  |CABDC BABCD|
+    |11-20(完形)  |CABDC BABCD|
     |21-25(Text1) |CBDBC|
     |26-30(Text2) |DACAD|
     |31-35(Text3) |ACDCB|
-    |31-35(Text4) |CABCB|
+    |36-40(Text4) |CABCB|
     |41-45(选段)  |CEGAD|
   ]
 ]
@@ -368,18 +369,18 @@
 50. 这种寻求知识和了解已知的行为被拉丁短语“sapere aude”，亦即“敢于求知”，描画得淋漓尽致。
 
 #pagebreak()
-= 2021
+== 2021
 
 #align(center)[
   #three-line-table[
     | 题目        |  答案  |
     |  -          |   -    |
     |1-10(完形)   |CDABA ACBAC|
-    |10-20(完形)  |DBCDD BDAAC|
+    |11-20(完形)  |DBCDD BDAAC|
     |21-25(Text1) |CBCDD|
     |26-30(Text2) |BDCCA|
     |31-35(Text3) |ABDAA|
-    |31-35(Text4) |CBBDA|
+    |36-40(Text4) |CBBDA|
     |41-45(选段)  |GCEBD|
   ]
 ]
@@ -391,18 +392,18 @@
 50. 高增长率增加了学术创新的可能性；同时也弱化了在稳定期或缓慢增长期，教师和学生获准加入某学者团体所需的形式和流程。
 
 #pagebreak()
-= 2022
+== 2022
 
 #align(center)[
   #three-line-table[
     | 题目        |  答案  |
     |  -          |   -    |
     |1-10(完形)   |acdcd bcbad|
-    |10-20(完形)  |cdacb daadb|
+    |11-20(完形)  |cdacb daadb|
     |21-25(Text1) |acddb|
     |26-30(Text2) |cbcda|
     |31-35(Text3) |baabc|
-    |31-35(Text4) |dadbc|
+    |36-40(Text4) |dadbc|
     |41-45(选段)  |fcadg|
   ]
 ]
@@ -414,18 +415,18 @@
 50. 正如密码破译在争夺西班牙的斗争中有其更广泛的意义，他在晋升途径上的尝试也提供了很多关于英国社会的信息。
 
 #pagebreak()
-= 2023
+== 2023
 
 #align(center)[
   #three-line-table[
     | 题目        |  答案  |
     |  -          |   -    |
     |1-10(完形)   |CABCC ABBAD|
-    |10-20(完形)  |DCCBA BDADA|
+    |11-20(完形)  |DCCBA BDADA|
     |21-25(Text1) |CBACD|
     |26-30(Text2) |ADBCD|
     |31-35(Text3) |ACBAD|
-    |31-35(Text4) |BCABD|
+    |36-40(Text4) |BCABD|
     |41-45(选段)  |BFDCG|
   ]
 ]
@@ -437,18 +438,18 @@
 50. 敏锐捕捉目标客户需求，对营销信息进行非侵扰式的传播，这对数字营销者而言是一项重大挑战。
 
 #pagebreak()
-= 2024
+== 2024
 
 #align(center)[
   #three-line-table[
     | 题目        |  答案  |
     |  -          |   -    |
     |1-10(完形)   |DCBAB CADAD|
-    |10-20(完形)  |ACCDC BDCBA|
+    |11-20(完形)  |ACCDC BDCBA|
     |21-25(Text1) |DDABA|
     |26-30(Text2) |ABDCB|
     |31-35(Text3) |BCCDB|
-    |31-35(Text4) |BCCDB|
+    |36-40(Text4) |BCCDB|
     |41-45(选段)  |ECFGB|
   ]
 ]
