@@ -1,5 +1,6 @@
 #import "../template.typ": *
 
+#pagebreak()
 = Writing
 == GPT Prompt
 === 应用文
@@ -7,11 +8,6 @@
 You are a native English writer. Next, you need to write an application essay for the Chinese Postgraduate Entrance Examination (English Test One) from an exam perspective. Please ensure the essay is around 150 words and follows a formal writing style. Use advanced but natural sentence structures and vocabulary. Additionally, provide the corresponding Chinese translation for easy back-translation. I want to learn how to structure the essay, use appropriate vocabulary, and develop clear and coherent arguments.
 
 Below is the first writing you need to write.
-
-Two months ago you got a job as an editor for the magazine Designs & Fashions. But now you find that the work is not what you expected. You decide to quit. Write a letter to your boss, Mr. Wang, telling him your decision, stating your reason (s), and making an apology.
-
-- Write your letter with no less than 150 words.
-- Do not sign your own name at the end of the letter; use “Li Ming” instead. You do not need to write the address.
 
 === essay
 
@@ -29,21 +25,21 @@ In your essay, you should first describe the drawing, then interpret its meaning
 Two months ago you got a job as an editor for the magazine Designs & Fashions. But now you find that the work is not what you expected. You decide to quit. Write a letter to your boss, Mr. Wang, telling him your decision, stating your reason (s), and making an apology.
 
 - Write your letter with no less than 100 words.
-- Do not sign your own name at the end of the letter; use “Li Ming” instead. You do not need to write the address. (10 points)
+- Do not sign your own name at the end of the letter; use “Li Ming” instead. You do not need to write the address.
 
 ==== resignation
 
 Dear Mr. Wang,
 
-I am writing to formally notify you of my resignation from my position as an editor at Designs & Fashions, effective two weeks from today.
+#underline[_I am writing to formally notify you of_] my resignation from my position as an editor at Designs & Fashions, #underline[_effective two weeks from today._]
 
-Two months ago, I embarked on this role with great enthusiasm, looking forward to contributing to our esteemed magazine. However, I have come to realize that the job responsibilities and the work environment do not align with my career aspirations and personal growth goals. Despite my initial excitement, the daily tasks have proven to be quite different from what I expected, focusing more on administrative duties rather than the creative editorial work I am passionate about.
+Two months ago, I *embarked* on this role with great enthusiasm, looking forward to contributing to our *esteemed* magazine. However, I have *come to realize* that the job responsibilities and the work environment do not *align with* my career *aspirations* and personal growth goals. *Despite my initial excitement*, the daily tasks #underline[_have proven to be quite different from what I expected, focusing more on_] administrative duties #underline[_rather than_] the creative editorial work I am passionate about.
 
-I deeply regret any inconvenience my departure may cause to the team and the ongoing projects. Please know that this decision was not made lightly, and it took considerable thought and reflection. I am truly grateful for the opportunity to work with such a talented team and for the professional experiences I have gained during my tenure.
+#underline[_I deeply regret any inconvenience my departure may cause to the team and the ongoing projects._] #underline[_Please know that this decision was not made lightly, and it took considerable thought and reflection._] #underline[_I am truly grateful for the opportunity to_] work with such a talented team #underline[_and for_] the professional experiences I have gained during my *tenure*.
 
-I would like to extend my sincerest apologies for any disruption this may cause and assure you that I am committed to facilitating a smooth transition. I am more than willing to assist in training my successor and will ensure that all my tasks are up-to-date before my departure.
+#underline[_I would like to extend my sincerest apologies for any disruption this may cause and assure you that I am committed to *facilitating* a smooth transition._] #underline[_I am more than willing to assist in_] training my successor #underline[_and will ensure_] that all my tasks are up-to-date before my *departure*.
 
-Thank you for your understanding and support. I hope to maintain a positive relationship moving forward, and I look forward to potential future collaborations.
+#underline[_Thank you for your understanding and support. I hope to maintain a positive relationship moving forward, and I look forward to potential future collaborations._]
 
 Yours sincerely,
 
@@ -72,21 +68,21 @@ Li Ming
 
 You want to contribute to Project Hope by offering financial aid to a child in a remote area. Write a letter to the department concerned, asking them to help find a candidate. You should specify what kind of child you want to help and how you will carry out your plan.
 
-- Write your letter in no less than 100 words. Write it neatly on ANSWER SHEET 2.
+- Write your letter in no less than 100 words. Write it neatly.
 - Do not sign your own name at the end of the letter; use “Li Ming” instead.
-- Do not write the address. (10 points)
+- Do not write the address.
 
 Dear Project Hope Team,
 
 ==== Applying for Financial Aid
 
-I hope this letter finds you well. I am writing to express my interest in providing financial aid to a child through your esteemed organization, Project Hope. I am particularly interested in supporting a child from a remote area who is facing significant educational challenges due to financial constraints.
+#underline[_I hope this letter finds you well._] #underline[_I am writing to express my interest in_] providing financial aid to a child through your esteemed organization, Project Hope. #underline[_I am particularly interested in_] supporting a child from a remote area who is facing significant educational challenges #underline[_due to_] *financial constraints*.
 
-My intention is to sponsor a child's education for a minimum of one school year, covering expenses such as school fees, books, and necessary supplies. I believe that every child deserves the opportunity to learn and grow in a supportive environment, and I am eager to make a meaningful difference in a young individual's life.
+#underline[_My intention is to_] *sponsor* a child's education for a minimum of one school year, covering expenses such as school fees, books, and necessary supplies. #underline[_I believe that_] every child deserves the opportunity to learn and grow in a supportive environment, #underline[_and I am eager to make a meaningful difference in a young individual's life._]
 
-To ensure that the aid reaches a suitable candidate, I kindly request your assistance in identifying a child who meets these criteria. Please provide information regarding the process for selecting a child and how I can initiate my contribution.
+To ensure that the aid *reaches* a suitable candidate, I kindly request your assistance in identifying a child who *meets these criteria*. #underline[_Please provide information regarding_] the process for selecting a child and how I can *initiate* my contribution.
 
-Thank you for considering my request. I look forward to your guidance and am ready to proceed as soon as a suitable candidate is identified.
+#underline[Thank you for considering my request. I look forward to your guidance and am ready to proceed] as soon as a suitable candidate is identified.
 
 Yours sincerely,
 
@@ -113,23 +109,23 @@ Li Ming
 
 Write a letter to your university library, making suggestions for improving its service.
 
-- You should write about 100 words on ANSWER SHEET 2.
+- You should write about 100 words.
 - Do not sign your own name at the end of the letter. Use “Li Ming” instead.
-- Do not write the address. (10 points)
+- Do not write the address.
 
 ==== Suggestions for Enhancing Library Services
 
 Dear Library Management,
 
-I hope this message finds you well. As a frequent user of our university library, I would like to suggest a few enhancements that could improve the services provided to students.
+#underline[_I hope this message finds you well._] #underline[_As a_] frequent user of our university library, #underline[_I would like to suggest a few enhancements that could improve_] the services provided to students.
 
-Firstly, extending library hours, especially during exam periods, would greatly benefit students who require more time for study and research. Additionally, increasing the availability of study rooms could facilitate group discussions and collaborative learning, which are essential for academic success.
+*Firstly*, #underline[_extending library hours, especially_] during exam periods, would greatly benefit students who require more time for study and research. *Additionally*, increasing the availability of study rooms could *facilitate* group discussions and collaborative learning, #underline[_which are essential for_] academic success.
 
-Another area for improvement is the digital resources section. Expanding our digital library, especially with more e-books and online journals in various fields, would significantly aid students engaged in extensive research projects.
+#underline[_Another area for_] improvement is the digital resources section. Expanding our digital library, especially with more e-books and online journals in various fields, would significantly *aid* students *engaged in* extensive research projects.
 
-Lastly, implementing a more intuitive online catalog system would streamline the process of locating and reserving books, making it more user-friendly.
+*Lastly*, implementing *a more intuitive online catalog system* would *streamline the process* of locating and reserving books, making it more user-friendly.
 
-Thank you for considering these suggestions. I am confident that these changes would greatly enhance our learning environment.
+#underline[_Thank you for considering these suggestions. I am confident that these changes would greatly enhance our learning environment._]
 
 Best regards,
 
@@ -158,21 +154,21 @@ Li Ming
 
 You have just come back from Canada and found a music CD in your luggage that you forgot to return to Bob, your landlord there. Write him a letter to 1) make an apology, and 2) suggest a solution.
 
-- You should write about 100 words on ANSWER SHEET 2.
+- You should write about 100 words.
 - Do not sign your own name at the end of the letter. Use “Li Ming” instead.
-- Do not write the address. (10 points)
+- Do not write the address.
 
 ==== Apology and Resolution Regarding the Music CD
 
 Dear Bob,
 
-I hope this message finds you well. I am writing to express my sincere apologies for an oversight that occurred during my recent departure from Canada. I have discovered a music CD in my luggage that belongs to you, which I inadvertently forgot to return before leaving.
+#underline[_I hope this message finds you well._] #underline[_I am writing to express my sincere apologies for_] an *oversight* that occurred during my recent departure from Canada. I have discovered a music CD in my luggage that belongs to you, which I *inadvertently* forgot to return before leaving.
 
-I deeply regret not ensuring that all borrowed items were returned to you, and I appreciate your understanding in this matter. To rectify this, I propose to mail the CD back to you at my expense. If this arrangement suits you, please provide your preferred mailing address, or alternatively, if you have another preferred solution, I am open to suggestions.
+#underline[_I deeply regret not ensuring that_] all borrowed items were returned to you, #underline[_and I appreciate your understanding in this matter._] #underline[_To rectify this, I propose to_] mail the CD back to you *at my expense*. #underline[_If this arrangement suits you, please_] provide your *preferred* mailing address, #underline[_or *alternatively*, if you have another preferred solution, I am open to suggestions._]
 
-Thank you for your kindness and understanding. I look forward to resolving this matter swiftly and to your satisfaction.
+#underline[_Thank you for your kindness and understanding. I look forward to resolving this matter swiftly and to your satisfaction._]
 
-Warm regards,
+#underline[_Warm regards,_]
 
 Li Ming
 
@@ -195,21 +191,21 @@ Li Ming
 
 Restrictions on the use of plastic bags have not been so successful in some regions. “White Pollution” is still going on. Write a letter to the editor (s) of your local newspaper to 1) give your opinions briefly, and 2) make two or three suggestions.
 
-- You should write about 100 words on ANSWER SHEET 2.
+- You should write about 100 words.
 - Do not sign your own name at the end of the letter. Use “Li Ming” instead.
-- Do not write the address. (10 points)
+- Do not write the address.
 
 ==== Combatting White Pollution: A Call for Strengthened Measures
 
 Dear Editor,
 
-I am writing to express my concerns regarding the ongoing issue of "White Pollution" in our region, despite existing restrictions on plastic bag usage. It appears that the current measures are not sufficient to curb the environmental damage caused by these non-biodegradable materials.
+#underline[_I am writing to express my concerns regarding the ongoing issue of_] "White Pollution" in our region, #underline[_despite_] existing restrictions on plastic bag usage. #underline[_It appears that_] the current measures are not sufficient to *curb* the environmental damage caused by these *non-biodegradable* materials.
 
-In my opinion, more rigorous enforcement of the existing laws is crucial. Many individuals and businesses continue to use plastic bags because there are minimal consequences for non-compliance. Additionally, there should be a greater emphasis on public education about the severe environmental impacts of plastic pollution, which might encourage more people to choose eco-friendly alternatives.
+#underline[_In my opinion,_] more *rigorous* *enforcement* of the existing laws #underline[_is crucial_]. Many *individuals* and *businesses* continue to use plastic bags because _there are minimal consequences for *non-compliance*._ #underline[_Additionally, there should be a greater emphasis on_] public education about the severe environmental impacts of plastic pollution, #underline[_which might encourage_] more people to choose eco-friendly alternatives.
 
-Furthermore, I suggest that local authorities implement incentive programs to support businesses that transition to sustainable packaging options. Subsidies or tax breaks could significantly reduce the financial burden of this switch and promote wider adoption.
+Furthermore, I suggest that local *authorities* implement incentive programs to support businesses that transition to sustainable packaging options. Subsidies or tax breaks could significantly *reduce the financial burden* of this switch and promote wider adoption.
 
-Thank you for considering these suggestions as we strive to protect our environment.
+#underline[_Thank you for considering these suggestions as we_] strive to protect our environment.
 
 Best regards,
 
@@ -236,20 +232,20 @@ Li Ming
 
 You are supposed to write for the Postgraduates' Association a notice to recruit volunteers for an international conference on globalization. The notice should include the basic qualifications for applicants and other information which you think is relevant.
 
-- You should write about 100 words on ANSWER SHEET 2.
-- Do not sign your own name at the end of the notice. Use “Postgraduates' Association” instead. (10 points)
+- You should write about 100 words.
+- Do not sign your own name at the end of the notice. Use “Postgraduates' Association” instead.
 
 ==== Volunteer Recruitment for International Conference on Globalization
 
 Dear Postgraduate Students,
 
-The Postgraduates' Association is currently seeking motivated volunteers to help coordinate the upcoming International Conference on Globalization, which is scheduled to take place from November 15th to 17th, 2024. This event is a premier opportunity to engage with thought leaders and experts discussing global economic, social, and cultural transformations.
+The Postgraduates' Association is currently *seeking* motivated volunteers to help *coordinate* the upcoming International Conference on Globalization, which is scheduled to take place from November 15th to 17th, 2024. #underline[_This event is a *premier* opportunity to engage with_] thought leaders and experts discussing global economic, social, and cultural transformations.
 
-We are looking for volunteers who are currently enrolled as postgraduate students with excellent communication skills in English. Proficiency in additional languages is highly desirable. Volunteers should be able to work effectively within a team and adapt to the fast-paced environment of an international conference. An interest in global issues and their complexities is essential.
+We are looking for volunteers who are currently enrolled as postgraduate students with excellent communication skills in English. #underline[_Proficiency in additional languages is highly desirable._] Volunteers should be able to work effectively within a team and adapt to the fast-paced environment of an international conference. #underline[_An interest in global issues and their complexities is essential._]
 
-As a volunteer, you will be involved in various tasks such as setting up the conference venue, managing registration desks, providing information to attendees, and assisting in session facilitation. This role offers a chance to gain valuable experience, enhance your CV, and expand your professional network.
+#underline[_As a volunteer, you will be involved in various tasks_] such as setting up the conference venue, managing registration desks, providing information to attendees, and assisting in session facilitation. #underline[_This role offers a chance to gain valuable experience, enhance your CV, and expand your professional network._]
 
-Interested candidates should submit a brief statement of interest and their CV to [email\@university.edu] by October 5, 2024. We look forward to your enthusiastic participation in making this international event a success.
+#underline[_Interested candidates should submit a brief statement of interest and their CV to_] _email\@university.edu_ #underline[_by_] October 5, 2024. #underline[_We look forward to your enthusiastic participation in making this international event a success._]
 
 Best regards,
 
@@ -265,7 +261,7 @@ Postgraduates' Association
 
 作为志愿者，您将参与会议场地的设置、管理注册台、为与会者提供信息以及协助会议过程等各种任务。这一角色将为您提供宝贵的经验，增强您的简历，并扩展您的专业网络。
 
-有兴趣的候选人请于 2024 年 10 月 5 日前提交一份简短的兴趣声明和简历至[email\@university.edu]。我们期待您的热情参与，共同使这一国际盛事取得成功。
+有兴趣的候选人请于 2024 年 10 月 5 日前提交一份简短的兴趣声明和简历至_email\@university.edu_。我们期待您的热情参与，共同使这一国际盛事取得成功。
 
 最诚挚的问候，
 
@@ -276,19 +272,19 @@ Postgraduates' Association
 
 Write a letter to a friend of yours to 1) recommend one of your favorite movies and 2) give reasons for your recommendation.
 
-- You should write about 100 words on ANSWER SHEET 2.
+- You should write about 100 words.
 - Do not sign your own name at the end of the letter. Use “Li Ming” instead.
-- Do not write the address. (10 points)
+- Do not write the address.
 
 ==== Must-Watch Movie Recommendation!
 
 Dear [Friend's Name],
 
-I hope this letter finds you well. I recently watched a movie that I must recommend to you: “The Grand Budapest Hotel” directed by Wes Anderson. This film stands out not only for its unique storytelling but also for its visual and thematic brilliance.
+I hope this letter finds you well. I recently watched a movie that I must recommend to you: “The Grand Budapest Hotel” directed by Wes Anderson. #underline[_This film stands out not only for its unique storytelling but also for its visual and thematic brilliance._]
 
-The movie is a vibrant tapestry of humor and drama, masterfully woven through a narrative that spans several generations at a famous European hotel. What captivates most is Anderson's distinctive style—meticulously crafted scenes, symmetrical compositions, and a pastel color palette that transforms each frame into a work of art.
+The movie is *a vibrant tapestry of humor and drama*, #underline[_masterfully woven through a narrative that spans several generations at a famous European hotel_]. #underline[_What *captivates* most is_] Anderson's distinctive style—meticulously crafted scenes, symmetrical compositions, and a pastel color palette that transforms each frame into a work of art.
 
-Moreover, the ensemble cast delivers performances that are both enchanting and poignant, perfectly complementing the whimsical yet thoughtful storyline. It’s a cinematic experience that offers both a visual feast and a profound commentary on the nature of time, memory, and friendship.
+Moreover, #underline[_the *ensemble* cast delivers performances that are both *enchanting* and *poignant*, perfectly complementing the *whimsical* yet thoughtful *storyline*._] It’s a *cinematic* experience that #underline[_offers both a visual feast and a profound *commentary* on the nature of time, memory, and friendship._]
 
 I think you’ll find it both entertaining and inspiring. Enjoy the movie!
 
@@ -317,23 +313,23 @@ Li Ming
 
 Some international students are coming to your university. Write them an email in the name of the Students' Union to 1) extend your welcome and 2) provide some suggestions for their campus life here.
 
-- You should write about 100 words on ANSWER SHEET 2.
+- You should write about 100 words.
 - Do not sign your name at the end of the letter. Use “Li Ming” instead.
-- Do not write the address. (10 points)
+- Do not write the address.
 
 ==== Welcome to Our University!
 
 Dear International Students,
 
-On behalf of the Student Union, I am delighted to welcome you to our university community. As you embark on this exciting chapter of your academic journey, we are here to ensure that your experience is both enriching and memorable.
+#underline[_On behalf of the Student Union, I am delighted to_] welcome you to our university community. #underline[_As you embark on this exciting chapter of your academic journey_], we are here to ensure that your experience is both *enriching* and *memorable*.
 
-To make the most of your time on campus, I encourage you to engage actively in our diverse array of clubs and societies. Whether your interest lies in sports, arts, or academic pursuits, there is something here for everyone. Participating in these groups is a fantastic way to meet new people, learn new skills, and integrate into the university life.
+To *make the most of your time* on campus, I encourage you to *engage actively in our diverse array of clubs and societies*. #underline[_Whether your interest *lies* in sports, arts, or academic pursuits_], there is something here for everyone. Participating in these groups is a fantastic way to meet new people, learn new skills, and *integrate into the university life*.
 
-Additionally, I recommend exploring the city and its surroundings. Our campus is ideally located to offer both urban attractions and natural beauty, providing plenty of opportunities for relaxation and exploration.
+Additionally, I recommend exploring the city and its *surroundings*. #underline[_Our campus is ideally located to offer both urban attractions and natural beauty_], #underline[_providing plenty of opportunities for_] relaxation and exploration.
 
-We look forward to seeing you thrive here. If you have any questions or need assistance, please do not hesitate to contact the Student Union office.
+We look forward to seeing you *thrive* here. If you have any questions or need assistance, please do not hesitate to contact the Student Union office.
 
-Warm regards,
+*Warm regards*,
 
 Li Ming
 
@@ -359,21 +355,20 @@ Li Ming
 Write an e-mail of about 100 words to a foreign teacher in your college, inviting him/her to be a judge for the upcoming English speech contest.
 
 - You should include the details you think necessary.
-- You should write neatly on the ANSWER SHEET.
 - Do not sign your own name at the end of the e-mail. Use “Li Ming” instead.
-- Do not write the address. (10 points)
+- Do not write the address.
 
 ==== Invitation to Serve as a Judge at the English Speech Contest
 
 Dear [Teacher's Name],
 
-I hope this message finds you well. I am writing to invite you to serve as a judge at our upcoming English Speech Contest, scheduled for October 10th, 2024, at the college auditorium. Your expertise in English literature and proficiency in communication would greatly benefit the judging panel.
+I hope this message finds you well. I am writing to invite you to *serve as* a judge at our *upcoming* English Speech Contest, #underline[_scheduled for_] October 10th, 2024, at the college *auditorium*. #underline[_Your *expertise* in English literature and proficiency in communication would greatly benefit the judging panel._]
 
-The contest will begin at 9:00 AM and is expected to last until approximately 3:00 PM. Contestants will be delivering speeches on various themes related to global issues, aiming to showcase their oratory skills and their ability to engage an audience.
+The contest will begin at 9:00 AM and is expected to #underline[_last until approximately_] 3:00 PM. Contestants will be *delivering speeches on* various themes related to global issues, aiming to *showcase* their *oratory* skills and their ability to *engage* an audience.
 
-We would be honored if you could join us and lend your insight to help recognize and encourage the talents of our participants. Please let us know your availability by September 20th, so we can finalize the details.
+We would be honored if you could join us and *lend your insight to* help recognize and encourage the talents of our participants. #underline[_Please let us know your availability by_] September 20th, so we can *finalize the details*.
 
-Thank you for considering this request. I look forward to the possibility of your participation.
+#underline[_Thank you for considering this request. I look forward to the possibility of your participation._]
 
 Warm regards,
 
@@ -401,21 +396,20 @@ Li Ming
 Write a letter of about 100 words to the president of your university, suggesting how to improve students’ physical condition.
 
 - You should include the details you think necessary.
-- You should write neatly on the ANSWER SHEET.
 - Do not sign your own name at the end of the letter. Use “Li Ming” instead.
-- Do not write the address. (10 points)
+- Do not write the address.
 
 ==== Enhancements for Student Physical Well-being
 
 Dear President [President's Name],
 
-I hope this letter finds you well. As a committed member of our university community, I am writing to suggest some enhancements that could significantly improve the physical condition of our students.
+I hope this letter finds you well. #underline[_As a_] *committed* member of our university community, #underline[_I am writing to suggest some enhancements that could significantly improve_] the *physical condition* of our students.
 
-Firstly, increasing the availability of sports facilities and extending their hours would allow more students to incorporate physical activity into their daily routines. Additionally, introducing more varied fitness programs, such as yoga, pilates, and dance classes, could cater to a wider range of interests, promoting regular participation.
+#underline[_Firstly, increasing the availability of sports facilities and extending their hours would allow_] more students to *incorporate* physical activity *into* their daily routines. Additionally, introducing more varied fitness programs, such as yoga, *pilates*, and dance classes, could #underline[_*cater to* a wider range of interests, *promoting* regular participation._]
 
-Secondly, improving the nutritional options available on campus by including more healthy, affordable food choices in our cafeterias could greatly influence students' overall health. Partnering with local farms to supply fresh produce could also enhance meal quality and appeal.
+Secondly, improving *the nutritional options* available on campus by including more healthy, affordable food choices in our *cafeterias* could greatly influence students' *overall health*. Partnering with local farms to supply fresh produce could also enhance meal quality and *appeal*.
 
-These initiatives could foster a healthier student body and positively impact academic performance. Thank you for considering these suggestions. I believe these changes would greatly benefit our university community.
+These *initiatives* could *foster a healthier student body* and positively impact academic performance. Thank you for considering these suggestions. I believe these changes would greatly benefit our university community.
 
 Warm regards,
 
@@ -444,11 +438,11 @@ Li Ming
 
 Dear Club Members,
 
-I hope this message finds you all well. I am thrilled to recommend “The Night Circus” by Erin Morgenstern for our next club reading session. This enchanting novel is not only a feast for the imagination but also a masterpiece of magical realism that I believe will spark lively discussions among us.
+I hope this message finds you all well. #underline[_I am thrilled to recommend_] “The Night Circus” by Erin Morgenstern for our next club *reading session*. This *enchanting* novel #underline[_is not only a feast for the imagination but also a masterpiece of magical realism that I believe will *spark* lively discussions among us._]
 
-“The Night Circus” presents a unique blend of intricate plot lines and beautifully crafted characters, all set within a mystical circus that only opens at night. Morgenstern's writing is both richly descriptive and compelling, making it a perfect pick for those who appreciate layers of mystery intertwined with romance and historical nuances.
+“The Night Circus” #underline[presents a unique *blend* of *intricate plot lines* and *beautifully crafted characters*, all set within] a *mystical* *circus* that only opens at night. Morgenstern's writing is both richly descriptive and *compelling*, making it a perfect *pick* for those who #underline[appreciate layers of mystery *intertwined with* romance and historical *nuances*.]
 
-This book promises to be a captivating read that will keep you engaged from the first page to the last. I look forward to exploring its depths together and hearing everyone’s thoughts during our session.
+#underline[_This book promises to be a captivating read that will keep you engaged from the first page to the last._] I look forward to *exploring its depths together* and *hearing everyone’s thoughts* during our session.
 
 Best regards,
 
@@ -473,21 +467,20 @@ Li Ming
 
 Suppose you are a librarian in your university. Write a notice of about 100 words, providing the newly-enrolled international students with relevant information about the library.
 
-- You should write neatly on the ANSWER SHEET.
 - Do not sign your own name at the end of the notice. Use “Li Ming” instead.
-- Do not write the address. (10 points)
+- Do not write the address.
 
 ==== Welcome to the University Library!
 
 Dear International Students,
 
-Welcome to our university! As your librarian, I am pleased to provide you with essential information about our library services and resources.
+Welcome to our university! As your librarian, #underline[_I am pleased to provide you with essential information about_] our library services and resources.
 
-Our library houses an extensive collection of books, journals, and digital resources across various disciplines. We offer study spaces, group collaboration rooms, and computer access to support your academic endeavors.
+Our library *houses* an extensive collection of books, journals, and digital resources *across various disciplines*. We offer study spaces, group collaboration rooms, and computer access to support your *academic endeavors*.
 
-To get started, please visit our website to register for a library card, which grants you access to borrowing and online services. We also provide orientation sessions to help you familiarize yourself with the library layout and services. These sessions are scheduled during the first two weeks of the semester, and we highly recommend attending one.
+To get started, please visit our website to register for a library card, which *grants you access to* borrowing and online services. We also provide *orientation sessions* to help you *familiarize yourself with* the library layout and services. These sessions are scheduled during the first two weeks of the semester, and we #underline[_highly recommend attending_] one.
 
-For any questions or further assistance, feel free to approach our help desk. We look forward to supporting your academic journey!
+#underline[_For any questions or further assistance, feel free to approach our help desk._] We look forward to supporting your academic journey!
 
 Best regards,
 
@@ -514,21 +507,20 @@ Li Ming
 
 You are to write an email to James Cook, a newly-arrived Australian professor, recommending some tourist attractions in your city. Please give reasons for your recommendation.
 
-- You should write neatly on the ANSWER SHEET.
 - Do not sign your own name at the end of the email. Use “Li Ming” instead.
-- Do not write the address. (10 points)
+- Do not write the address.
 
 ==== Welcome to Our City and Some Must-Visit Attractions!
 
 Dear Professor Cook,
 
-Welcome to our vibrant city! I am delighted to recommend a few attractions that showcase the unique charm and history of our area.
+Welcome to our *vibrant* city! #underline[_I am delighted to recommend a few attractions that showcase the unique charm and history of our area._]
 
-Firstly, the City Museum is a must-visit. It houses an extensive collection that offers insights into the local history and cultural heritage. This is a great way to immerse yourself in the spirit of our city from day one.
+Firstly, the City Museum is a *must-visit*. It *houses* an extensive collection that *offers insights into* the local history and cultural heritage. #underline[_This is a great way to_] *immerse yourself in* the spirit of our city from day one.
 
-Secondly, I suggest visiting the Central Botanical Gardens. The gardens are not only a perfect spot for relaxation and a stroll but also host various exotic plants and flowers that highlight the city’s commitment to biodiversity.
+Secondly, I #underline[_suggest visiting_] the Central Botanical Gardens. The gardens are not only a perfect spot for relaxation and a stroll but also *host* various exotic plants and flowers #underline[_that highlight the city’s commitment to biodiversity._]
 
-Lastly, do not miss the Old Town. Its quaint streets and historical architecture provide a picturesque journey back in time, perfect for an afternoon exploration.
+Lastly, #underline[_do not miss the Old Town_]. Its *quaint* streets and historical architecture provide a *picturesque* journey back in time, #underline[_perfect for an afternoon exploration._]
 
 I hope you enjoy discovering these gems!
 
@@ -559,20 +551,20 @@ Li Ming
 
 Write an email to all international experts on campus, inviting them to attend the graduation ceremony. In your email, you should include time, place and other relevant information about the ceremony.
 
-- You should write about 100 words neatly on the ANSEWER SHEET.
-- Do not use your own name at the end of the email. Use “Li Ming” instead. (10 points)
+- You should write about 100 words neatly.
+- Do not use your own name at the end of the email. Use “Li Ming” instead.
 
 ==== Invitation to Attend the Graduation Ceremony
 
 Dear Esteemed International Experts,
 
-It is with great pleasure that we extend an invitation to you to attend our upcoming Graduation Ceremony. This significant event is scheduled to take place on June 15th, 2024, at 10:00 AM in the University Auditorium.
+#underline[_It is with great pleasure that we extend an invitation to you to attend our upcoming_] Graduation Ceremony. This significant event is scheduled to take place on June 15th, 2024, at 10:00 AM in the University Auditorium.
 
-The ceremony will honor the achievements of our graduates and celebrate the culmination of their academic journey. Your presence would greatly enrich the experience, providing our students with a sense of the global community they are about to join.
+The ceremony will honor the achievements of our graduates and celebrate the *culmination* of their academic journey. #underline[_Your presence would greatly enrich the experience, providing_] our students #underline[_with a sense of_] the global community they are about to join.
 
-Following the ceremony, a reception will be held in the university garden, allowing for an opportunity to mingle and offer congratulations personally.
+#underline[Following the ceremony,] a reception will be held in the university garden, #underline[_allowing for an opportunity to_] *mingle* and offer congratulations personally.
 
-Please confirm your attendance by June 1st, 2024, to facilitate planning. We look forward to the honor of your presence.
+#underline[_Please confirm your attendance by June 1st, 2024, to *facilitate* planning. We look forward to the honor of your presence._]
 
 Warm regards,
 
@@ -599,20 +591,20 @@ Li Ming
 
 Suppose you are working for the "Aiding Rural Primary School" project of your university. Write an email to answer the inquiry from an international student volunteer, specifying the details of the project.
 
-- You should write about 100 words on the ANSWER SHEET.
-- Do not use your own name in the email; use "Li Ming" instead. (10 points)
+- You should write about 100 words.
+- Do not use your own name in the email; use "Li Ming" instead.
 
 ==== Details about the "Aiding Rural Primary School" Project
 
 Dear [Volunteer's Name],
 
-Thank you for your interest in the "Aiding Rural Primary School" project. This initiative is a part of our university's commitment to improving educational facilities and resources in underprivileged rural areas.
+Thank you for your interest in the "Aiding Rural Primary School" project. This initiative is a part of our university's *commitment to improving* educational facilities and resources in *underprivileged* rural areas.
 
-The project involves refurbishing local school buildings, providing educational materials, and organizing teaching sessions led by our volunteers. We also aim to set up a small library in each school to ensure that students have access to a wide range of learning resources.
+#underline[_The project involves_] *refurbishing* local school buildings, providing educational materials, and organizing teaching sessions led by our volunteers. We also aim to set up a small library in each school to ensure that students have access to a wide range of learning resources.
 
-We typically organize volunteer groups to travel to the schools every semester, with each mission lasting about two weeks. Volunteers are expected to help with physical renovations and participate in educational activities.
+We typically organize volunteer groups to travel to the schools every semester, with each mission *lasting about* two weeks. Volunteers are expected to help with *physical renovations* and participate in educational activities.
 
-If you are interested in joining us, please reply with your available dates and any specific skills you can offer to the project. We truly appreciate your willingness to contribute and look forward to potentially having you on our team.
+#underline[_If you are interested in joining us, please reply with your available dates and any specific skills you can offer to the project._] #underline[We truly appreciate your *willingness* to contribute and look forward to potentially *having you on our team*.]
 
 Best regards,
 
@@ -639,18 +631,18 @@ Li Ming
 
 The student union of your university has assigned you to inform the international students about an upcoming singing contest. Write a notice in about 100 words.
 
-- Write your answer on the ANSWER SHEET.
-- Do not use your own name in the notice. (10 points)
+- Write your answer.
+- Do not use your own name in the notice.
 
 ==== Join Our University's International Singing Contest!
 
 Dear International Students,
 
-We are excited to announce the upcoming International Singing Contest, organized by the Student Union, scheduled for October 10th, 2024. This event aims to celebrate musical talents across our diverse student body and foster cultural exchange through the universal language of music.
+#underline[_We are excited to announce the upcoming_] International Singing Contest, #underline[_organized by the Student Union, scheduled for October 10th, 2024._] This event aims to #underline[_*celebrate musical talents* across *our diverse student body* and *foster cultural exchange* through *the universal language of music*_].
 
-The contest will take place in the University Auditorium from 6:00 PM onwards. Participants will have the opportunity to showcase their vocal skills and represent their cultural heritage through song. Prizes will be awarded for the best performances, with categories including Best Solo, Best Duet, and Best Traditional Song.
+The contest will take place in the University Auditorium *from 6:00 PM onwards*. Participants will have the opportunity to showcase their vocal skills and *represent their cultural heritage* through song. #underline[Prizes will be awarded for the best performances, with categories including Best *Solo*, Best *Duet*, and Best Traditional Song.]
 
-To participate, please register by September 30th by emailing [studentunion\@email.com]. Whether you are competing or cheering, this event promises to be a wonderful evening of entertainment and cultural celebration.
+To participate, please register by September 30th by emailing _studentunion\@email.com_. #underline[_Whether you are competing or cheering, this event promises to be a wonderful evening of entertainment and cultural celebration._]
 
 We look forward to your participation and to a night of memorable performances!
 
@@ -666,7 +658,7 @@ Student Union
 
 比赛将从晚上 6 点开始，在大学礼堂举行。参与者将有机会展示他们的歌唱技巧，并通过歌曲表达他们的文化遗产。将为最佳表演颁发奖项，包括最佳独唱、最佳二重唱和最佳传统歌曲等类别。
 
-如欲参加，请于 9 月 30 日前通过[studentunion\@email.com]注册。无论是参赛还是加油，这次活动都将是一个充满娱乐和文化庆典的美妙夜晚。
+如欲参加，请于 9 月 30 日前通过_studentunion\@email.com_注册。无论是参赛还是加油，这次活动都将是一个充满娱乐和文化庆典的美妙夜晚。
 
 我们期待您的参与和一场难忘的表演之夜！
 
@@ -679,22 +671,22 @@ Student Union
 
 A foreign friend of yours has recently graduated from college and intends to find a job in China. Write him/her an email to make some suggestions.
 
-- You should write about 100 words on the ANSWER SHEET.
-- Do not use your name in the email; use “Li Ming” instead. (10 points)
+- You should write about 100 words.
+- Do not use your name in the email; use “Li Ming” instead.
 
 ==== Tips for Job Hunting in China
 
 Dear [Friend's Name],
 
-Congratulations on your graduation! As you embark on your job search in China, I have a few suggestions that might help you navigate the job market here more effectively.
+#underline[_Congratulations on your graduation!_] #underline[_As you *embark* on your job search in China, I have a few suggestions that might_] help you *navigate the job market* here more effectively.
 
-Firstly, familiarize yourself with Chinese business etiquette. Understanding cultural nuances can greatly enhance your interactions and interviews with potential employers. Secondly, learning Mandarin, if you haven't already, will significantly boost your employability, as many companies prefer candidates who can communicate in the local language.
+Firstly, *familiarize* yourself *with* Chinese business *etiquette*. Understanding *cultural nuances* can greatly *enhance* your interactions and interviews with potential employers. Secondly, learning Mandarin, if you haven't already, will significantly *boost your employability*, as many companies *prefer candidates* who can communicate in the local language.
 
-Additionally, leverage your unique background as an international candidate. Emphasize how your global perspective and education can contribute to a Chinese company's international goals. Networking is also key—try to attend industry-related events and connect with professionals via platforms like LinkedIn.
+Additionally, *leverage your unique background as* an international candidate. Emphasize how your global perspective and education can contribute to a Chinese company's international goals. *Networking* is also *key-try* to attend *industry-related* events and *connect with professionals* via platforms like LinkedIn.
 
-Lastly, tailor your resume and cover letter to each job application, highlighting skills and experiences that align with the job requirements.
+Lastly, *tailor your resume* and *cover letter* to each job application, highlighting skills and experiences that *align with the job requirements*.
 
-Best of luck, and I'm here to help however I can!
+#underline[_Best of luck, and I'm here to help however I can!_]
 
 Warm regards,
 
@@ -723,20 +715,20 @@ Li Ming
 
 Write an e-mail to a professor at a British university, inviting him/her to organize a team for international innovation contest to be held at your university.
 
-- You should write about 100 words on the ANSWER SHEET.
-- Do not sign your own name in the email; use “Li Ming” instead. (10 points)
+- You should write about 100 words.
+- Do not sign your own name in the email; use “Li Ming” instead.
 
 ==== Invitation to Form a Team for the International Innovation Contest
 
 Dear Professor [Professor's Last Name],
 
-I hope this message finds you well. I am writing to cordially invite you to participate in the upcoming International Innovation Contest hosted by our university, which is scheduled to take place on December 3rd, 2024.
+I hope this message finds you well. I am writing to *cordially* invite you to participate in the *upcoming* International Innovation Contest *hosted* by our university, which is scheduled to take place on December 3rd, 2024.
 
-This contest aims to bring together creative minds from across the globe to collaborate and compete on projects that push the boundaries of technology and innovation. We believe that your expertise and leadership would greatly benefit your team and contribute significantly to the diversity and success of the event.
+#underline[_This contest aims to_] bring together creative minds *from across the globe* to *collaborate* and compete on projects that *push the boundaries of technology and innovation*. #underline[_We believe that your expertise and leadership would greatly benefit your team and contribute significantly to the diversity and success of the event._]
 
-We would be honored if you could organize a team from your university to join us. Full details regarding the contest rules, registration process, and accommodations will be provided upon your confirmation.
+#underline[_We would be honored if you could_] organize a team from your university to join us. #underline[_Full details regarding the contest rules, registration process, and accommodations will be provided upon your confirmation._]
 
-We look forward to the possibility of your participation and the exciting contributions your team will bring to the competition.
+#underline[_We look forward to the possibility of your participation and the exciting contributions your team will bring to the competition._]
 
 Warm regards,
 
@@ -763,16 +755,16 @@ Li Ming
 
 Write a notice to recruit a student for Prof. Smith's research project on campus sports activities. Specify the duties and requirements of the job.
 
-- You should write about 100 words on the ANSWER SHEET.
-- Do not use your own name at the end of the notice; use “Li Ming” instead. (10 points)
+- You should write about 100 words.
+- Do not use your own name at the end of the notice; use “Li Ming” instead.
 
 ==== Notice of Recruitment for Student Research Assistant
 
-Prof. Smith is currently seeking a diligent and motivated student to join his research project focusing on campus sports activities. The successful candidate will assist in collecting and analyzing data related to student participation in sports, organizing focus group discussions, and contributing to the preparation of research reports.
+Prof. Smith is currently *seeking* a *diligent* and *motivated* student to join his research project focusing on campus sports activities. The successful candidate will *assist in* collecting and analyzing data related to student participation in sports, organizing *focus group discussions*, and contributing to the preparation of research reports.
 
-Requirements for the position include strong analytical skills, proficiency in statistical software, and excellent written and verbal communication abilities. Prior experience in research or sports management is highly desirable. The candidate must also demonstrate a keen interest in promoting physical fitness and well-being among students.
+#underline[_Requirements for the position include_] strong analytical skills, *proficiency in* statistical software, and excellent written and *verbal* communication abilities. #underline[_*Prior experience* in research or sports management is highly desirable._] The candidate must also *demonstrate* a *keen* interest in *promoting physical fitness and well-being* among students.
 
-This is a unique opportunity to gain valuable research experience and contribute to enhancing the campus sports program. Interested students should submit their resumes and a cover letter to the department office by July 25th. For further inquiries, please contact the department secretary.
+#underline[_This is a unique opportunity to gain valuable research experience and contribute to enhancing the campus sports program._] *Interested* students should submit their resumes and *a cover letter* to the *department office* by July 25th. #underline[For further inquiries, please contact the *department secretary*.]
 
 We look forward to your applications!
 
@@ -797,29 +789,29 @@ Li Ming
 #pagebreak()
 === 24
 
-Read the following email from an international student and write a reply. Write your answer in about 100 words on the ANSWER SHEET.
+Read the following email from an international student and write a reply. Write your answer in about 100 words.
 
 ```
 Dear Li Ming,
 I’ve got a class assignment to make an oral report on an ancient Chinese scientist, but I’m not sure how to prepare for it. Can you give me some advice?
 Thank you for your help.
-Yours,
-Paul
+                                                                            Yours,
+                                                                            Paul
 ```
 
-Do not use your own name in your email; use “Li Ming” instead. (10 points)
+Do not use your own name in your email; use “Li Ming” instead.
 
 ==== Advice for Your Report on an Ancient Chinese Scientist
 
 Dear Paul,
 
-I’m glad to hear that you’re delving into the rich history of Chinese science! Preparing an oral report on an ancient Chinese scientist is an exciting opportunity to explore significant contributions that have shaped scientific thought globally.
+#underline[_I’m glad to hear that you’re *delving* into_] the rich history of Chinese science! Preparing *an oral report* on an ancient Chinese scientist is an exciting opportunity to explore significant contributions that have *shaped* scientific thought globally.
 
-First, I recommend choosing a scientist whose work resonates with your interests, such as Zhang Heng, who invented the seismoscope, or Shen Kuo, who made advancements in various scientific fields. Once you’ve selected a scientist, gather reputable sources from the library or online scholarly databases to ensure accuracy and depth in your report.
+First, I recommend choosing a scientist whose work *resonates with* your interests, such as Zhang Heng, who invented the *seismoscope*, or Shen Kuo, who *made advancements in* various scientific fields. Once you’ve selected a scientist, #underline[_*gather reputable sources from* the library or *online scholarly databases* to ensure accuracy and depth in your report._]
 
-Structure your presentation clearly—start with an introduction to the scientist’s era and background, discuss their major contributions and experiments, and conclude with their impact on both ancient and modern science. Using visuals like timelines or images of their inventions can greatly enhance your report.
+#underline[_*Structure your presentation* clearly-start with an introduction to_] the scientist’s *era* and background, discuss their major contributions and experiments, and conclude with their impact on both ancient and modern science. #underline[_Using *visuals* like *timelines* or images of their inventions can greatly enhance your report._]
 
-If you need further assistance or specific resources, feel free to ask. Best of luck with your presentation!
+#underline[_If you need further assistance or specific resources, feel free to ask. Best of luck with your presentation!_]
 
 Best regards,
 
@@ -852,15 +844,15 @@ Li Ming
 
 ==== The "Soccer Match" of Elderly Care
 
-The drawing depicts an elderly man sitting in the middle of a field, surrounded by his four children, each standing in front of a goalpost. The children are labeled as "Eldest Son," "Second Son," "Third Son," and "Youngest Daughter." The elderly man appears to be the "soccer ball" being passed around, symbolizing the challenges of providing care for elderly parents.
+#underline[_The drawing depicts_] an elderly man sitting in the middle of a field, surrounded by his four children, each standing in front of a goalpost. The children #underline[_are labeled as_] "Eldest Son," "Second Son," "Third Son," and "Youngest Daughter." The elderly man appears to be the "soccer ball" being passed around, #underline[*_symbolizing_*] the challenges of providing care for elderly parents.
 
-The intended meaning of this illustration is to highlight the difficulties and dynamics involved in elderly care within a family. It reflects the tendency for children to pass the responsibility of caring for their aging parents from one to another, rather than taking collective and consistent responsibility. This situation can lead to feelings of neglect and isolation for the elderly parents, as they are treated more like a burden to be managed than loved family members to be cherished.
+#underline[_The intended meaning of this illustration is to highlight the difficulties and *dynamics* involved in_] elderly care within a family. #underline[_It reflects the tendency for_] children to *pass the responsibility* of caring for their aging parents *from one to another*, #underline[_rather than_] taking collective and consistent responsibility. #underline[_This situation can lead to_] feelings of neglect and isolation for the elderly parents, #underline[_as_] they are treated more like a burden to be managed than loved family members to be cherished.
 
-In my opinion, this drawing effectively captures a significant social issue, particularly in societies where filial piety and family responsibility are highly valued. It underscores the importance of approaching elderly care with a sense of duty, compassion, and cooperation among siblings. Rather than shifting the responsibility, families should work together to provide a stable and supportive environment for their aging parents.
+#underline[_In my opinion, this drawing effectively captures a significant social issue, particularly in societies where_] *filial piety* and family responsibility are highly valued. #underline[It underscores the importance of] approaching elderly care with a sense of duty, compassion, and cooperation among siblings. #underline[_Rather than_] *shifting the responsibility*, families should work together to provide a stable and supportive environment for their aging parents.
 
-This illustration serves as a powerful reminder of the emotional and ethical aspects of caregiving. It calls for a reevaluation of how we perceive and manage the responsibilities of caring for elderly family members. By fostering a culture of shared responsibility and mutual support, families can ensure that their elderly members feel valued and cared for, rather than isolated and neglected.
+#underline[_This illustration *serves* as a powerful reminder of the emotional and ethical aspects of_] caregiving. #underline[_It calls for a *reevaluation* of how we perceive and manage the responsibilities of_] caring for elderly family members. #underline[_By fostering a culture of_] shared responsibility and mutual support, families #underline[_can ensure_] that their elderly members feel valued and cared for, #underline[_rather than_] isolated and neglected.
 
-In conclusion, the drawing highlights the need for a collective and compassionate approach to elderly care. It encourages families to come together, share the responsibilities, and provide consistent and loving care for their aging parents. This approach not only benefits the elderly but also strengthens familial bonds and promotes a more harmonious family life.
+#underline[_In conclusion, the drawing highlights the need_] for a collective and compassionate approach to elderly care. #underline[_It encourages_] families to come together, share the responsibilities, and provide consistent and loving care for their aging parents. #underline[_This approach not only benefits_] the elderly #underline[_but also_ strengthens] *familial bonds* #underline[_and promotes_] a more *harmonious* family life.
 
 ==== 养老“足球赛”
 
@@ -885,13 +877,13 @@ In conclusion, the drawing highlights the need for a collective and compassionat
 
 ===== Essay
 
-The images depict two distinct scenes of individuals emulating the famous British football star, David Beckham. The first image shows a young man with the name "Beckham" tattooed prominently on his face. The second image portrays a person getting a haircut styled to resemble Beckham's iconic hairstyle, costing 300 yuan. These pictures vividly illustrate the lengths to which some individuals go to express their admiration for celebrities.
+#underline[_The images depict two distinct scenes of_] individuals emulating the famous British football star, David Beckham. #underline[_The first image shows_] a young man with the name "Beckham" *tattooed* *prominently* on his face. #underline[_The second image *portrays*_] a person getting a haircut styled to resemble Beckham's *iconic* hairstyle, costing 300 yuan. These pictures #underline[_vividly illustrate the lengths to which some individuals go_] to express their admiration for celebrities.
 
-These images reflect a broader social phenomenon of celebrity worship, which has become increasingly prevalent in modern society. The man with the tattoo represents the extreme end of this spectrum, where individuals permanently mark their bodies to show their dedication. The second image, while less permanent, still highlights the extent to which people are willing to invest time and money to mimic their idols. This phenomenon is driven by the desire for a sense of identity and belonging, as well as the influence of media that continuously glorifies celebrities and their lifestyles.
+#underline[_These images reflect a broader social phenomenon of_] celebrity *worship*, which has become increasingly *prevalent* in modern society. The man with the tattoo represents *the extreme end of this spectrum*, where individuals permanently mark their bodies to show their *dedication*. The second image, while less permanent, still *highlights the extent* to which people are willing to *invest time and money* to *mimic* their idols. #underline[_This phenomenon is driven by the desire for *a sense of identity and belonging*, as well as the influence of media that continuously *glorifies* celebrities and their lifestyles._]
 
-In my view, this trend of idolizing celebrities can have both positive and negative impacts. On the positive side, celebrities can serve as role models, inspiring fans to achieve their own goals and pursue their passions. However, the negative side is more concerning. Excessive idolization can lead to a loss of individual identity, where people prioritize emulating their idols over developing their own unique qualities. Moreover, it can foster a consumerist culture where superficial aspects, such as appearance and lifestyle, are valued over substance and character.
+#underline[_In my view, this trend of idolizing celebrities can have both positive and negative impacts._] #underline[_On the positive side_], celebrities can serve as role models, inspiring fans to achieve their own goals and pursue their passions. #underline[_However, the negative side is more *concerning*._] *Excessive idolization* can lead to *a loss of individual identity*, where people *prioritize* emulating their idols *over* developing their own unique qualities. #underline[_Moreover, it can foster *a consumerist culture* where superficial aspects, such as appearance and lifestyle, are *valued over* *substance* and character._]
 
-In conclusion, while admiration for celebrities can be harmless and even motivating, it is essential to maintain a balanced perspective. It is crucial for individuals to cultivate their own identities and values rather than solely seeking validation through imitation of others. Society should encourage a culture that celebrates individuality and personal achievements over blind adulation of fame.
+#underline[_In conclusion, while_] admiration for celebrities #underline[_can be_] harmless and even motivating, #underline[_it is essential to maintain a balanced perspective._] It is crucial for individuals to cultivate their own identities and values rather than solely seeking validation through *imitation* of others. #underline[_Society should encourage a culture that celebrates_] individuality and personal achievements over *blind adulation of fame*.
 
 ===== 中文翻译
 
@@ -907,15 +899,15 @@ In conclusion, while admiration for celebrities can be harmless and even motivat
 
 ===== The Influence of Celebrity Culture: A Reflective Analysis
 
-The photos presented depict two scenes reflecting the influence of celebrity culture. In the first image, a young man has the name "Beckham" tattooed prominently on his face. In the second image, another young man is seen getting a haircut styled like David Beckham, a famous English football star, for 300 yuan.
+#underline[_The photos presented depict two scenes reflecting the influence of_] celebrity culture. #underline[_In the first image,_] a young man has the name "Beckham" tattooed prominently on his face. #underline[_In the second image,_] another young man is seen getting a haircut styled like David Beckham, a famous English football star, for 300 yuan.
 
-These photos highlight a social phenomenon where individuals go to great lengths to emulate their idols, often to extreme measures. This behavior is indicative of the powerful influence celebrities hold over their admirers, particularly among the youth. The act of tattooing a celebrity's name on one's face or spending a significant amount of money to replicate a famous hairstyle underscores the depth of admiration and the desire to identify closely with these public figures.
+#underline[_These photos highlight a social phenomenon where_] individuals *go to great lengths to* emulate their idols, #underline[_often to extreme measures_]. This behavior is *indicative* of the powerful influence celebrities hold over their admirers, particularly among the youth. The act of tattooing a celebrity's name on one's face or spending a significant amount of money to replicate a famous hairstyle underscores *the depth of admiration* and the desire to identify closely with these public figures.
 
-In my opinion, this phenomenon raises several important points for consideration. Firstly, it reflects the pervasive reach of media and popular culture in shaping personal identities and lifestyles. Celebrities, through their public personas and marketing, create aspirational images that many people seek to emulate. This can have both positive and negative consequences. On the positive side, celebrities can inspire individuals to pursue their passions and dreams. However, the negative aspect arises when the admiration turns into an obsession, leading to actions that might be regretted later or that compromise an individual's well-being.
+#underline[_In my opinion, this phenomenon raises several important points for consideration._] #underline[_Firstly, it reflects the *pervasive reach* of media and popular culture in_] shaping personal identities and lifestyles. Celebrities, through their public *personas* and marketing, *create aspirational images* that many people seek to emulate. #underline[_This can have both positive and negative consequences. On the positive side,_] celebrities can inspire individuals to pursue their passions and dreams. #underline[_However, the negative aspect arises when_] the admiration *turns into an obsession*, #underline[_leading to actions that_] might be regretted later or that compromise an individual's well-being.
 
-Furthermore, this trend speaks to the broader issue of societal values and the emphasis placed on external appearances and materialism. The fact that individuals are willing to undergo physical alterations or spend considerable amounts of money to mirror a celebrity's look suggests a prioritization of superficial attributes over intrinsic qualities. It calls into question the role models that society upholds and the messages being conveyed to younger generations about self-worth and identity.
+#underline[_Furthermore, this trend *speaks to* the broader issue of societal values and the emphasis placed on external appearances and *materialism*._] The fact that individuals are willing to *undergo* physical alterations or spend considerable amounts of money to *mirror* a celebrity's look #underline[_suggests a prioritization of superficial attributes over intrinsic qualities_]. #underline[_It calls into question_] the role models that society *upholds* and the messages being conveyed to younger generations about self-worth and identity.
 
-In conclusion, the photos of individuals emulating David Beckham through tattoos and hairstyles serve as a potent illustration of the influence of celebrity culture. While admiration for public figures can be motivating, it is essential to maintain a balanced perspective and prioritize personal values and well-being over superficial mimicry. Society must encourage individuals to appreciate their unique identities and cultivate self-worth from within rather than relying solely on external validation.
+#underline[In conclusion,] the photos of individuals emulating David Beckham through tattoos and hairstyles #underline[_serve as a potent illustration of the influence of_] celebrity culture. #underline[_While_] admiration for public figures #underline[_can be_] motivating, #underline[it is essential to maintain a balanced perspective and prioritize personal values and well-being over superficial *mimicry*.] #underline[_Society must encourage individuals to appreciate_] their unique identities and cultivate self-worth *from within* #underline[_rather than_] relying *solely* on *external validation*.
 
 ===== 名人文化的影响：反思分析
 
@@ -940,9 +932,9 @@ In conclusion, the photos of individuals emulating David Beckham through tattoos
 
 ===== Essay
 
-The drawing presents a scene from a soccer field, with a player preparing to take a penalty shot. In the player's thought bubble, the goal appears vast, and the goalkeeper seems tiny and easily defeatable. Conversely, in the goalkeeper's thought bubble, the goal appears narrow, and he himself seems larger and more imposing. This clever illustration highlights the psychological aspect of perspective and confidence in challenging situations.
+#underline[_The drawing presents a scene from_] a soccer field, with a player preparing to *take a penalty shot*. #underline[_In the player's thought bubble,_] the goal appears vast, and the goalkeeper seems tiny and easily defeatable. #underline[_Conversely, in the goalkeeper's thought bubble,_] the goal appears narrow, and he himself seems larger and more *imposing*. #underline[_This clever illustration highlights the psychological aspect_] of perspective and confidence in challenging situations.
 
-The intended meaning of this drawing is to demonstrate how perception shapes reality. The player's confidence in scoring is bolstered by his perception of the goal as large and the goalkeeper as insignificant. On the other hand, the goalkeeper's confidence in saving the shot is supported by his perception of himself as large and the goal as small. This divergence in perception illustrates how individuals interpret situations based on their mindset and confidence levels.
+#underline[_The intended meaning of this drawing is to demonstrate how_] perception *shapes* reality. The player's confidence in scoring is *bolstered* by his perception of the goal as large and the goalkeeper as insignificant. On the other hand, the goalkeeper's confidence in saving the shot is supported by his perception of himself as large and the goal as small. This divergence in perception illustrates how individuals interpret situations based on their mindset and confidence levels.
 
 To support this view, consider the example of public speaking. For a confident speaker, the audience may appear friendly and supportive, making the task seem easier and the speaker more likely to perform well. However, for someone with stage fright, the same audience may seem intimidating and judgmental, making the task appear daunting and increasing the likelihood of a poor performance. This difference in perception significantly impacts the outcomes, much like the soccer player's and goalkeeper's differing views affect their expectations of success.
 
@@ -962,17 +954,17 @@ In conclusion, the drawing effectively underscores the importance of perspective
 
 ===== Perception and Reality: The Power of Perspective
 
-The drawing depicts two individuals on a soccer field. The player and the goalkeeper each have different perceptions of the goal. The player sees the goal as very large with a tiny goalkeeper, making it seem easier to score. Conversely, the goalkeeper perceives the goal as much smaller with a large player, making it seem more difficult to defend.
+The drawing depicts two individuals on a soccer field. The player and the goalkeeper #underline[_each have different perceptions of the goal_]. The player sees the goal as very large with a tiny *goalkeeper*, #underline[_making it seem_] easier to score. *Conversely*, the goalkeeper #underline[_perceives the goal as_] much smaller with a large player, #underline[_making it seem_] more difficult to defend.
 
-The intended meaning of this illustration is to highlight how perception can significantly influence one’s experience and actions. It suggests that the way we view a situation can shape our confidence, approach, and ultimately, our performance. This discrepancy in perception underscores the subjective nature of challenges and opportunities.
+#underline[_The intended meaning of this illustration is to highlight how_] perception can significantly influence one’s experience and actions. #underline[_It suggests that_] the way we view a situation can shape our confidence, approach, and ultimately, our performance. #underline[_This *discrepancy* in perception underscores the *subjective* nature of challenges and opportunities._]
 
-In my opinion, this drawing effectively illustrates the psychological aspect of performance and competition. It reminds us that our mindset and perspective play crucial roles in how we approach tasks and challenges. This concept is particularly relevant in competitive settings where mental attitude can be as important as physical ability.
+#underline[_In my opinion, this drawing effectively illustrates the psychological aspect of_] performance and competition. #underline[It reminds us that] our mindset and perspective *play crucial roles in* how we approach tasks and challenges. #underline[_This concept is particularly relevant in_] competitive settings #underline[_where_] mental attitude can be as important as physical ability.
 
-An example that supports this view can be found in sports psychology. Athletes often use visualization techniques to enhance their performance. By imagining themselves succeeding, they can boost their confidence and improve their actual performance. This technique is rooted in the understanding that perception shapes reality. For instance, a basketball player might visualize making free throws under pressure, which helps them perform better in real game situations. This practice demonstrates how altering one’s perception can lead to tangible improvements in performance.
+#underline[_An example that supports this view can be found in_] sports psychology. Athletes often use visualization techniques to enhance their performance. By imagining themselves succeeding, they can *boost their confidence* and improve their actual performance. This technique #underline[_is rooted in_] the understanding that perception shapes reality. For instance, a basketball player might visualize making *free throws* under pressure, which helps them perform better in real game situations. #underline[_This practice demonstrates_] how altering one’s perception can lead to *tangible* improvements in performance.
 
-Another example can be drawn from academic settings. Students who perceive exams as insurmountable obstacles are likely to experience higher levels of anxiety and perform poorly. On the other hand, those who view exams as manageable challenges are more likely to approach their studies with a positive attitude, leading to better preparation and higher scores. This difference in perception can create a significant impact on their academic success.
+#underline[_Another example can be drawn from_] *academic settings*. Students who perceive exams as *insurmountable* obstacles are likely to experience higher levels of anxiety and perform poorly. #underline[_On the other hand,_] those who view exams as *manageable* challenges are more likely to approach their studies with a positive attitude, leading to better preparation and higher scores. #underline[_This difference in perception can create a significant impact on_] their academic success.
 
-In conclusion, the drawing emphasizes the powerful influence of perception on reality. By understanding and managing our perceptions, we can enhance our performance and effectively tackle challenges. It encourages us to adopt a positive and realistic view of our abilities and the tasks ahead, ultimately leading to greater success and fulfillment.
+#underline[_In conclusion, the drawing emphasizes the powerful influence of_] perception on reality. By understanding and managing our perceptions, we can enhance our performance and effectively tackle challenges. #underline[_It encourages us to_] *adopt a positive and realistic view of* our abilities and the tasks ahead, #underline[_ultimately leading to_] greater success and fulfillment.
 
 ===== 认知与现实：视角的力量
 
@@ -997,15 +989,15 @@ In conclusion, the drawing emphasizes the powerful influence of perception on re
 
 ==== Unity and Cooperation: Overcoming Challenges Together
 
-The drawing depicts two individuals, each with one leg, walking together with the aid of crutches. They are supporting each other as they move forward, symbolizing mutual assistance and collaboration. The accompanying text reads, "You have one leg, I have one leg; together, we travel north and south."
+The drawing depicts two individuals, each with one leg, walking together with the aid of crutches. They are supporting each other as they move forward, #underline[_symbolizing mutual assistance and collaboration_]. #underline[_The accompanying text reads,_] "You have one leg, I have one leg; together, we travel north and south."
 
-The intended meaning of this illustration is to highlight the power of cooperation and mutual support in overcoming challenges. It suggests that by working together and supporting each other, individuals can achieve greater things and navigate through difficulties more effectively. The imagery of the two people, each missing a leg, emphasizes that despite individual limitations, collective effort can lead to success.
+#underline[_The intended meaning of this illustration is to highlight the power of_] cooperation and mutual support in overcoming challenges. It suggests that by working together and supporting each other, individuals can achieve greater things and navigate through difficulties more effectively. #underline[_The imagery of the two people, each missing a leg, emphasizes that despite individual limitations, collective effort can lead to success._]
 
-In my opinion, this drawing effectively conveys a profound message about the importance of teamwork and solidarity. It reminds us that no one is entirely self-sufficient and that collaboration is key to overcoming obstacles. The idea that "together, we travel north and south" underscores the limitless possibilities when people unite their strengths and compensate for each other's weaknesses.
+#underline[_In my opinion, this drawing effectively conveys a profound message about the importance of_] teamwork and *solidarity*. #underline[_It reminds us that no one is entirely *self-sufficient* and that collaboration is key to overcoming obstacles._] The idea that "together, we travel north and south" underscores *the limitless possibilities* when people *unite their strengths* and *compensate for each other's weaknesses*.
 
-This concept is especially relevant in today's interconnected world, where complex challenges often require collective action and shared resources. Whether in personal relationships, professional settings, or larger societal contexts, the principle of mutual support fosters resilience and innovation. The drawing also serves as a metaphor for inclusivity and the value of diverse contributions. By recognizing and leveraging each other's unique abilities and perspectives, we can create more effective and harmonious communities.
+#underline[_This concept is especially relevant in today's interconnected world, where complex challenges often require collective action and shared resources._] Whether in personal relationships, *professional settings*, or *larger societal contexts*, #underline[the principle of mutual support *fosters* resilience and innovation.] #underline[_The drawing also serves as a metaphor_] for *inclusivity* and the value of diverse contributions. #underline[_By recognizing and *leveraging* each other's unique abilities and perspectives, we can create more effective and harmonious communities._]
 
-In conclusion, the illustration and its accompanying text highlight the essential role of cooperation in achieving common goals and overcoming individual limitations. It encourages us to embrace collaboration and support each other in our respective journeys, ultimately leading to shared success and fulfillment.
+#underline[_In conclusion, the illustration and its accompanying text highlight the essential role of_] cooperation in achieving common goals and overcoming individual limitations. It encourages us to *embrace* collaboration and support each other in our respective journeys, ultimately leading to *shared success and fulfillment*.
 
 ==== 团结与合作：共同克服挑战
 
@@ -1028,15 +1020,15 @@ In conclusion, the illustration and its accompanying text highlight the essentia
 
 ==== The Paradox of Connectivity: Near and Far in the Digital Age
 
-The drawing depicts a web-like structure with numerous people interacting with various digital devices within its segments. Each individual is engrossed in their own screen, representing the vast network of connections facilitated by the internet. The title of the drawing, "The Near and Far of the Internet," encapsulates the dual nature of digital connectivity.
+The drawing depicts a web-like structure with numerous people interacting with various digital devices *within its segments*. Each individual *is engrossed in* their own screen, representing the vast network of connections facilitated by the internet. #underline[_The title of the drawing, "The Near and Far of the Internet," *encapsulates* the *dual* nature of digital connectivity._]
 
-The intended meaning of this illustration is to highlight the paradox of the internet's ability to simultaneously connect and distance us. On one hand, the internet brings people together from across the globe, enabling instant communication and access to information. On the other hand, it can create a sense of isolation as individuals become absorbed in their virtual interactions, often at the expense of real-world relationships.
+#underline[_The intended meaning of this illustration is to highlight the paradox of_] the internet's ability #underline[_to_] simultaneously connect and distance us. #underline[_On one hand,_] the internet brings people together from across the globe, enabling instant communication and access to information. #underline[_On the other hand,_] it can create a sense of isolation as individuals become absorbed in their virtual interactions, often at the expense of real-world relationships.
 
-In my opinion, this drawing effectively captures the complexities of our digital age. It underscores the benefits of the internet, such as the ability to maintain long-distance relationships, access a wealth of knowledge, and participate in global communities. These advantages are especially pertinent in our increasingly globalized world, where digital communication tools have become indispensable.
+#underline[_In my opinion, this drawing effectively captures the complexities of our digital age._] It underscores the benefits of the internet, such as the ability to maintain long-distance relationships, access a wealth of knowledge, and participate in global communities. These advantages are especially *pertinent* in our increasingly globalized world, where digital communication tools have become *indispensable*.
 
-However, the drawing also serves as a cautionary tale about the potential downsides of excessive internet use. The image of people confined to their screens suggests a disconnection from their immediate surroundings and physical communities. This isolation can lead to a lack of meaningful personal interactions, reduced physical activity, and mental health issues such as anxiety and depression.
+#underline[However, the drawing also serves as a *cautionary tale* about the potential downsides of] excessive internet use. The image of people *confined to* their screens suggests a disconnection from their immediate surroundings and physical communities. This isolation can #underline[_lead to a lack of_] meaningful personal interactions, reduced physical activity, and mental health issues such as anxiety and depression.
 
-Therefore, the key takeaway from this illustration is the need for balance. While embracing the connectivity and opportunities provided by the internet, it is crucial to remain mindful of its impact on our real-world relationships and well-being. We should strive to integrate our digital and physical lives in a way that enhances rather than diminishes our overall quality of life.
+#underline[_Therefore, the key takeaway from this illustration is_] the need for balance. While embracing the connectivity and opportunities provided by the internet, it is crucial to remain mindful of its impact on our real-world relationships and well-being. We should strive to integrate our digital and physical lives in a way that enhances rather than diminishes our overall quality of life.
 
 ==== 连接的悖论：数字时代的近与远
 
@@ -1059,11 +1051,11 @@ Therefore, the key takeaway from this illustration is the need for balance. Whil
 
 ==== Cultural Hotpot: A Feast of Beauty and Nutrition
 
-The drawing depicts a "hotpot" brimming with various ingredients, each representing different cultural elements. These elements, labeled with terms such as "Structure," "Etiquette," "Old Customs," and "Modernity," among others, symbolize the rich and diverse components that make up culture. The hotpot itself, traditionally a communal meal where various ingredients are cooked together, serves as a metaphor for the blending and integration of these cultural elements.
+The drawing depicts a "hotpot" *brimming with* various ingredients, #underline[_each representing_] different cultural elements. These elements, #underline[_labeled with terms such as_] "Structure," "*Etiquette*," "Old Customs," and "*Modernity*," among others, #underline[_symbolize the rich and diverse components that make up culture_]. #underline[_The hotpot itself, traditionally a *communal* meal where various ingredients are cooked together, serves as a *metaphor* for the blending and integration of these cultural elements._]
 
-The intended meaning of this illustration is to emphasize the richness and nourishing quality of culture. Just as a hotpot combines various ingredients to create a flavorful and nutritious meal, culture amalgamates different traditions, customs, and values to form a cohesive and enriching experience. The smoke rising from the center of the hotpot signifies the dynamic and evolving nature of culture, constantly blending and adapting to new influences while maintaining its core essence.
+#underline[The intended meaning of this illustration is to emphasize the] richness and *nourishing* quality of culture. #underline[_Just as_] a hotpot combines various ingredients to create a flavorful and nutritious meal, #underline[culture *amalgamates*] different traditions, customs, and values to form a *cohesive* and enriching experience. #underline[_The smoke rising from the center of the hotpot *signifies* the *dynamic* and *evolving* nature of culture, constantly blending and adapting to new influences while maintaining its *core essence*._]
 
-In my opinion, this metaphor is both apt and insightful. Culture, much like a hotpot, requires a balance of ingredients to achieve its full potential. Each element contributes its unique flavor and value, creating a tapestry of shared experiences and mutual understanding. This drawing also underscores the importance of preserving cultural diversity and heritage while embracing modern influences. It reminds us that culture is not static but an ever-changing and living entity that thrives on diversity and inclusivity. By appreciating and integrating different cultural elements, we can create a more harmonious and enriched society.
+#underline[In my opinion, this *metaphor* is both *apt* and *insightful*.] Culture, #underline[_much like a_] hotpot, requires a balance of ingredients to *achieve its full potential*. #underline[_Each element contributes its unique flavor and value, creating_] a *tapestry* of shared experiences and mutual understanding. #underline[_This drawing also underscores the importance of_] preserving cultural diversity and heritage #underline[while *embracing* modern influences.] #underline[_It reminds us that_] culture is not static but an *ever-changing* and *living entity* that thrives on diversity and *inclusivity*. #underline[_By appreciating and integrating different *cultural elements*, we can create a more *harmonious* and enriched society._]
 
 ==== 文化火锅：美味与营养的盛宴
 
@@ -1082,11 +1074,11 @@ In my opinion, this metaphor is both apt and insightful. Culture, much like a ho
 
 ==== The Journey's Remnants: A Reflection on Environmental Responsibility
 
-The drawing portrays a small boat, filled with tourists, floating on a river that is littered with various types of waste. The trash, comprising plastic bottles, food wrappers, and other debris, pollutes the water, creating a stark contrast between the natural beauty of the river and the man-made waste contaminating it.
+#underline[_The drawing portrays_] a small boat, filled with tourists, floating on a river that *is littered with* various types of waste. The trash, *comprising* plastic bottles, food wrappers, and other debris, pollutes the water, #underline[_creating a stark contrast between_] the natural beauty of the river and the man-made waste *contaminating* it.
 
-The intended meaning of this illustration is to highlight the environmental degradation caused by human activities, particularly tourism. The drawing serves as a powerful reminder of the negative impact that careless behavior can have on nature. The tourists, seemingly oblivious to the waste surrounding them, represent the larger issue of how people often fail to recognize or address the environmental consequences of their actions.
+#underline[_The intended meaning of this illustration is to highlight_] the environmental *degradation* caused by human activities, #underline[_particularly_] tourism. #underline[_The drawing serves as a powerful reminder of the negative impact_] that careless behavior can have on nature. The tourists, *seemingly* *oblivious* to the waste surrounding them, #underline[_represent the larger issue of how people often fail to recognize or address the environmental consequences of their actions._]
 
-In my opinion, this illustration is a poignant commentary on the importance of environmental responsibility. It underscores the need for greater awareness and proactive measures to protect our natural surroundings. Tourism, while beneficial for economies and cultural exchange, must be managed sustainably to prevent harm to the environment. This drawing also calls attention to the broader issue of waste management and the necessity for individuals and communities to adopt more eco-friendly practices. By reducing waste, recycling, and promoting clean-up efforts, we can mitigate the damage caused to our ecosystems. Ultimately, this image serves as a call to action, urging us to reflect on our environmental footprint and make conscious efforts to preserve the beauty and health of our planet.
+#underline[In my opinion, this illustration is a *poignant* commentary on the importance of environmental responsibility.] #underline[_It underscores the need for greater awareness and *proactive* measures to_] protect our natural surroundings. #underline[_Tourism, while beneficial for_] economies and cultural exchange, #underline[_must be managed_] sustainably #underline[_to_] prevent harm to the environment. #underline[_This drawing also calls attention to the broader issue of_] waste management #underline[_and the necessity for_] individuals and communities to *adopt more eco-friendly practices*. By reducing waste, recycling, and promoting clean-up efforts, we can *mitigate* the damage caused to our ecosystems. #underline[_Ultimately, this image serves as a call to action, urging us to reflect on_] our environmental *footprint* and *make conscious efforts to* preserve the beauty and health of our planet.
 
 ==== 旅程之余：环境责任的反思
 
@@ -1105,11 +1097,11 @@ In my opinion, this illustration is a poignant commentary on the importance of e
 
 ==== Perspectives on Loss and Optimism: An Analysis
 
-The drawing features two individuals reacting to a spilled bottle. The person on the left, with a despondent expression, says, "It's all gone!" Meanwhile, the person on the right, displaying a more optimistic demeanor, remarks, "Luckily, there's still some left." This simple scene vividly illustrates the contrasting attitudes of pessimism and optimism when faced with the same situation.
+#underline[_The drawing features_] two individuals reacting to a spilled bottle. #underline[_The person on the left, with a despondent expression, says,_] "It's all gone!" #underline[Meanwhile, the person on the right, displaying a more optimistic *demeanor*, remarks,] "Luckily, there's still some left." #underline[_This simple scene vividly illustrates the *contrasting* attitudes of *pessimism* and *optimism* when faced with the same situation._]
 
-The intended meaning of this illustration is to highlight how individuals can perceive and respond to adversity in different ways. The two characters represent opposing perspectives on loss and opportunity. While one focuses on what has been lost, the other emphasizes what remains, suggesting that attitude significantly influences how we interpret and handle challenges.
+#underline[_The intended meaning of this illustration is to highlight how_] individuals can *perceive* and respond to *adversity* in different ways. #underline[_The two characters represent opposing perspectives on loss and opportunity._] #underline[_While one focuses on_] what has been lost, #underline[_the other emphasizes_] what remains, #underline[_suggesting that_] attitude significantly influences how we *interpret* and handle challenges.
 
-In my opinion, this drawing serves as a powerful reminder of the importance of maintaining a positive outlook, even in difficult circumstances. Life is filled with unexpected setbacks and losses, but how we choose to view these events can greatly affect our well-being and resilience. The optimistic character in the illustration embodies a mindset that sees potential and hope, which can be incredibly empowering and motivating. On the other hand, the pessimistic view, while natural and understandable, often leads to feelings of despair and helplessness. Therefore, adopting a positive perspective can help us navigate through hardships more effectively and find opportunities for growth and improvement.
+#underline[_In my opinion, this drawing serves as a powerful reminder of the importance of_] maintaining *a positive outlook*, even in difficult circumstances. #underline[_Life is filled with unexpected setbacks and losses_], but how we choose to view these events can greatly affect our well-being and resilience. #underline[_The optimistic character in the illustration embodies_] a mindset that sees potential and hope, which can be incredibly *empowering* and motivating. #underline[_On the other hand, the *pessimistic* view, while natural and *understandable*, often leads to feelings of_] despair and helplessness. *Therefore*, *adopting a positive perspective* can help us *navigate through hardships* more effectively and find opportunities for growth and improvement.
 
 ==== 失落与乐观的观点：一个分析
 
@@ -1128,13 +1120,13 @@ In my opinion, this drawing serves as a powerful reminder of the importance of m
 
 ==== Graduates at the Crossroads: Navigating Life's Choices
 
-The drawing depicts a group of graduates standing at the edge of a precipice, facing a myriad of divergent paths. Each path is labeled with different life choices such as "Employment," "Entrepreneurship," "Study Abroad," and "Civil Service." The graduates appear contemplative, each carrying a backpack symbolizing their readiness for the journey ahead.
+#underline[_The drawing depicts_] a group of graduates standing at the edge of a *precipice*, facing a *myriad* of *divergent* paths. Each path is labeled with different life choices such as "Employment," "*Entrepreneurship*," "Study Abroad," and "*Civil Service*". The graduates appear *contemplative*, #underline[_each carrying a *backpack* symbolizing_] their *readiness* for the journey ahead.
 
-The intended meaning of this illustration is to represent the crucial decisions that graduates must make as they transition from academic life to the professional world. It highlights the various paths available to them, each with its own set of opportunities and challenges. This moment of choice is significant, as it will shape their future careers and personal lives.
+#underline[_The intended meaning of this illustration is to represent_] the crucial decisions that graduates must make #underline[_as they_] transition from academic life to the professional world. #underline[_It highlights_] the various paths available to them, #underline[_each with its own set of_] opportunities and challenges. This moment of choice is significant, as it will *shape* their future careers and personal lives.
 
-In my opinion, this drawing effectively captures the essence of the post-graduation phase. It underscores the importance of thoughtful decision-making and self-awareness. Graduates often find themselves at a crossroads, where they must evaluate their goals, values, and aspirations to choose a path that aligns with their vision for the future. The illustration also emphasizes that there is no singular "correct" path; rather, each choice can lead to success and fulfillment if approached with dedication and a positive mindset.
+#underline[In my opinion, this drawing effectively captures the essence of the post-graduation *phase*.] #underline[_It underscores the importance of thoughtful_] decision-making and self-awareness. Graduates often find themselves at a *crossroads*, where they must evaluate their goals, values, and aspirations to choose a path that *aligns with* their *vision* for the future. #underline[_The illustration also emphasizes that_] there is no *singular* "correct" path; *rather*, each choice can lead to success and fulfillment if approached with dedication and a positive mindset.
 
-This image serves as a reminder of the diverse opportunities that lie ahead for graduates. It encourages them to embrace the uncertainty and potential of this transitional period, to seek guidance, and to remain adaptable. By recognizing the significance of this moment and making informed choices, graduates can confidently embark on their journeys and contribute meaningfully to society.
+#underline[_This image serves as a reminder of the diverse opportunities that lie ahead for_] graduates. #underline[_It encourages them to embrace the uncertainty and potential of this transitional period, to_] seek guidance, #underline[_and to_] remain adaptable. By recognizing the significance of this moment and making informed choices, graduates can confidently embark on their journeys and contribute meaningfully to society.
 
 ==== 毕业生在十字路口：导航人生的选择
 
@@ -1155,11 +1147,11 @@ This image serves as a reminder of the diverse opportunities that lie ahead for 
 
 ==== The Passage of Time: A Reflection on Intergenerational Bonds
 
-The drawing is divided into two panels. The left panel shows a scene from thirty years ago, where a young mother is holding the hand of her little daughter, who is carrying a doll. The right panel depicts the same pair in the present day, with the daughter now grown up and the mother elderly. The daughter is supporting her mother as they walk together, symbolizing the reversal of roles over time.
+#underline[The drawing is divided into two panels.] #underline[_The left panel shows a scene from thirty years ago, where_] a young mother is holding the hand of her little daughter, who is carrying a doll. #underline[_The right panel depicts the same pair in the present day, with_] the daughter now grown up and the mother elderly. The daughter is supporting her mother as they walk together, #underline[symbolizing] *the reversal of roles* over time.
 
-The intended meaning of this illustration is to highlight the enduring bond between parents and children and the natural progression of life. It poignantly captures the cycle of caregiving, where those who once cared for us eventually come to rely on our care. This transition is a testament to the strength of familial relationships and the deep sense of duty and love that sustains them through the years.
+#underline[_The intended meaning of this illustration is to highlight the enduring bond between_] parents and children and the natural *progression* of life. #underline[It poignantly captures the cycle of] caregiving, #underline[_where those who_] once cared for us eventually come to rely on our care. #underline[_This transition is a *testament* to_] the strength of familial relationships and *the deep sense of duty* and love that *sustains* them through the years.
 
-In my opinion, this drawing beautifully encapsulates the essence of intergenerational bonds. It serves as a reminder of the inevitable passage of time and the importance of cherishing and nurturing these relationships. As children, we often take our parents' care for granted, but as we grow older, we come to understand and appreciate the sacrifices they made for us. This realization brings a sense of gratitude and a commitment to reciprocate that care when they need it most. The drawing also emphasizes the emotional and moral responsibility we have towards our aging parents, highlighting the virtues of compassion, respect, and support. It encourages us to reflect on our own family dynamics and to ensure that we honor and preserve the bonds that define and enrich our lives.
+#underline[_In my opinion, this drawing beautifully *encapsulates* the essence of *intergenerational* bonds._] #underline[_It serves as a reminder of_] the inevitable passage of time and the importance of cherishing and nurturing these relationships. As children, we often take our parents' care for granted, but as we grow older, we come to understand and appreciate the sacrifices they made for us. #underline[_This realization brings a sense of gratitude and a commitment to *reciprocate* that care when they need it most._] #underline[_The drawing also emphasizes the emotional and moral responsibility we have_] towards our aging parents, #underline[_highlighting the virtues of_] compassion, respect, and support. #underline[It encourages us to reflect on] our own *family dynamics* and to #underline[_ensure that we honor and preserve the bonds that define and enrich our lives_].
 
 ==== 时光流逝：代际纽带的反思
 
@@ -1178,11 +1170,11 @@ In my opinion, this drawing beautifully encapsulates the essence of intergenerat
 
 ==== The Smartphone Era: A Modern Gathering
 
-The drawing illustrates a contemporary social gathering, where four individuals are seated around a table laden with food. Instead of engaging with each other, each person is absorbed in their smartphone. Despite being physically present, they are mentally distant, engrossed in the virtual world.
+#underline[The drawing illustrates a contemporary social] *gathering*, where four individuals are seated around a table laden with food. Instead of *engaging with* each other, each person is absorbed in their smartphone. #underline[_Despite being physically present, they are mentally distant, engrossed in the virtual world._]
 
-The intended meaning of this illustration is to comment on the pervasive influence of smartphones on social interactions. It underscores how modern technology, while connecting us to the wider world, can simultaneously disconnect us from the people immediately around us. This paradox highlights the challenge of maintaining genuine human connections in an era dominated by digital communication.
+#underline[_The intended meaning of this illustration is to comment on the pervasive influence of_] smartphones on social interactions. #underline[_It underscores how_] modern technology, #underline[_while_] connecting us to the wider world, #underline[_can simultaneously_] disconnect us from the people immediately around us. #underline[_This paradox highlights the challenge of_] maintaining genuine human connections in an era *dominated* by digital communication.
 
-In my opinion, this drawing serves as a poignant reminder of the need to balance our digital lives with real-world interactions. While smartphones and other devices offer convenience and connectivity, they should not replace face-to-face communication and the deep bonds that come from it. The illustration suggests that we often miss out on meaningful moments and conversations because we are too engrossed in our screens. It calls for a more mindful approach to technology use, encouraging us to put down our devices and engage more fully with those around us. By doing so, we can foster richer relationships and a greater sense of community. This balance is essential for our emotional well-being and the overall quality of our social interactions.
+#underline[_In my opinion, this drawing serves as a poignant reminder of the need to_] balance our digital lives with real-world interactions. While smartphones and other devices offer convenience and connectivity, they should not replace face-to-face communication and *the deep bonds* that come from it. #underline[_The illustration suggests that_] we often miss out on meaningful moments and conversations #underline[_because we are too engrossed in_] our screens. #underline[_It calls for a more mindful approach to_] technology use, #underline[_encouraging us to_] put down our devices and engage more fully with those around us. #underline[_By doing so, we can foster richer relationships and a greater sense of community._] #underline[_This balance is essential for_] our emotional well-being and the overall quality of our social interactions.
 
 ==== 手机时代的聚会
 
@@ -1201,11 +1193,11 @@ In my opinion, this drawing serves as a poignant reminder of the need to balance
 
 ==== Leading by Example: The Power of Actions over Words
 
-The drawing is split into two panels. In the first panel, a parent is seen relaxing on a chair, engrossed in a mobile phone while watching television. The parent commands the child, "Son, you need to study hard!" The child, sitting at a table with a pile of books, appears disheartened by the parent's words. In the second panel, the scenario shifts: the parent is now seated at a table, diligently studying alongside the child. Both are focused on their work, creating a shared atmosphere of dedication and effort.
+#underline[_The drawing is split into two panels._] #underline[_In the first panel,_] a parent is seen relaxing on a chair, *engrossed in* a mobile phone while watching television. The parent commands the child, "Son, you need to study hard!" The child, sitting at a table with a pile of books, appears disheartened by the parent's words. #underline[_In the second panel,_] the scenario shifts: the parent is now seated at a table, diligently studying alongside the child. #underline[_Both are focused on their work, creating a shared atmosphere of dedication and effort._]
 
-The intended meaning of this illustration is to emphasize the importance of leading by example rather than merely issuing directives. It suggests that actions speak louder than words, particularly in the context of parenting and mentorship. When parents or mentors demonstrate the behaviors they wish to instill in their children or mentees, it fosters an environment of mutual respect and motivation. This approach is far more effective than just imposing expectations without modeling the desired conduct.
+#underline[_The intended meaning of this illustration is to emphasize the importance of_] leading by example #underline[_rather than merely_] issuing directives. It suggests that actions speak louder than words, #underline[_particularly in the context of_] parenting and mentorship. When parents or mentors demonstrate the behaviors they wish to *instill* in their children or mentees, #underline[_it fosters an environment of_] mutual respect and motivation. #underline[_This approach is far more effective than_] just imposing expectations without modeling the desired conduct.
 
-In my opinion, this drawing effectively conveys a crucial lesson about the influence of role models. It highlights that children are highly perceptive and are more likely to emulate the behaviors they observe rather than follow verbal instructions. This underscores the responsibility of parents and mentors to embody the values and habits they wish to instill. By participating actively in the learning or working process, adults can inspire and encourage younger individuals to adopt similar attitudes towards their responsibilities. This mutual engagement not only strengthens the relationship but also cultivates a culture of continuous improvement and shared commitment.
+#underline[_In my opinion, this drawing effectively conveys a crucial lesson about the influence of_] role models. #underline[_It highlights that_] children are highly perceptive and are more likely to emulate the behaviors they observe rather than follow verbal instructions. #underline[_This underscores the responsibility of_] parents and mentors to embody the values and habits they wish to instill. #underline[_By participating actively in the learning or working process,_] adults can inspire and encourage younger individuals to adopt similar attitudes *towards their responsibilities*. This mutual engagement #underline[_not only strengthens the relationship but also cultivates a culture of continuous improvement and shared commitment_].
 
 ==== 以身作则：行动胜于言语
 
@@ -1224,11 +1216,11 @@ In my opinion, this drawing effectively conveys a crucial lesson about the influ
 
 ==== Owning Books vs. Reading Books: A Reflection on True Learning
 
-The drawing is divided into two panels. In the first panel, an individual reclines in a chair, surrounded by shelves filled with books, exclaiming, "I have so many books!" The second panel shows a different individual sitting at a desk with a few books open in front of them, stating, "I strive to read 20 books this year." This contrast between the two panels highlights the difference between merely possessing books and actively engaging with them through reading.
+#underline[_The drawing is divided into two panels._] #underline[_In the first panel,_] an individual *reclines* in a chair, surrounded by shelves filled with books, exclaiming, "I have so many books!" #underline[_The second panel shows_] a different individual sitting at a desk with a few books open in front of them, stating, "I strive to read 20 books this year." #underline[_This contrast between the two panels highlights the difference between_] merely possessing books and actively engaging with them through reading.
 
-The intended meaning of this illustration is to emphasize the distinction between owning books and the act of reading them. It underscores that the mere possession of books does not equate to acquiring knowledge or wisdom. True learning comes from reading, understanding, and reflecting on the content of books, rather than just accumulating them as physical objects.
+#underline[_The intended meaning of this illustration is to emphasize the distinction between_] owning books and the act of reading them. #underline[It underscores that the mere] possession of books #underline[_does not equate to_] acquiring knowledge or wisdom. #underline[_True learning comes from_] reading, understanding, and reflecting on the content of books, #underline[_rather than_] just accumulating them as physical objects.
 
-In my opinion, this drawing effectively captures a fundamental truth about the pursuit of knowledge. It serves as a reminder that having access to resources is only the first step; what truly matters is how we utilize those resources. In today's society, where information is readily available, it is easy to fall into the trap of equating possession with knowledge. However, the real value lies in the effort we put into comprehending and applying the information we gather. This illustration encourages us to focus on the quality of our learning experiences rather than the quantity of our possessions. By dedicating time and effort to reading and understanding, we can achieve deeper insights and make meaningful contributions to our personal and professional lives.
+#underline[_In my opinion, this drawing effectively captures a fundamental truth about_] the pursuit of knowledge. #underline[_It serves as a reminder that_] having access to resources is only the first step; #underline[_what truly matters is how we utilize_] those resources. #underline[_In today's society, where information is readily available, it is easy to *fall into the trap of* equating possession with knowledge._] However, #underline[_the real value lies in the effort we put into_] comprehending and applying the information we gather. #underline[_This illustration encourages us to focus on the_] quality of our learning experiences #underline[_rather than_] the quantity of our possessions. #underline[_By dedicating time and effort to_] reading and understanding, #underline[_we can achieve deeper insights and make meaningful contributions to_] our personal and professional lives.
 
 ==== 拥有书籍与阅读书籍：对真正学习的反思
 
@@ -1249,17 +1241,17 @@ In my opinion, this drawing effectively captures a fundamental truth about the p
 
 ===== Balancing Course Selection: Challenges and Pragmatism
 
-The picture depicts a student sitting at a desk, engaging with a course selection system on a laptop. Surrounding the student are two thought bubbles. The bubble on the left reads, "New knowledge, innovative, challenging," while the one on the right states, "High grades, easy to pass, less homework." These two sets of considerations reflect the dilemma students face when selecting courses.
+#underline[_The picture depicts_] a student sitting at a desk, #underline[_engaging with_] a course selection system on a laptop. #underline[_Surrounding the student are two thought bubbles._] #underline[_The bubble on the left reads_], "New knowledge, innovative, challenging," #underline[_while the one on the right states,_] "High grades, easy to pass, less homework." #underline[_These two sets of considerations reflect the dilemma students face when_] selecting courses.
 
-This illustration highlights the contrast between intellectual curiosity and academic pragmatism. On one side, students are attracted to courses that offer new knowledge, innovation, and challenges, which are essential for personal growth and intellectual development. On the other side, the need for high grades, easy passes, and manageable workloads reflects a pragmatic approach driven by the pressures of academic success and future career prospects.
+#underline[_This illustration highlights the contrast between_] intellectual curiosity and academic pragmatism. #underline[_On one side_], students are attracted to courses that offer new knowledge, innovation, and challenges, which are essential for personal growth and intellectual development. #underline[_On the other side,_] the need for high grades, easy passes, and manageable workloads reflects a *pragmatic* approach driven by the pressures of academic success and future career *prospects*.
 
-In my opinion, this image effectively captures the complex decision-making process involved in course selection. It underscores the reality that students must navigate between their desire for meaningful learning experiences and the practical considerations of maintaining a high GPA and managing their workload. This duality is not just a reflection of students' aversion to difficulty but also a response to the broader educational and societal pressures.
+#underline[_In my opinion, this image effectively captures the complex decision-making process involved in_] course selection. #underline[_It underscores the reality that_] students must navigate between their desire for meaningful learning experiences and the practical considerations of maintaining a high GPA and managing their workload. #underline[This duality is not just a reflection of students' *aversion* to difficulty but also a response to the broader educational and societal pressures.]
 
-While it is easy to criticize students for opting for easier courses, it is essential to understand the underlying factors that drive these choices. The educational system often places a significant emphasis on grades and standardized testing, which can discourage students from taking on more challenging courses that might negatively impact their GPA. Additionally, societal expectations and the competitive job market further reinforce the need for high academic performance.
+#underline[_While it is easy to criticize_] students for *opting* for easier courses, #underline[_it is essential to understand the underlying factors that drive these choices._] The educational system #underline[_often places a significant emphasis on_] grades and standardized testing, which can *discourage* students from taking on more challenging courses that might *negatively impact* their GPA. *Additionally*, *societal expectations* and *the competitive job market* #underline[_further reinforce the need for_] high academic performance.
 
-To address this issue, a collective effort is required from educators, policymakers, and society as a whole. Schools should strive to create an environment that values intellectual curiosity and critical thinking as much as academic success. Providing support systems such as academic counseling, flexible grading policies, and opportunities for experiential learning can help students feel more confident in pursuing challenging courses.
+#underline[_To address this issue, a collective effort is required from_] educators, policymakers, and society *as a whole*. Schools should strive to create an environment that values *intellectual curiosity* and *critical thinking* as much as academic success. Providing support systems such as academic *counseling*, flexible grading policies, and opportunities for experiential learning can help students feel more confident in pursuing challenging courses.
 
-In conclusion, the picture illustrates the balancing act that students face in course selection, torn between the pursuit of knowledge and the need for academic pragmatism. Understanding and addressing the root causes of this dilemma requires a comprehensive approach that involves all stakeholders in the education system.
+#underline[_In conclusion, the picture illustrates the balancing act that_] students face in course selection, torn between the pursuit of knowledge and the need for academic pragmatism. #underline[_Understanding and addressing the root causes of this dilemma requires a *comprehensive* approach that involves all *stakeholders* in the education system._]
 
 ===== 平衡选课：挑战与实用主义
 
@@ -1279,17 +1271,17 @@ In conclusion, the picture illustrates the balancing act that students face in c
 
 ===== The Dilemma of Course Selection: Balancing Interest and Practicality
 
-The picture illustrates a student sitting in front of a laptop, engrossed in selecting courses. The screen displays a course selection system, while thought bubbles around the student reflect various considerations: "New knowledge," "Innovative," "Challenging," versus "High grades," "Easy to pass," and "Less homework."
+#underline[_The picture illustrates_] a student sitting in front of a laptop, engrossed in selecting courses. The screen displays a course selection system, while thought bubbles around the student reflect various considerations: "New knowledge," "Innovative," "Challenging," *versus* "High grades," "Easy to pass," and "Less homework."
 
-This illustration highlights a significant dilemma students face during course selection: the choice between pursuing intellectually stimulating and challenging courses or opting for easier courses that guarantee higher grades and less workload. This dichotomy reflects a broader issue in educational systems, where students must balance their academic interests with practical considerations, such as GPA and time management.
+#underline[_This illustration highlights a significant dilemma students face during_] course selection: #underline[_the choice between_] pursuing *intellectually stimulating* and challenging courses or opting for easier courses that guarantee higher grades and less workload. This *dichotomy* #underline[_reflects a broader issue in_] educational systems, #underline[_where_] students must balance their academic interests with practical considerations, such as GPA and time management.
 
-In my view, this drawing effectively captures the complexities of academic decision-making. It underscores the tension between the desire for personal and intellectual growth and the pragmatic need to maintain a high GPA and manage a reasonable workload. This dilemma is not merely a reflection of students' aversion to difficulty but also indicative of the pressures imposed by societal and educational expectations.
+#underline[_In my view, this drawing effectively captures the complexities of_] academic decision-making. #underline[_It underscores the tension between_] the desire for personal and intellectual growth and the *pragmatic* need to maintain a high GPA and manage a reasonable workload. #underline[_This dilemma is not merely a reflection of_] students' *aversion* to difficulty #underline[_but also indicative of_] the pressures *imposed* by *societal and educational expectations*.
 
-Students often face significant pressure to achieve high grades, which can lead them to prioritize courses that are perceived as easier and more manageable. This pragmatic mindset is reinforced by educational systems that place a heavy emphasis on grades as a measure of success. Consequently, students might shy away from courses that, while challenging and intellectually rewarding, might jeopardize their GPA.
+Students often face significant pressure to achieve high grades, which can lead them to prioritize courses that are perceived as easier and more manageable. This *pragmatic* #underline[_mindset is reinforced by_] educational systems that *place a heavy emphasis on* grades as a measure of success. *Consequently*, students might *shy away from* courses that, while challenging and intellectually rewarding, might *jeopardize* their GPA.
 
-However, this issue cannot be solely attributed to students. Societal attitudes and school systems play a crucial role in shaping students' choices. The emphasis on grades and the competitiveness of academic and job markets contribute to this pragmatic approach. To address this issue, a collective effort is needed from educators, policymakers, and society at large to create an environment where intellectual curiosity and personal growth are valued alongside academic performance.
+#underline[_However, this issue cannot be solely attributed to_] students. Societal attitudes and school systems *play a crucial role in* shaping students' choices. The emphasis on grades and the competitiveness of academic and job markets *contribute to* this pragmatic approach. #underline[_To address this issue, a collective effort is needed from_] educators, policymakers, and society *at large* to create an environment where intellectual curiosity and personal growth are valued *alongside* academic performance.
 
-In conclusion, the picture highlights the ongoing struggle students face in balancing their academic interests with practical considerations. While internal factors influence students' choices, societal and systemic pressures are equally significant. A holistic approach that encourages intellectual exploration and values diverse measures of success is essential to resolving this dilemma.
+#underline[_In conclusion, the picture highlights the ongoing struggle_] students face in balancing their academic interests with practical considerations. While internal factors influence students' choices, societal and systemic pressures are equally significant. A *holistic* approach that encourages intellectual exploration and values diverse measures of success is essential to *resolving this dilemma*.
 
 ===== 选课困境：平衡兴趣与实用性
 
@@ -1316,11 +1308,11 @@ In conclusion, the picture highlights the ongoing struggle students face in bala
 
 ===== A Journey: The Importance of Perseverance and Rest
 
-The drawing shows two hikers on a mountainous path. One hiker is sitting on the steps, exhausted, saying, "I'm tired, I can't climb anymore." The other hiker, standing and offering a bottle of water, encourages, "Don't give up! Rest for a while and then continue climbing." This scene captures a moment of struggle and support during a challenging journey.
+The drawing shows two hikers on a mountainous path. One hiker is sitting on the steps, exhausted, saying, "I'm tired, I can't climb anymore." The other hiker, standing and offering a bottle of water, encourages, "Don't give up! Rest for a while and then continue climbing." #underline[_This scene captures a moment of_] struggle and support during a challenging journey.
 
-The intended meaning of this illustration is to emphasize the significance of perseverance and the role of encouragement and rest in overcoming difficulties. It highlights that while persistence is crucial in achieving goals, it is equally important to recognize when to take a break and seek support from others. The dialogue between the two hikers symbolizes the balance between effort and rest, illustrating that even when one feels overwhelmed, taking a moment to recharge can renew the strength to continue.
+#underline[_The intended meaning of this illustration is to emphasize the significance of_] perseverance and #underline[_the role of_] encouragement and rest in overcoming difficulties. #underline[_It highlights that while_] persistence is crucial in achieving goals, #underline[_it is equally important to_] recognize when to take a break and seek support from others. #underline[_The dialogue between the two hikers symbolizes the balance between effort and rest, illustrating_] that even when one feels overwhelmed, taking a moment to *recharge* can *renew the strength to continue*.
 
-In my opinion, this drawing effectively conveys a powerful message about resilience and the importance of mutual support. It reminds us that every challenging journey, whether literal or metaphorical, is fraught with moments of doubt and fatigue. However, the presence of a supportive companion can make a significant difference in helping us push through our limits. This image also underscores the necessity of self-care; knowing when to rest is not a sign of weakness but a strategy for long-term success. By pausing to recuperate, we can maintain our physical and mental well-being, ensuring we have the stamina to reach our goals.
+#underline[_In my opinion, this drawing effectively conveys a powerful message about_] resilience and the importance of *mutual* support. #underline[_It reminds us that_] every challenging journey, whether *literal* or *metaphorical*, *is fraught with* moments of doubt and fatigue. However, the presence of a supportive companion #underline[_can make a significant difference in_] helping us *push through our limits*. #underline[_This image also underscores the necessity of_] self-care; #underline[_knowing when to rest is not a sign of weakness but a strategy for *long-term success*_]. By pausing to recuperate, we can maintain our physical and mental well-being, ensuring we have the *stamina* to reach our goals.
 
 ===== 途中的旅程：坚持与休息的重要性
 
@@ -1334,13 +1326,13 @@ In my opinion, this drawing effectively conveys a powerful message about resilie
 
 ===== Perseverance and Rest: A Balanced Approach to Challenges
 
-The drawing depicts two individuals taking a break on a staircase during a hike. One person, looking exhausted, says, "I'm tired, I can't go on." The other person, offering a water bottle, encourages, "Don't give up! Take a rest and then continue." The background shows a series of hills, suggesting a challenging but scenic journey.
+#underline[_The drawing depicts_] two individuals taking a break on a staircase during a hike. One person, looking exhausted, says, "I'm tired, I can't go on." The other person, offering a water bottle, encourages, "Don't give up! Take a rest and then continue." #underline[_The background shows a series of hills, *suggesting* a challenging but scenic journey._]
 
-The intended meaning of this illustration is to highlight the importance of perseverance while also recognizing the need for rest. It suggests that while it is natural to feel tired and overwhelmed during difficult tasks, taking breaks and recharging can help us continue our journey more effectively. The encouragement to rest and then proceed reflects a balanced approach to tackling challenges, emphasizing resilience and self-care.
+#underline[_The intended meaning of this illustration is to highlight the importance of_] perseverance #underline[while also recognizing] the need for rest. It suggests that while it is natural to feel tired and overwhelmed during difficult tasks, taking breaks and recharging can help us continue our journey more effectively. The encouragement to rest and then proceed reflects a balanced approach to tackling challenges, emphasizing resilience and self-care.
 
-In my opinion, this drawing effectively communicates a valuable lesson about handling difficulties. It underscores the significance of persistence in achieving goals while also acknowledging that rest is an essential component of endurance. Often, people feel compelled to push through fatigue without considering the benefits of taking a moment to recover. This can lead to burnout and diminished productivity. The illustration reminds us that pausing to rest is not a sign of weakness but a strategic move to sustain our efforts over the long haul.
+#underline[_In my opinion, this drawing effectively communicates a valuable lesson about_] handling difficulties. #underline[_It underscores the significance of_] persistence in achieving goals #underline[_while also acknowledging that_] rest is *an essential component of endurance*. Often, people feel compelled to push through fatigue #underline[_without considering the benefits of_] taking a moment to recover. This can lead to burnout and *diminished* productivity. #underline[_The illustration reminds us that *pausing to rest* is not a sign of weakness but *a strategic move* to sustain our efforts *over the long haul*._]
 
-Moreover, the supportive interaction between the two individuals highlights the importance of encouragement and support from others. Having someone to motivate us during tough times can make a significant difference in our ability to persevere. This drawing serves as a metaphor for life's challenges, encouraging us to adopt a balanced approach that includes both determination and self-care.
+#underline[_Moreover, the supportive interaction between the two individuals highlights the importance of_] encouragement and support from others. Having someone to motivate us during tough times can make a significant difference in our ability to persevere. #underline[This drawing serves as a *metaphor* for] life's challenges, encouraging us to *adopt a balanced approach* that includes both determination and self-care.
 
 ===== 坚持与休息：应对挑战的平衡方法
 
@@ -1361,15 +1353,15 @@ Moreover, the supportive interaction between the two individuals highlights the 
 
 ==== Habits: Procrastination vs. Proactivity
 
-The drawing is divided into two panels, each depicting a different individual with contrasting work habits. In the left panel, a girl is diligently working at her desk, surrounded by stacks of papers. She remarks, "I feel at ease only when I finish my tasks early." In the right panel, a boy reclines casually in his chair with minimal work materials in front of him, saying, "I won't start until the last minute."
+#underline[_The drawing is divided into two panels, each depicting a different individual_] with *contrasting* work habits. #underline[_In the left panel,_] a girl is *diligently* working at her desk, surrounded by stacks of papers. #underline[_She remarks,_] "I feel at ease only when I finish my tasks early." #underline[_In the right panel,_] a boy *reclines* casually in his chair with minimal work materials in front of him, saying, "I won't start until the last minute."
 
-The intended meaning of this illustration is to contrast two common approaches to task management: proactive versus procrastinative. The girl represents those who prefer to complete their work ahead of time to avoid last-minute stress, while the boy exemplifies those who delay their tasks until the deadline is imminent. This juxtaposition highlights the impact of different habits on productivity and stress levels.
+#underline[_The intended meaning of this illustration is to contrast two common approaches to_] task management: *proactive* versus *procrastinative*. #underline[_The girl represents those who prefer to_] complete their work ahead of time to avoid *last-minute stress*, #underline[_while the boy exemplifies those who_] delay their tasks until the deadline is *imminent*. #underline[_This juxtaposition highlights the impact of different habits_] on productivity and stress levels.
 
-In my opinion, this drawing effectively captures the essence of two divergent approaches to work. It underscores the benefits of proactivity, such as reduced stress and a sense of accomplishment. By starting tasks early, individuals can manage their time more effectively, allowing for unexpected challenges and revisions. This approach often leads to higher quality work and a more balanced lifestyle.
+#underline[_In my opinion, this drawing effectively captures the essence of two divergent approaches_] to work. #underline[_It underscores the benefits of_] proactivity, #underline[_such as_] reduced stress and a sense of accomplishment. By starting tasks early, individuals can manage their time more effectively, #underline[_allowing for unexpected challenges and *revisions*_]. #underline[_This approach often leads to higher quality work and a more balanced lifestyle._]
 
-Conversely, the illustration also highlights the drawbacks of procrastination. Delaying tasks can result in heightened stress and a rushed, lower-quality output. While some individuals may believe they work better under pressure, this habit can lead to chronic stress and a negative impact on overall well-being.
+#underline[Conversely, the illustration also highlights the *drawbacks* of] procrastination. Delaying tasks can result in heightened stress and a rushed, lower-quality output. While some individuals may believe they work better under pressure, this habit can lead to chronic stress and a negative impact on overall well-being.
 
-Ultimately, the drawing serves as a reminder of the importance of cultivating effective work habits. Adopting a proactive approach can significantly enhance productivity and reduce stress, leading to a more fulfilling and successful academic or professional life.
+#underline[_Ultimately, the drawing serves as a reminder of the importance of_] cultivating effective work habits. Adopting a proactive approach can #underline[_significantly enhance_] productivity and reduce stress, #underline[_leading to a more *fulfilling* and successful academic or professional life._]
 
 ==== 习惯：拖延与积极主动
 
@@ -1392,15 +1384,15 @@ Ultimately, the drawing serves as a reminder of the importance of cultivating ef
 
 ==== Following Your Passion: The Importance of Personal Fulfillment
 
-The drawing depicts a conversation between a father and his child. The child, dressed in a clown costume and holding a prop, says, "Dad, many classmates think learning to sing and act is not fun." The father responds, "Do you like it yourself? That's enough." This exchange highlights the contrast between societal expectations and personal satisfaction.
+#underline[_The drawing depicts a conversation between a father and his child._] The child, dressed in a *clown* costume and holding a *prop*, says, "Dad, many classmates think learning to sing and act is not fun." The father responds, "Do you like it yourself? That's enough." #underline[_This exchange highlights the *contrast* between *societal expectations* and *personal satisfaction*._]
 
-The intended meaning of this illustration is to emphasize the importance of pursuing personal passions and interests, regardless of external opinions. It suggests that personal fulfillment and happiness should take precedence over conforming to the preferences or judgments of others. The father's response underscores the value of self-acceptance and the courage to follow one's unique path.
+#underline[_The intended meaning of this illustration is to emphasize the importance of_] pursuing personal passions and interests, #underline[_regardless of external opinions._] #underline[_It suggests that *personal fulfillment* and happiness should *take precedence over* *conforming* to the *preferences* or judgments of others._] The father's response *underscores* the value of *self-acceptance* and the courage to *follow one's unique path*.
 
-In my opinion, this drawing effectively conveys a crucial message about the significance of individual passion and fulfillment. It reminds us that each person has unique interests and talents, which should be nurtured and celebrated. In a world where societal norms and peer pressure often dictate what is considered valuable or worthwhile, this illustration encourages us to prioritize our own happiness and personal growth.
+#underline[_In my opinion, this drawing effectively conveys a crucial message about the significance of_] individual passion and fulfillment. #underline[_It reminds us that_] each person has unique interests and talents, #underline[_which should be nurtured and celebrated._] #underline[_In a world where societal norms and peer pressure often *dictate* what is considered valuable or worthwhile, this illustration encourages us to prioritize our own happiness and personal growth._]
 
-Moreover, the father's supportive attitude serves as a model for how parents and mentors can positively influence the development of self-confidence and individuality in children. By affirming the child's interests and encouraging them to pursue what they love, the father helps foster a sense of self-worth and resilience against external criticism. This approach not only enhances the child's emotional well-being but also empowers them to achieve their fullest potential.
+#underline[_Moreover, the father's supportive attitude serves as a model for how_] parents and mentors can positively influence the development of self-confidence and individuality in children. By affirming the child's interests and encouraging them to pursue what they love, the father helps foster a sense of *self-worth* and *resilience against external criticism*. This approach not only *enhances the child's emotional well-being* but also *empowers them to achieve their fullest potential*.
 
-In conclusion, this drawing serves as a powerful reminder to value and support personal passions. It encourages us to seek fulfillment in our own terms and to provide the same encouragement to others, especially the younger generation. By doing so, we can create a more inclusive and supportive environment where everyone is free to pursue their dreams and achieve their true potential.
+#underline[_In conclusion, this drawing serves as a powerful reminder to_] value and support personal passions. It encourages us to seek fulfillment *in our own terms* and to provide the same encouragement to others, #underline[_especially the younger generation_]. By doing so, we can create *a more inclusive and supportive environment* where everyone is free to pursue their dreams and *achieve their true potential*.
 
 ==== 追随你的热情：个人满足感的重要性
 
@@ -1423,15 +1415,15 @@ In conclusion, this drawing serves as a powerful reminder to value and support p
 
 ==== The Value of Broadening Horizons: Attending Campus Lectures
 
-The drawing shows two students standing in front of a notice board advertising a campus lecture. The girl on the left expresses her doubts by saying, "It's not related to our major. Listening to it won't be of much use." The boy on the right responds optimistically, "Let's go and listen; it will surely be beneficial." This scene depicts a common situation where students evaluate the relevance and potential benefits of extracurricular activities.
+The drawing shows two students standing in front of a notice board advertising a campus lecture. The girl on the left *expresses her doubts by saying*, "It's not related to our major. Listening to it won't be of much use." The boy on the right *responds optimistically*, "Let's go and listen; it will surely be beneficial." #underline[_This scene depicts a common situation where_] students evaluate the *relevance* and potential benefits of *extracurricular* activities.
 
-The intended meaning of this illustration is to highlight the importance of being open-minded and taking advantage of diverse learning opportunities, even those seemingly unrelated to one's primary field of study. It suggests that knowledge from various disciplines can provide unexpected benefits and contribute to a well-rounded education.
+#underline[_The intended meaning of this illustration is to highlight the importance of_] being open-minded and taking advantage of diverse learning opportunities, #underline[even those seemingly] unrelated to one's primary field of study. It suggests that knowledge from various disciplines can provide unexpected benefits and contribute to a *well-rounded* education.
 
-In my opinion, this drawing effectively conveys a significant message about the value of intellectual curiosity and the pursuit of knowledge beyond one's immediate area of expertise. It underscores the idea that education should not be confined to a narrow focus but should encompass a broad range of subjects and experiences. Engaging with different fields can foster critical thinking, creativity, and adaptability—skills that are increasingly important in a rapidly changing world.
+#underline[_In my opinion, this drawing effectively conveys a significant message about the value of_] intellectual curiosity and the pursuit of knowledge beyond one's immediate area of expertise. #underline[_It underscores the idea that education should not be confined to a narrow focus but should encompass a broad range of subjects and experiences._] *Engaging with* different fields can #underline[_foster *critical thinking*, creativity, and adaptability—skills that are increasingly important in a rapidly changing world._]
 
-Furthermore, the boy's encouragement to attend the lecture reflects a proactive attitude toward personal and academic growth. By embracing opportunities to learn from diverse sources, students can gain new perspectives and insights that may enhance their understanding of their own discipline and open up new pathways for future endeavors.
+*Furthermore*, the boy's encouragement to attend the lecture #underline[_reflects a proactive attitude toward_] personal and academic growth. By embracing opportunities to learn from diverse sources, students can *gain new perspectives and insights that* may enhance their understanding of their own *discipline* and *open up new pathways* for *future endeavors*.
 
-In conclusion, this drawing serves as a reminder to value and seek out diverse learning experiences. It encourages students to be open to new ideas and to recognize the potential benefits of interdisciplinary learning. By doing so, they can enrich their education and better prepare themselves for the complexities of the modern world.
+#underline[_In conclusion, this drawing serves as a reminder_] to value and *seek out* diverse learning experiences. It encourages students to be open to new ideas and to recognize the potential benefits of *interdisciplinary* learning. By doing so, they can enrich their education and better prepare themselves for the complexities of the modern world.
 
 ==== 拓宽视野的价值：参加校园讲座
 
@@ -1454,15 +1446,15 @@ In conclusion, this drawing serves as a reminder to value and seek out diverse l
 
 ==== Celebrating Tradition: The Dragon Boat Festival
 
-The drawing depicts a vibrant scene of a dragon boat race, with two boats competing in a river under a bridge. Spectators line the riverbanks and the bridge, cheering enthusiastically. In the foreground, an elderly couple watches the race, with one of them commenting, "It's great! The dragon boat race in our village is getting more and more popular."
+#underline[_The drawing depicts a *vibrant* scene of_] a dragon boat race, #underline[_with_] two boats competing in a river under a bridge. *Spectators* *line* the *riverbanks* and the bridge, cheering enthusiastically. In the foreground, an elderly couple watches the race, with one of them commenting, "It's great! The dragon boat race in our village is getting more and more popular."
 
-The intended meaning of this illustration is to highlight the cultural significance and communal spirit of traditional festivals, particularly the Dragon Boat Festival. The scene showcases how such events bring people together, fostering a sense of unity and pride in local traditions. The elderly couple's comment reflects the growing enthusiasm and participation in these cultural activities, indicating a thriving and engaged community.
+#underline[_The intended meaning of this illustration is to highlight_] the cultural significance and *communal spirit of traditional festivals*, particularly the Dragon Boat Festival. #underline[_The scene *showcases* how such events_] bring people together, *fostering* a sense of unity and pride in local traditions. #underline[_The elderly couple's comment reflects_] the growing enthusiasm and participation in these cultural activities, #underline[_indicating_] a thriving and engaged community.
 
-In my opinion, this drawing effectively captures the essence of community celebrations and the preservation of cultural heritage. It underscores the importance of maintaining and promoting traditional festivals, which serve as a vital link between generations and a means of strengthening social bonds. The enthusiastic participation of both the racers and the spectators exemplifies how cultural traditions can be a source of joy, excitement, and communal pride.
+#underline[_In my opinion, this drawing effectively captures the essence of_] community celebrations and the preservation of *cultural heritage*. #underline[_It underscores the importance of maintaining and promoting_] traditional festivals, #underline[_which serve as a vital link between generations and a means of strengthening social bonds._] The enthusiastic participation of both the racers and the spectators exemplifies how cultural traditions #underline[_can be a source of joy, excitement, and *communal* pride._]
 
-Moreover, the drawing also highlights the role of elders in the community as keepers of tradition. Their presence and appreciation for the growing popularity of the dragon boat race demonstrate the value of intergenerational connections in preserving cultural heritage. By involving both young and old, such events ensure that traditions are passed down and continue to thrive.
+*Moreover*, the drawing also highlights the role of elders in the community as keepers of tradition. Their presence and appreciation for the growing popularity of the dragon boat race #underline[_demonstrate the value of intergenerational connections in preserving cultural heritage_]. #underline[_By involving_] both young and old, #underline[_such events ensure that traditions are passed down and continue to thrive._]
 
-In conclusion, this illustration serves as a reminder of the importance of celebrating and preserving cultural traditions. It encourages communities to engage in and support these activities, fostering a sense of unity and continuity. Through such efforts, cultural heritage can be cherished and sustained for future generations.
+#underline[_In conclusion, this illustration serves as a reminder of the importance of_] celebrating and preserving cultural traditions. #underline[_It encourages_] communities to engage in and support these activities, fostering a sense of unity and continuity. #underline[_Through such efforts, cultural heritage can be *cherished* and *sustained* for *future generations*._]
 
 ==== 庆祝传统：龙舟节
 
@@ -1485,17 +1477,17 @@ In conclusion, this illustration serves as a reminder of the importance of celeb
 
 ==== The Impact of New Parks on Community Well-being
 
-The picture and chart provide a complementary view of the increasing number of parks in a certain city and their positive impact on the community. In the picture, several people are enjoying various activities in a newly built small park. One person remarks, "The new park near our home is really nice!" The background shows people jogging, indicating the park's role in promoting physical fitness.
+#underline[_The picture and chart provide a complementary view of_] the increasing number of parks in a certain city and #underline[_their positive impact on_] the community. #underline[_In the picture,_] several people are enjoying various activities in a newly built small park. One person *remarks*, "The new park near our home is really nice!" The background shows people jogging, #underline[_indicating the park's role in promoting_] physical fitness.
 
-The chart beside the picture shows the number of parks built in the city over the past three years. In 2020, there were 406 parks. This number increased to 532 in 2021 and reached 670 in 2022. The steady growth in the number of parks highlights the city's commitment to improving public spaces and community well-being.
+#underline[_The chart beside the picture shows_] the number of parks built in the city over the past three years. In 2020, there were 406 parks. This number *increased to* 532 in 2021 *and reached* 670 in 2022. #underline[_The steady growth in the number of parks highlights_] the city's commitment to improving public spaces and community well-being.
 
-The intended meaning of these visual elements is to emphasize the significance of urban planning in enhancing the quality of life for residents. The new parks not only provide a space for recreational activities but also foster a sense of community and encourage healthy lifestyles. The comment from the individual in the picture reflects a common sentiment among residents who benefit from these improved public spaces.
+#underline[_The intended meaning of these visual elements is to emphasize the significance of_] urban planning in enhancing the quality of life for residents. The new parks not only provide a space for recreational activities but also *foster* a sense of community and encourage healthy lifestyles. The comment from the individual in the picture *reflects* a common sentiment among residents who benefit from these improved public spaces.
 
-In my opinion, the picture and chart effectively illustrate the positive outcomes of increased investment in public parks. These spaces are crucial for promoting physical health, mental well-being, and social interaction. Parks offer a respite from the urban environment, providing a natural setting for relaxation and exercise. The increase in the number of parks also signifies a forward-thinking approach by city planners, prioritizing green spaces in urban development.
+#underline[_In my opinion, the picture and chart effectively illustrate the positive outcomes of_] increased investment in public parks. These spaces are crucial for promoting physical health, mental well-being, and social interaction. Parks offer a *respite* from the urban environment, providing a natural setting for relaxation and exercise. #underline[_The increase in the number of parks also signifies_] a *forward-thinking* approach by city planners, *prioritizing* green spaces in urban development.
 
-Furthermore, the enthusiasm shown by the park-goers underscores the importance of such initiatives. Residents who have access to well-maintained parks are likely to engage more in outdoor activities, leading to a healthier and more active community. This can also have long-term benefits, such as reduced healthcare costs and enhanced social cohesion.
+Furthermore, the enthusiasm shown by the park-goers underscores the importance of such initiatives. Residents who have access to well-maintained parks are likely to engage more in outdoor activities, leading to a healthier and more active community. This can also have *long-term benefits*, such as reduced healthcare costs and enhanced social cohesion.
 
-In conclusion, the visual elements highlight the vital role of parks in urban life. They serve as a reminder of the importance of continuous investment in public spaces to ensure the well-being of the community. By prioritizing the creation and maintenance of parks, cities can foster a healthier, happier, and more connected populace.
+#underline[_In conclusion, the visual elements highlight the vital role of_] parks in urban life. #underline[_They serve as a reminder of the importance of_] continuous investment in public spaces #underline[_to ensure_] the well-being of the community. #underline[_By prioritizing the creation and maintenance of_] parks, cities #underline[_can foster a healthier, happier, and more connected populace._]
 
 ==== 新公园对社区福祉的影响
 
