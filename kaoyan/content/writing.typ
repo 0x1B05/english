@@ -2,22 +2,6 @@
 
 #pagebreak()
 = Writing
-== GPT Prompt
-=== 应用文
-
-You are a native English writer. Next, you need to write an application essay for the Chinese Postgraduate Entrance Examination (English Test One) from an exam perspective. Please ensure the essay is around 150 words and follows a formal writing style. Use advanced but natural sentence structures and vocabulary. Additionally, provide the corresponding Chinese translation for easy back-translation. I want to learn how to structure the essay, use appropriate vocabulary, and develop clear and coherent arguments.
-
-Below is the first writing you need to write.
-
-=== essay
-
-You are a native English writer. Next, you need to write an application essay for the Chinese Postgraduate Entrance Examination (English Test One) from an exam perspective. Please ensure the essay is around 300 words and follows a formal writing style. Use advanced but natural sentence structures and vocabulary. Additionally, provide the corresponding Chinese translation for easy back-translation. I want to learn how to structure the essay, use appropriate vocabulary, and develop clear and coherent arguments.
-
-Below is the first writing you need to write.
-
-In your essay, you should first describe the drawing, then interpret its meaning, and give your comment on it.
-
-#pagebreak()
 == 应用文
 
 === 05
