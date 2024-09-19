@@ -454,67 +454,64 @@
 === text3
 ==== vocabulary
 - frame: 体格
-- obscure:
-- notably:
-- secular:
-- genetically:
-- substantial:
-- canal:
-- bipedal:
-- withstand:
-- impose:
-- limb:
-- non-Americans:
+- obscure: 遮掩
+- notably: 尤其
+- secular: 长期的
+- genetically: 基因角度
+- substantial: 大量的
+- canal: 管
+- bipedal: 两足动物的
+- withstand: 承受
+- impose: 施加
+- limb: 肢体
+- non-Americans: 非美国人
 
 ==== sentences
 
 === text4
 ==== vocabulary
-- fragile nature:
-- country's infancy:
-- hamper:
-- bedrock:
-- clause:
-- prestige:
+- fragile nature: 脆弱性
+- country's infancy: 建国初期
+- hamper: 妨碍
+- bedrock: 基石
+- clause: 条款
+- prestige: 名声
 
 ==== phrases
-- part with:
+- part with: 不情愿地放弃
 
 ==== sentences
 
 === 七选五
 
 ==== vocabulary
-- railroad:
-- clip:
-- thesis:
-- chauvinistic:
-- abrupt:
-- wordy:
-- poke:
-- prod:
-- tentative:
+- railroad: 仓促执行；陷害
+- clip: 剪切
+- thesis: 论点
+- chauvinistic: 大男子主义的
+- abrupt: 支离破碎的
+- wordy: 冗长的
+- poke: 捅
+- prod: 捅
+- tentative: 试探性的
 
 ==== phrases
-- work sth into:
-- fresh off:
-- flesh out:
+- work sth into: 包括
+- flesh out: 完善
 
 ==== sentences
 == 2009
 
 === 完形
 ==== vocabulary
-- fruit-fly:
-- upkeep:
-- wistful:
-- operant conditioning:
+- fruit-fly: 果蝇
+- upkeep: 保养维修费
+- wistful: 惆怅的
+- operant conditioning: 条件反射
 - fight: （对情感欲望的）抑制
-- backward:
 
 ==== phrases
-- left in the dust:
-- sum up sth:
+- left in the dust: 望尘莫及的
 - determine: 测定
 - above all: 最重要的是；尤其是
 - after all: 终究；毕竟
@@ -523,77 +520,76 @@
 
 === text1
 ==== vocabulary
-- unreflecting:
-- herd:
-- trains of thought:
-- inherently:
-- rut:
-- perpetuate:
-- regulated；
+- unreflecting: 缺乏思考的
+- herd: 人群
+- trains of thought: 一连串的想法
+- inherently: 固有地
+- rut: 辙痕
+- perpetuate: 使持久化
+- regulated: 约束的
 
 ==== phrases
-- wear into:
-- comply with:
+- wear into: 磨出
+- comply with: 与...一致
 
 ==== sentences
 
 === text2
 ==== vocabulary
-- paternal:
-- kit:
-- kinship:
-- rage:
-- genealogist:
-- hawk:
-- mitochondrial:
-- lump:
+- paternal: 父亲的
+- kit: 工具包
+- kinship: 亲属关系
+- rage:  时尚，流行
+- genealogist: 系谱学者
+- hawk: 叫卖，兜售
+- mitochondrial: 线粒体
+- lump: 归并
 
 ==== phrases
 
-- shell out:
+- shell out: 付款
 
 ==== sentences
 
 === text3
 ==== vocabulary
-- radically:
-- workforce:
-- deride:
-- automotive:
+- radically: 根本上
+- workforce: 劳动力
+- deride: 嘲笑
+- automotive: 汽车
 - assembly: 装配
-- illiterate:
-- substantial:
+- illiterate: 不识字的
 
 ==== sentences
 
 === text4
 ==== vocabulary
-- intellectual:
+- intellectual: 知识分子
 - pursuit: 爱好
-- preoccupation:
-- unfold:
-- Puritan:
-- virtuosity:
-- extensively:
+- preoccupation: 令人全神贯注的失误
+- Puritan: 清教徒
+- virtuosity: 技艺
+- extensively: 广泛地
 - reach: 被...看到/听到
-- dependent:
-- superstitious quality:
-- emigrate:
-- sermon:
-- illusory:
+- dependent: 侍从
+- superstitious quality: 迷信色彩
+- emigrate: 移居
+- sermon: 说教
+- comparatively: 相对地
+- illusory: 虚幻的
 
 ==== sentences
 
 === 七选五
 ==== vocabulary
-- worldly:
-- virtually:
-- diffusionism:
-- ritual:
-- signify:
+- worldly: 世俗的
+- virtually: 几乎
+- diffusionism: 文化传播理论
+- ritual: 仪式
+- signify: 预示
 
 ==== phrases
-- attribute ... to ...:
+- attribute ... to ...: 把...归因于...
 
 ==== sentences
 == 2010
@@ -605,134 +601,132 @@
 - being experimented upon: 受试者
 - subject： 实验对象
 - econometric: 计量经济学的
-- plateau:
-- perplexing:
-- mischievous:
-- enlightening:
-- duly:
+- plateau: 稳定期/停滞期
+- perplexing: 令人费解的
+- mischievous: 恶作剧的
+- enlightening: 有启发性的
+- duly: 如期的
 
 ==== phrases
-- in store:
-- slack off:
-- pin down:
+- slack off: 萧条
+- pin down: 确切说明
 
 === text1
 ==== vocabulary
-- inexorable:
-- coverage:
-- learned:
-- deem:
-- circulation:
-- dirt-cheap:
-- ornament:
-- far-off:
-- calling:
-- cricket:
-- foremost:
-- stylist:
+- inexorable: 不可阻挡地
+- coverage: 报道
+- learned: 博学的
+- deem: 认为
+- circulation: 发行
+- dirt-cheap: 廉如土
+- ornament: 装饰，点缀
+- far-off: 遥远的
+- calling: 天职
+- cricket: 板球
+- foremost: 第一的
 - save: prep/conj 除了
-- revival:
-- prospect:
-- upholster:
-- prose:
-- headlong:
-- retreat:
-- radical:
+- revival: 复兴
+- prospect: 前景
+- upholster: 装饰（家具）
+- prose: 散文
+- headlong: 迅速
+- retreat: 撤退
+- radical: 根本的；激进的
 - horizon: 范围，见识
-- prominent:
+- prominent: 卓越的；显著的
 
 ==== phrases
-- to the point of:
-- be taken for granted that...:
+- to the point of: 达到...的程度
+- be taken for granted that...: 被视作理所当然
 - be about sth: 忙于
-- keep one's own end up:
+- keep one's own end up: 再困难前坚持下去
 
 ==== sentences
 
 === text2
 ==== vocabulary
-- scale akc:
-- abuzz:
+- abuzz: 嘈杂的
 - about-face: 政策180度大转变
 - pool: 集中
-- filing:
-- issue:
-- practice:
-- hedge:
-- uphold:
-- attorney:
-- goodwill:
-- incidence:
-- looming:
-- prevailing:
+- filing: 卷宗
+- issue: 发出
+- practice: 惯例
+- hedge: 减轻损失
+- uphold: 维持（原判；裁决）
+- attorney: 律师
+- goodwill: 善意
+- incidence: 发生率
+- looming: 潜在的
+- prevailing: 普遍的
 
 ==== phrases
 
-- stake out exclusive rights to ...:
-- comply with:
+- scale back: 缩减
+- stake out exclusive rights to ...: 宣布对...的独占权
+- comply with: 顺从
 
 ==== sentences
 
 === text3
 ==== vocabulary
-- epidemic:
+- epidemic: 泛滥
 - influential: 有影响力的人
-- informed:
-- compelling:
-- plausible-sounding:
-- embrace:
-- cursory:
-- outsize presence:
-- interpersonal:
-- cascade:
+- informed: 见识广博的
+- compelling: 令人信服的
+- plausible-sounding: 听起来有道理的
+- embrace: 乐意采纳
+- cursory: 粗略的
+- outsize presence: 特大的影响力
+- interpersonal: 人际
+- cascade: 瀑布；大量倾泻
 
 ==== sentences
 
 === text4
 ==== vocabulary
-- standard-setter:
-- moan:
-- compromise:
+- standard-setter: 标准制定者
+- moan: 抱怨
+- compromise: 陷入危险
 - carry: 出售
-- revive:
-- management:
-- book value:
-- pension:
-- give in to:
+- revive: 复兴
+- management: 管理部门
+- book value: 帐面价值
+- pension: 养老金
 - invite: 招致
 - concession:
 - diminish:
 - evade:
 
 ==== phrases
-- take aim at:
-- rush through:
-- do likewise:
+- take aim at: 把矛头对准
+- rush through: 匆匆修改
+- do likewise: 采取同样的做法
+- give in to: 屈服
 
 ==== sentences
 
 === 七选五
 
 ==== vocabulary
-- food service segment:
-- loom:
-- acclaim:
-- gigantic:
-- intricacy:
-- unseat:
-- entrenched:
+- food service segment: 食品服务业
+- loom: 隐约出现
+- acclaim: 给予高度评价
+- gigantic: 巨大的
+- intricacy: 错综复杂的
+- unseat: 罢免
+- entrenched: 根深蒂固的
 - building blocks: 组成部分
-- sluggish:
+- sluggish: 缓慢的
 - mask: 掩盖
 - margin: 盈利
-- consolidate:
-- deter:
-- reap:
+- consolidate: 合并
+- deter: 阻止
+- reap: 收获
 
 ==== phrases
-- at a standstill:
-- rake in substantial:
-- Despite variations in detail:
+- at a standstill: 处于停滞期
+- rake in substantial ...: 迅速大量获得...
+- Despite variations in detail: 尽管细节上有所不同
 - try one's hand: 一试身手
 - stand to: 很可能
 
@@ -741,31 +735,31 @@
 
 === 完形
 ==== vocabulary
-- tone:
-- conceivably:
+- tone: 结实
+- conceivably: 可想象的
 - contract: 收缩
-- impair:
-- measurable:
+- impair: 损害
+- measurable: 显著的
 - consequently: 因此（因果关系逻辑结果）
 
 ==== phrases
-- die down:
+- die down: 逐渐变弱
 
 === text1
 ==== vocabulary
 - appointment: 聘请
 - favorable: 称赞的
 - sober-sided: 严肃的
-- unpretentious:
+- unpretentious: 不爱炫耀的
 - air: 外表
-- formidable:
-- conductor:
-- orchestra:
-- hitherto:
-- troupe:
-- institution:
-- repertoire:
-- incur:
+- formidable: 令人敬畏的
+- conductor: 指挥家
+- orchestra: 管弦乐队
+- hitherto: 迄今
+- troupe: 剧团
+- institution: 制度
+- repertoire: 全部曲目
+- incur: 招致
 
 ==== phrases
 - with no air of: 没...的架子
@@ -774,19 +768,19 @@
 
 === text2
 ==== vocabulary
-- straight up:
-- cloak:
+- straight up: 直截了当的
+- cloak: 掩盖
 - line up: 排队
 - post: 职位
 - cloud: 使...蒙上阴影
 - deputy chief: 副总裁
 - turnover: 人事变更率
 - pick up: 恢复
-- abound:
-- adhere to:
+- abound: 大量存在
+- adhere to: 坚持
 - sitting CEO: 现任CEO
-- disgrace:
-- spur:
+- disgrace: 丢脸
+- spur: 驱使
 
 ==== phrases
 - came right out: 公开表明
@@ -798,11 +792,11 @@
 === text3
 ==== vocabulary
 - print advertisements: 平面广告
-- leverage:
-- initiator:
-- hostage:
-- stakeholder:
-- well-orchestrated:
+- leverage: 利用
+- initiator: 创始人
+- hostage: 人质
+- stakeholder: 利益相关者
+- well-orchestrated: 精心策划的
 
 ==== phrases
 - engage with: 与...交流
@@ -811,20 +805,20 @@
 
 === text4
 ==== vocabulary
-- insightful：
-- provocative:
+- insightful: 有洞察力的
+- provocative: 挑衅的
 - fulfilling: 令人满足的
-- dampen:
-- newsstand:
+- dampen: 使扫兴
+- newsstand: 报摊
 - celebrate: 赞扬
-- procreation:
+- procreation: 生育
 - kitten-killing: 杀小猫
-- provoke:
-- in progress: 过程中
-- retrospect:
+- provoke: 煽动
+- retrospect: 回想
 
 ==== phrases
 - anything less than: 绝不是
+- in progress: 过程中
 - round-the-clock: 夜以继日
 
 ==== sentences
@@ -833,38 +827,38 @@
 
 ==== vocabulary
 - grounding: 基础训练
-- canon:
+- canon: 原则，准则
 - professionalise: 专业化
-- take its toll:
-- transmissible:
-- transferable:
-- monopoly:
-- exclusionary:
-- holistic:
+- transmissible: 可传递的
+- transferable: 可转用的
+- monopoly: 垄断
+- exclusionary: 排外的
+- holistic: 全面的
 
 ==== phrases
 - seize on: 大为关注
+- take its toll: 产生恶果
 
 ==== sentences
 == 2012
 
 === 完形
 ==== vocabulary
-- legitimacy:
+- legitimacy: 合法
 - the rule of law: 法治
 - justice: (cn.)法官
-- judiciary:
-- framer:
-- ideological:
+- judiciary: 司法部
+- framer: 制订者
+- ideological: 意识形态的
 - compromise: 违背；达不到；使遭受危险
-- suspect:
-- bound:
-- prone:
-- resort:
+- suspect: 怀疑
+- bound: 绑定
+- prone: 有倾向的
+- resort: 诉诸
 - cultivate: 结交，获得
 - distort: 扭曲
 - address: 处理
-- amiable:
+- amiable: 亲切友好的
 - accountable: 负有责任的
 
 === text1
@@ -873,16 +867,16 @@
 - group dynamics: 群体互动
 - recipient: 接受者
 - critique: 批评
-- lameness:
-- spot-on:
-- mobilize:
-- glaring:
-- virtuous:
-- tactic:
+- lameness: 缺陷
+- spot-on: 准确的
+- mobilize: 动员
+- glaring: 明显的
+- virtuous: 有道德的
+- tactic: 策略
 - engineer: 策划
 
 ==== phrases
-- take a page from:
+- take a page from: 向...学习
 
 ==== sentences
 
@@ -890,20 +884,20 @@
 ==== vocabulary
 - justified: 合理的
 - renege on: 食言
-- longstanding:
+- longstanding: 长期的
 - commitment: 承诺
-- abide by:
-- constitutionality:
+- abide by: 遵守
+- constitutionality: 合宪性
 - desperate: 孤注一掷的
 - reactor: 反应堆
 - condition: 条件
 - operate: 运营
-- enrage:
-- pledge:
+- enrage: 激怒
+- pledge: 正式承诺
 - dishonor: 违背
 - extension: 延期
-- patchwork:
-- defy:
+- patchwork: 补丁
+- defy: 藐视
 
 ==== phrases
 - go along: 同意
@@ -912,11 +906,11 @@
 
 === text3
 ==== vocabulary
-- deception:
-- protoscience:
+- deception: 欺骗
+- protoscience: 源科学
 - stake: 用桩支撑
-- refutation:
-- evolution:
+- refutation: 反驳
+- evolution: 发展
 
 ==== phrases
 - stake out a claim: 公开声明对...拥有所有权
@@ -925,28 +919,28 @@
 
 === text4
 ==== vocabulary
-- unionist:
-- civil servant:
-- prime:
+- unionist: 工会主义者
+- civil servant: 公务员
+- prime: 全盛时期
 - left of centre: 左倾（激进）
-- patrol:
+- patrol: 巡查
 - charter school: 特许学校
 - merit pay: 绩效工资
-- clamp down: 镇压
-- hardline:
+- hardline: 强硬的
 - augment: 增加
 
 ==== phrases
+- clamp down: 镇压
 - go back a long way: 回溯到很久以前
 
 ==== sentences
 
 === 七选五
 ==== vocabulary
-- fleet:
-- warrior:
-- superfluous:
-- millennium:
+- fleet: 飞逝
+- warrior: 勇士
+- superfluous: 多余的
+- millennium: 千禧年
 - mount: 施加
 
 ==== phrases
@@ -957,49 +951,49 @@
 
 === 完形
 ==== vocabulary
-- speculate:
-- inability:
-- theorise:
-- defendant:
+- speculate: 推测
+- inability: 不能
+- theorise: 提出理论
+- defendant: 被告
 - applicant: 申请者
 - grant: 授予
 - big picture: 大局
 - thoughtless: 考虑不周的
-- defensible:
-- fluctuate:
-- disregard:
+- defensible: 可辩解的
+- fluctuate: 涨落，波动
+- disregard: 忽视
 
 ==== phrases
-- on the whole:
+- on the whole: 总体而言
 
 === text1
 ==== vocabulary
 - high fashion: 高端时尚
-- feverish:
-- indictment:
-- turnarounds:
-- inventory:
-- knit:
+- feverish: 发热的
+- indictment: 控告
+- turnarounds: 转变
+- inventory: 存货
+- knit: 编织衣物
 - strain: 极限相关
-- vanity:
-- accusation:
-- satire:
-- exposure:
+- vanity: 虚荣心
+- accusation: 谴责
+- satire: 讽刺
+- exposure: 揭露
 
 ==== phrases
-- at odds with:
+- at odds with: 与...相矛盾
 - in volumes: 大量
-- knock off:
+- knock off: 迅速而轻松地完成某事
 
 ==== sentences
 
 === text2
 ==== vocabulary
 - fine-grained: 细粒度的
-- alliance:
+- alliance: 联盟
 
 ==== phrases
-- set off the row:
+- set off the row: 挑起争论
 - better/worse off: 好转/恶化
 - press on: 坚定地继续
 - on that count: 在那方面
@@ -1008,18 +1002,18 @@
 
 === text3
 ==== vocabulary
-- glow:
-- utopia:
-- gloominess:
-- flagship:
-- mechanical:
-- willfully:
-- dazzling:
-- envisage:
+- glow: 热
+- utopia: 乌托邦
+- gloominess: 沮丧
+- flagship: 旗舰
+- mechanical: 机械的
+- willfully: 任性固执的
+- dazzling: 耀眼地
+- envisage: 想象
 - identified: 确定
 - descendant: 后代
-- fad:
-- rosy:
+- fad: 时尚
+- rosy: 美好的
 
 ==== phrases
 - mark time: 计时
@@ -1029,16 +1023,16 @@
 === text4
 ==== vocabulary
 - contest: (v)质疑
-- provision:
+- provision: 条款
 - enforce: 条款
-- intrude:
+- intrude: 闯入
 - statute: 法规
 - exclusively: 唯一地
-- overturn:
-- withhold
+- overturn: 推翻
+- withhold: 保密
 
 ==== phrases
-- knock out:
+- knock out: 破坏
 - come in contact with: 接触到
 - go back to: 追溯到
 - in essence: 实际上
@@ -1047,27 +1041,26 @@
 
 === 七选五
 ==== vocabulary
-- flourish:
-- paraphrase:
-- enact:
+- flourish: 繁荣的
+- paraphrase: 解释
+- enact: 制订
 
 ==== phrases
 - up in arms: 竭力反对
 
 ==== sentences
-- The number of social science students world wide has *swollen* by about 11%
-  every year since 2000.
+- The number of social science students world wide has *swollen* by about 11% every year since 2000.
 
 == 2014
 
 === 完形
 ==== vocabulary
-- clarity:
+- clarity: 清晰
 - uneven: 不平均的
 - obscure: 鲜为人知的
 - wellbeing: 幸福
 - outlook: 看法/展望
-- roundabout:
+- roundabout: 交通环岛
 - sharpness: 敏锐度
 
 ==== phrases
@@ -1077,36 +1070,36 @@
 ==== vocabulary
 - chancellor: 大臣
 - exchequer: 财政部
-- upfront:
+- upfront: 预先
 - CV: 简历
 - benefit: 津贴，救济金
 - allowance: 津贴
-- indulgent:
-- zeal:
+- indulgent: 放纵的
+- zeal: 热情
 - claimant: 申请人
 - prospect: 可能性
 - entitlement: 拥有/获得某物的权利
 
 ==== phrases
-- stay off:
-- complete with:
+- stay off: 远离
+- complete with: 装备有某物
 
 ==== sentences
 
 === text2
 ==== vocabulary
 - generate: 招惹
-- skyscraper:
+- skyscraper: 摩天大楼
 - nuisance-lawsuit: 危害公共利益的行为
 - filer: 诉讼律师
-- tort:
+- tort: 民事侵权行为
 - costly: 昂贵的
 - the bar: 法律界
 - sensible: 明智的
 - around: 存在
 - body: 团体
-- stern:
-- guild:
+- stern: 严格的
+- guild: 协会
 
 ==== phrases
 - pile into: 扎堆进
@@ -1115,15 +1108,15 @@
 
 === text3
 ==== vocabulary
-- lucrative:
+- lucrative: 利润丰润的
 - benefactor: 捐助人
-- upstart:
+- upstart: 暴富的
 - exercise: 活动，任务
 - self-promotion: 自我宣传
-- cement:
+- cement: 加强
 - status quo: 现状
-- perpetuate:
-- scatter:
+- perpetuate: 使持续
+- scatter: 分散的
 - outgrouwn: 长得太大而不适用
 - row: 争议
 - grace: 优雅
@@ -1139,20 +1132,20 @@
 - top-tier: 顶尖的
 - business executive: 企业高管
 - crafting: 精致
-- coherent:
-- illiberal:
-- deprive:
+- coherent: 连贯的
+- illiberal: 缺少人文教育的
+- deprive: 剥夺
 - progressive: 进步的
-- self-reliance:
-- set back:
-- illuminate:
-- contemptuous:
-- tolerant:
+- self-reliance: 自力更生
+- illuminate: 说明
+- contemptuous: 蔑视的
+- tolerant: 宽容的
 - exclusive: 专注于
 
 ==== phrases
 - in the making: 在发展中
 - at home: 运用自如的
+- set back: 阻碍
 
 ==== sentences
 
@@ -1160,21 +1153,21 @@
 ==== vocabulary
 - megalith: (史前)巨石
 - hominid: 人科的
-- ornate:
-- ceremonial:
+- ornate: 华丽的
+- ceremonial: 礼仪的
 - complexes: 综合楼群
 - sample: 抽样
-- excavation:
-- terrain:
+- excavation: 挖掘
+- terrain: 地层
 - radar: 雷达
 - pharaoh: 法老
-- rubble:
-- comb:
+- rubble: 碎石
+- comb: 梳理
 - antique: 古玩
 - dealer: 商人
-- engrave:
+- engrave: 雕刻
 - seal: 印章
-- pinpoint:
+- pinpoint: 精准定位
 - pottery: 陶器
 
 ==== phrases
@@ -1185,50 +1178,52 @@
 
 === 完形
 ==== vocabulary
-- genome-wide:
-- kin:
+- genome-wide: 全基因组
+- kin: 亲戚
 - ethnic: 民族的
 - see: 确保，设法做到
 
 ==== sentences
 - _There's more to it._ 事情没那么简单。
+
 === text1
 ==== vocabulary
-- abdicate:
-- monarchy:
-- majestic:
-- argument:
-- polarise:
-- embody:
-- transcendence:
-- infest:
-- absolutist:
-- bizarre:
-- intrusiveness:
+- abdicate: 退位
+- monarchy: 君主制
+- majestic: 庄严的
+- argument: 论据
+- polarise: 两极分化的
+- embody: 表现；象征
+- transcendence: 超越
+- infest: 大批滋生
+- absolutist: 专制主义者
+- bizarre: 奇怪的
+- intrusiveness: 侵扰
 - well-heeled: 富有的
 - granny: 老奶奶
 - ease: 缓和
 - reign: 统治
 
 ==== phrases
-- eat one's words:
-- stand down:
-- take a tough line:
+- eat one's words: 承认自己说错了话
+- stand down: 辞职
+- the writing is on the wall: 厄运来临
+- take a tough line: 采取强硬态度
 
 ==== sentences
 
 === text2
 ==== vocabulary
-- warrant:
-- refrain:
+- warrant: 搜查令
+- refrain: 抑制
 - sweeping: 彻底的
 - implication: 可能的影响
-- reckless:
-- discernable:
-- defendant:
+- reckless: 不顾后果的
+- discernable: 可认识的
+- defendant: 被告人
 - lame: 差劲的，蹩脚的
-- arrestee:
-- correspondence:
+- arrestee: 被捕者
+- correspondence: 通信
 - line-drawing: 界限划定
 - cite: 引证
 - swallow: 忍受
@@ -1240,9 +1235,9 @@
 
 === text3
 ==== vocabulary
-- irreproducibility:
-- manuscript:
-- impel:
+- irreproducibility: 不可复制性
+- manuscript: 原稿
+- impel: 推动
 - drive: 驱动
 - advisory: 忠告的
 - model: 模仿
@@ -1256,16 +1251,16 @@
 
 === text4
 ==== vocabulary
-- unsettling:
-- dearth:
-- integrity:
+- unsettling: 令人不安的
+- dearth: 缺乏
+- integrity: 正直
 - sorting mechanism: 分选机制
 - conspire: 阴谋策划
 - await: 等候
 - frame: verb. 表达
 - revelation: 揭发
-- cunning: 狡诈
-- marginalized:
+- cunning: 狡诈的
+- marginalized: 边缘化
 
 ==== phrases
 
@@ -1276,14 +1271,14 @@
 === 七选五
 ==== vocabulary
 - comprehend: 理解
-- assimilation:
+- assimilation: 吸收
 - retrieval: 检索
-- read off:
-- timeless:
+- read off: 快速读完
+- timeless: 永恒的
 - pointless: 无益的
 - discourse entity: 语篇实体
 - mouthpiece: 代言人
-- ascribe:
+- ascribe: 赋予
 
 ==== phrases
 - draw on: 利用
@@ -1510,7 +1505,7 @@
 - posthumous:
 - satirist: 讽刺作家
 - panorama: 全貌
-- errand:
+- errand: 差事
 - shorthand:
 - stenographer:
 - transcribe:
