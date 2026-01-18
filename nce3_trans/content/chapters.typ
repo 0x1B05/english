@@ -1,4 +1,4 @@
-#import "../template.typ": *
+#import "@local/notes:0.1.0": *
 
 = A puma at large
 
@@ -149,24 +149,24 @@ Has it happened to you? Have you ever put your pants into a washing machine, and
 
 The Great St. Bernard Pass connects Switzerland to Italy. At 2, 473 metres, it is the highest mountain pass in Europe. The famous monastery of St. Bernard, which was founded in the eleventh century, lies about a mile away. 
 
-#example("1")[
+#example(title: "1")[
   The Great St. Bernard Pass, #underline()[standing at 2,473 metres], connects Switzerland to Italy and #underline()[holds the distinction of being the highest mountain pass] in Europe, and about a mile away #underline()[lies the famous St. Bernard Monastery], founded in the eleventh century.
 ]
 
-#example("2")[
+#example(title: "2")[
   The highest mountain pass in Europe, the Great St. Bernard pass, stands at #underline()[an impressive 2, 473 metres], connecting Switzerland to Italy.
   #underline[_A mile away from this lofty pass lies_ the famous St. Bernard monastery], founded in 11th century.
 ]
 
 For hundreds of years, St. Bernard dogs have saved the lives of travellers crossing the dangerous Pass. These friendly dogs, which were first brought from Asia, were used as watchdogs even in Roman Times.
 
-#example("1")[
+#example(title: "1")[
   For hundreds of years, St. Bernard dogs, #underline()[a friendly breed] first brought from Asia were used as watchdogs even in Roman Times and have saved the lives of travellers crossing the dangerous Pass.
 ]
 
 Now that a tunnel has been built through the mountains, the Pass is less dangerous, but each year, the dogs are still sent out into the snow whenever a traveller is in difficulty. Despite the new tunnel, there are still a few people who rashly attempt to cross the Pass on foot.
 
-#example("1")[
+#example(title: "1")[
   Now that a tunnel has been built through the mountains, the Pass is less dangerous, but each year, the dogs are still sent out into the snow whenever a traveller is in difficulty, #underline()[for] there are still a few people who rashly attempt to cross the Pass on foot #underline()[despite the new tunnel].
 ]
 
@@ -174,17 +174,17 @@ During the summer months, the monastery is very busy, for it is visited by thous
 
 In winter, however, life at the monastery is quite different. The temperature drops to -30° and very few people attempt to cross the Pass. The monks prefer winter to summer for they have more privacy. The dogs have greater freedom, too, for they are allowed to wander outside their enclosure. The only regular visitors to the monastery in winter are parties of skiers who go there at Christmas and Easter. These young people, who love the peace of the mountains, always receive a warm welcome at St. Bernard's monastery.
 
-#example("my version")[
+#example(title: "my version")[
   In winter, however, life at the monastery is quite different, for the temperature drops to -30° and very few people attempt to cross the Pass.
   The monks prefer winter to summer for they have more privacy, #underline()[either do the dogs have greater freedom], for they are allowed to wander outside their enclosure.
   The only regular visitors to the monastery in winter are parties of skiers who love the peace of the mountains and go there at Christmas and Easter, always receving a warm welcome at St. Bernard's monastery.
 ]
-#example("Larry's version")[
+#example(title: "Larry's version")[
   #underline()[As winter descends upon the monastery, bringing temperatures to as low as -30° and *dissuading all but a brave few from attempting to cross the Pass*], life #underline()[undergoes a shift] here, where monks #underline()[find solace] in the winter months, #underline()[appreciating the heightened privacy], and the dogs too, #underline()[*revel* in increased freedom] as they roam beyond their usual enclosure.
 During this season, the exclusive visitors to the monastery consist of skiing parties attracted by the mountain's *serene ambiance*, who are warmly welcomed at St. Bernard during the festival periods of Christmas and Easter.
 ]
 
-#tip("Tip")[
+#tip-box(title: "Tip")[
     全是长句会非常令人窒息，要注意长短结合，长句中间搭配相应的短句。这里只是用作练习。
 ]
 
@@ -225,7 +225,7 @@ In the months of summer, the monastery was busy, for thousands of people drived 
 
 Recently, New York Animal Medical Center have studied 132 cats for 5 months. All this cats share the same experience#strike[ falling from the high] #underline[: they had fallen off the high], #strike[but] #underline[yet] only eight of them died #strike[for .. or injured] #underline[from shock or injuries]. Of course, it's ideal to do such an interesting research in New York #strike[where] #underline[which] is no lack#underline[/shortage] of #strike[high] #underline[tall] buildings#strike[ and windows] #underline[. There are plenty of *high-rise windowsills*] to fall from. #strike[A cat named Sabray] #underline[One cat, Sabrina, ] had once fell from #strike[the 32th floor] #underline[32 storeys], #underline[yet] only #strike[making one tooth broken] #underline[suffered fromm a broken tooth]. "Cats #strike[are just like trained ...] #underline[behave like well-trained *paratroopers,*]" said a doctor. It seems that the #strike[farer] #underline[further] the cats fall , #strike[the less possibility they get hurt] #underline[the less they are likely to injure themselves]. #strike[In the long process of falling] #underline[In a long drop], they can reach the speed of 60 miles #strike[per] #underline[an] hour or even #strike[faster] #underline[more]. When falling at a high speed, cats have time to relax themselves, streching their #strike[ends] #underline[legs] like a flying squrrel, which #strike[adds] #underline[increases] the #strike[air-force] #underline[air-resistance] and alleviate the #underline[shock of impact] when they #strike[arrive] #underline[hit] the ground.
 
-#tip("Tip")[
+#tip-box(title: "Tip")[
     - 想使用are, is之类的be动词的时候想想有没有其他的系动词可以表达更精确的意思。
 ]
 
@@ -368,7 +368,7 @@ After Mrs. Richard's husband going for work, she sent her children to school and
 
 Once she was into the dining room, there was a knock #strike[from] #underline[on] the front door. She knew the person must be the baker, who she had told if she failed to open the door, just went straight in and put the bread on the kitchen table. #strike[Mrs Richard didn't want to terrify this poor guy] #underline[No wanting to frighten this poor guy], #strike[so] she quickly #strike[hid] #underline[went hiding] into the small store room under the stairs. Hearing the front door #strike[opened] #underline[open], heavy steps in the corridor, suddenly the store room's door was opened and a man came in. It occurred to Mrs Richard it must be the one who was appointed by the #strike[Electrical] #underline[Electricity] Company to read the #strike[metres]#underline[metre]. She uttered, "It's only me, don't be afraid." #strike[And then she want to] #underline[, trying to] give a explanation but it had been late. The man let out a shout and stepped back a few #strike[steps] #underline[paces] in a horror. Mrs Richard walked towards him, only saw him flee, slamming the door and running away.
 
-#tip("Tip")[
+#tip-box(title: "Tip")[
     - hear the door open: 这里的open是动词不定式省略to。
     - 如果是hear the door opened, 正确的语法应该是hear the door being opened, 但是一般不这么用。
 ]
@@ -693,6 +693,12 @@ Eric, the #strike[elder brother]#underline[eldest son] in the family, was much e
 理查德·科尔森生前是我们镇上最有名望的人之一。他是个精明能干、有钱的商人，但镇上大部分人对他生活中的这一个方面几乎一无所知。大家都管他叫迪基。早在他去世前很久，他的古怪行为就成了传奇故事了。
 
 迪基痛恨势利小人。尽管他有一辆豪华小轿车，但却很少使用，常常喜欢以步代车。即使大雨倾盆，他也总是拒绝带伞。一天，他遇上一场瓢泼大雨，淋得透湿。他走进一家高级商店，要为妻子买一块价值300英镑的手表。但店员见他浑身泥水的样子，竟不肯接待他。迪基二话没说就走了。一会儿，他带着一个大布口袋回到店里。布袋很沉，他重重地把布袋扔在柜台上。店员让迪基走开，他置之不理，并要求见经理。经理认出了这位顾客，表示了深深的歉意，还严厉地训斥了店员。店员为迪基拿出了那块手表，迪基把布口袋递给他，口袋里面装着300镑的便士。他坚持要店员点清那些硬币后他才离去。这些硬币加在一起共有30，000枚！还有一次，他邀请一些著名评论家来参观他私人收藏的现代画。这次展览引起报界广泛注意，因为这些画名义上是名家的作品，事实上是迪基自己画的。他花了4年时间策划这出精心设计的闹剧，只是想证明评论家们有时并不了解他们所谈论的事情。
+
+== 回译
+
+=== 1st
+
+A real eccentric man 
 
 #pagebreak()
 = A lost ship

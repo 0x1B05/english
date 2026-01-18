@@ -1,4 +1,4 @@
-#import "../template.typ": *
+#import "@local/notes:0.1.0": *
 
 = A puma at large
 

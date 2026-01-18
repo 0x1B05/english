@@ -1,4 +1,4 @@
-#import "../template.typ": *
+#import "@local/notes:0.1.0": *
 
 = 虚拟语气
 
@@ -22,7 +22,7 @@
 |现在|【would/could/might/should + do】|【did】 / 【were】|
 |过去|【would/could/might/should + have done】|【had done】 / 【had been】|
 ]
-#tip("Tip")[
+#tip-box(title: "Tip")[
     时态倒退一格。
 ]
 
@@ -36,7 +36,7 @@
 |其他乱七八糟的虚拟句|||
 ]
 
-#tip("Tip")[
+#tip-box(title: "Tip")[
     分为两大类，假设和主观意愿。
 ]
 
@@ -51,7 +51,7 @@
 明天就是酒吧舞大学的招聘会了，很多大企业都会来招聘。傍晚的时候，Michael 和 Sally 在校园漫步…
 
 - Sally: “ Jobs are so hard to come by these days. _If I can't find one and don't have any income, will you still love me?_”
-#tip("Tip")[
+#tip-box(title: "Tip")[
     If I *couldn't* find one and *didn't* have any income, *would* you still love me?
     这样改成虚拟就说明很容易找到工作。
 ]
@@ -63,11 +63,11 @@
 - Sally: “ You‘re just boasting. ”
 - Michael: “ Just kidding! _But if Tancent offers me a job, I might just take it._ ”(Tancent很可能要，但是Michael不太想去)
 
-#tip("Tip")[
+#tip-box(title: "Tip")[
     过去式的情态动词本质上就是虚拟语气，例如Could you help me? could可能性更小，所以表达起来更加委婉。
 ]
 
-#example("Example")[
+#example(title: "Example")[
 Sally: 
 - “ If I *can‘t* find one and don’t have any income, will you still love me? ”
 - “ If I *couldn’t* find one and didn’t have any income, would you still love me? ”
@@ -78,7 +78,7 @@ Sally:
 区别：情态动词本身含义的区别就是句子含义的区别。
 ]
 
-#example("Example")[
+#example(title: "Example")[
 Michael: 
 - “ If we could wait, we’d be able to buy a house for peanuts soon. ”
 - “ If we can wait, we’ll be able to buy a house for peanuts soon.”
@@ -87,7 +87,7 @@ Michael:
 - “ If we waited, we’d be able to buy a house for peanuts soon.”
 ]
 
-#example("Example")[
+#example(title: "Example")[
 Michael: 
 - “ If Apple wanted me, I would consider it.”
 - “ But if Tancent offers me a job, I might just take it. ”
@@ -96,7 +96,7 @@ Michael:
 - “ But if Tancent offers me a job, I might just take it. ”（ Tancent 大概率会给我offer，但我不太想去。）
 - “ But if Tancent offers me a job, I may just take it. ”（ Tancent 大概率会给我offer，我也有点想去。）
 - “ But if Tancent offered me a job, I might just take it. ”（ Tancent 大概率压根就不会给我offer…）
-#tip("Tip")[
+#tip-box(title: "Tip")[
 可以混搭
 ]
 ]
@@ -113,7 +113,7 @@ Michael:
 - Michael: “ Yeah, it's unbelievable. But a million only covers the down payment. *_If we had five million, we could buy a house outright. Then, you wouldn't have to work. I'd take care of you._* ”
 - Sally: “ I'm capable of working, thank you very much. I don't even dare to dream of a company like Apple. *_If Tancent would hire me, I'd be over the moon._* ”
 
-#example("Example")[
+#example(title: "Example")[
 Sally:
 - “We can buy a house right away! ”
 - “We can buy a house right away (if you have a job with a million-dollar salary).”
@@ -148,7 +148,7 @@ Sally:
 - Susan: “ So just because my family has money, you don't like me? *_If my dad was a regular farmer like Sally's, would you fancy me?_* ”
 - Michael: “ *_Even if Apple wasn't in the mix, I still wouldn't be into you, Susan._* We're just not meant to be. ”
 
-#tip("Tip")[
+#tip-box(title: "Tip")[
     口语里面都使用was，书面语必须用were。
 ]
 
@@ -241,7 +241,7 @@ FIVE YEARS LATER…
 
 - If Apple wanted me, I would consider it. [无法倒装]
 - If we had five million, we could buy a house outright. [无法倒装]
-#tip("Tip")[
+#tip-box(title: "Tip")[
     针对did的形式无法倒装，要有助动词才可以。
 ]
 
@@ -258,7 +258,7 @@ FIVE YEARS LATER…
   - Even if Apple weren’t in the mix, I still wouldn‘t be into you, Susan.
   - Even were Apple not in the mix, I still wouldn‘t be into you, Susan. [罕用，不推荐]
   - Even weren’t Apple in the mix, I still wouldn‘t be into you, Susan. [罕用，不推荐]
-  #tip("Tip")[
+  #tip-box(title: "Tip")[
       even if/本身包含否定的，不推荐倒装。
   ]
 
@@ -357,7 +357,7 @@ Max 和父母发生了激烈的争吵…
 - Michael: “ Yeah, but none of that matters anymore. At least we're happy now, aren't we? *_If we had chosen money back then, we wouldn't have the happy life we have now, nor could we expect a better future!_* ”
 - Sally: “ Darling, you're so kind! ”
 
-#tip("Tip")[
+#tip-box(title: "Tip")[
     非常灵活，爱咋咋。
 ]
 
@@ -409,7 +409,7 @@ Max 和父母发生了激烈的争吵…
 - Michael *insisted* that this marriage be ended as soon as possible.(虚拟语气)
 - Susan *insisted* that it was Michael who was at fault.(这里是陈述事实)
 
-#tip("Tip")[
+#tip-box(title: "Tip")[
 不要拘泥于形式，主要看是不是在表达主观意愿。
 ]
 
@@ -418,7 +418,7 @@ Max 和父母发生了激烈的争吵…
 
 要点：① 熟悉上述标志词；② 判断上述标志词是否具备虚拟意义；③ 标志词的各种变体，要具备分辨能力。
 
-#example("Example")[
+#example(title: "Example")[
 - The attorney *advised* that Sally take no property because she was at fault for getting pregnant with Michael's child.
   - It is *advisable* that Sally take no property because she was at fault for getting pregnant with Michael's child.
   - The attorney *thought* it advisable that Sally take no property because she was at fault for getting pregnant with Michael's child.
@@ -444,7 +444,7 @@ Max 和父母发生了激烈的争吵…
 - It’s time (that) you divorced Susan. （你应该跟 Susan 离婚。）
 - It’s about time (that) you divorced Susan. （你也该跟 Susan 离婚了吧。）
 - It’s high time (that) you divorced Susan. （你可是早就该跟 Susan 离婚了。）
-#tip("Tip")[
+#tip-box(title: "Tip")[
 - It is about time -> 语气弱
 - It is high time -> 语气强
 ]
@@ -463,7 +463,7 @@ Max 和父母发生了激烈的争吵…
 
 === 非主流形式虚拟句【表示意愿】
 
-#tip("Tip")[
+#tip-box(title: "Tip")[
 直接背，没啥规则。
 ]
 
@@ -508,7 +508,7 @@ their current stable life.
 - I’ll bring an umbrella in case it rained.(概率更小)
 - I’ll bring an umbrella in case it might/should/would rain.(更更小)
 
-#tip("Tip")[
+#tip-box(title: "Tip")[
 虚拟语气非常自由。觉得可能性小那就可以虚拟，觉得可能性大就可以不虚拟。
 ]
 ==== I wish + 宾语从句：

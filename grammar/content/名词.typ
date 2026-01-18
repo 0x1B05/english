@@ -1,11 +1,11 @@
-#import "../template.typ": *
+#import "@local/notes:0.1.0": *
 
 = 名词
 
 名词短语： 限定词+形容词+名词，每一个部分都有可能缺失。
 限定词的部分，如果后面的名词是复数或者不可数，就可以采用*零冠词*
 
-#tip("Tip")[
+#tip-box(title: "Tip")[
     句子中的名词，哪怕只有一个字，也要当作由三个部分组成的名词短语来看。
 ]
 
@@ -27,11 +27,11 @@
 - gold(金)
 - paper(纸)
 
-#tip("Tip")[
+#tip-box(title: "Tip")[
     如果看到物质名词前面加了a或者末尾加了s，那已经不是物质名词了，已经当作可数的普通名词来用了。
 ]
 
-#example("Example")[
+#example(title: "Example")[
   - I have a _paper_ to write tonight.(一份报告)
   - Drinking _a couple of beers_ a day won't do you any harm.(几瓶啤酒)
 ]
@@ -43,11 +43,11 @@
 - wisdom
 - eternity
 
-#tip("Tip")[
+#tip-box(title: "Tip")[
     如果看到抽象名词前面加了a或者末尾加了s，已经当作可数的普通名词来用了，意义往往不同。
 ]
 
-#example("Example")[
+#example(title: "Example")[
   - Your sister is _a real beauty._
 ]
 
