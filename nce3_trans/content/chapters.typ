@@ -184,7 +184,7 @@ In winter, however, life at the monastery is quite different. The temperature dr
 During this season, the exclusive visitors to the monastery consist of skiing parties attracted by the mountain's *serene ambiance*, who are warmly welcomed at St. Bernard during the festival periods of Christmas and Easter.
 ]
 
-#tip-box(title: "Tip")[
+#tip-block(title: "Tip")[
     全是长句会非常令人窒息，要注意长短结合，长句中间搭配相应的短句。这里只是用作练习。
 ]
 
@@ -225,7 +225,7 @@ In the months of summer, the monastery was busy, for thousands of people drived 
 
 Recently, New York Animal Medical Center have studied 132 cats for 5 months. All this cats share the same experience#strike[ falling from the high] #underline[: they had fallen off the high], #strike[but] #underline[yet] only eight of them died #strike[for .. or injured] #underline[from shock or injuries]. Of course, it's ideal to do such an interesting research in New York #strike[where] #underline[which] is no lack#underline[/shortage] of #strike[high] #underline[tall] buildings#strike[ and windows] #underline[. There are plenty of *high-rise windowsills*] to fall from. #strike[A cat named Sabray] #underline[One cat, Sabrina, ] had once fell from #strike[the 32th floor] #underline[32 storeys], #underline[yet] only #strike[making one tooth broken] #underline[suffered fromm a broken tooth]. "Cats #strike[are just like trained ...] #underline[behave like well-trained *paratroopers,*]" said a doctor. It seems that the #strike[farer] #underline[further] the cats fall , #strike[the less possibility they get hurt] #underline[the less they are likely to injure themselves]. #strike[In the long process of falling] #underline[In a long drop], they can reach the speed of 60 miles #strike[per] #underline[an] hour or even #strike[faster] #underline[more]. When falling at a high speed, cats have time to relax themselves, streching their #strike[ends] #underline[legs] like a flying squrrel, which #strike[adds] #underline[increases] the #strike[air-force] #underline[air-resistance] and alleviate the #underline[shock of impact] when they #strike[arrive] #underline[hit] the ground.
 
-#tip-box(title: "Tip")[
+#tip-block(title: "Tip")[
     - 想使用are, is之类的be动词的时候想想有没有其他的系动词可以表达更精确的意思。
 ]
 
@@ -368,7 +368,7 @@ After Mrs. Richard's husband going for work, she sent her children to school and
 
 Once she was into the dining room, there was a knock #strike[from] #underline[on] the front door. She knew the person must be the baker, who she had told if she failed to open the door, just went straight in and put the bread on the kitchen table. #strike[Mrs Richard didn't want to terrify this poor guy] #underline[No wanting to frighten this poor guy], #strike[so] she quickly #strike[hid] #underline[went hiding] into the small store room under the stairs. Hearing the front door #strike[opened] #underline[open], heavy steps in the corridor, suddenly the store room's door was opened and a man came in. It occurred to Mrs Richard it must be the one who was appointed by the #strike[Electrical] #underline[Electricity] Company to read the #strike[metres]#underline[metre]. She uttered, "It's only me, don't be afraid." #strike[And then she want to] #underline[, trying to] give a explanation but it had been late. The man let out a shout and stepped back a few #strike[steps] #underline[paces] in a horror. Mrs Richard walked towards him, only saw him flee, slamming the door and running away.
 
-#tip-box(title: "Tip")[
+#tip-block(title: "Tip")[
     - hear the door open: 这里的open是动词不定式省略to。
     - 如果是hear the door opened, 正确的语法应该是hear the door being opened, 但是一般不这么用。
 ]
